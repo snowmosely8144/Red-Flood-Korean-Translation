@@ -1,0 +1,72 @@
+﻿l_english:
+#COUNTRY NAME#
+FIU_vanguard_socialism:0 "Fiume Free Commune"
+FIU_vanguard_socialism_DEF:0 "Fiume Free Commune"
+FIU_vanguard_socialism_ADJ:0 "Fiumean"
+
+FIU_libertarian_marxism:0 "Fiume Free Commune"
+FIU_libertarian_marxism_DEF:0 "Fiume Free Commune"
+FIU_libertarian_marxism_ADJ:0 "Fiumean"
+
+FIU_revolutionary_anarchism:0 "Fiume Free Commune"
+FIU_revolutionary_anarchism_DEF:0 "Fiume Free Commune"
+FIU_revolutionary_anarchism_ADJ:0 "Fiumean"
+
+FIU_revisionist_socialism:0 "Fiume Free State"
+FIU_revisionist_socialism_DEF:0 "Fiume Free State"
+FIU_revisionist_socialism_ADJ:0 "Italian"
+
+FIU_social_democratism:0 "Provisional Government of Fiume"
+FIU_social_democratism_DEF:0 "Provisional Government of Fiume"
+FIU_social_democratism_ADJ:0 "Fiumean"
+
+FIU_placeholderism:0 "Provisional Government of Fiume"
+FIU_placeholderism_DEF:0 "Provisional Government of Fiume"
+FIU_placeholderism_ADJ:0 "Fiumean"
+
+FIU_liberalism:0 "Provisional Government of Fiume"
+FIU_liberalism_DEF:0 "Provisional Government of Fiume"
+FIU_liberalism_ADJ:0 "Fiumean"
+
+FIU_conservatism:0 "Provisional Government of Fiume"
+FIU_conservatism_DEF:0 "Provisional Government of Fiume"
+FIU_conservatism_ADJ:0 "Fiumean"
+
+FIU_right_authoritarianism:0 "Provisional Government of Fiume"
+FIU_right_authoritarianism_DEF:0 "Provisional Government of Fiume"
+FIU_right_authoritarianism_ADJ:0 "Fiumean"
+
+FIU_despotism:0 "Provisional Government of Fiume"
+FIU_despotism_DEF:0 "Provisional Government of Fiume"
+FIU_despotism_ADJ:0 "Fiumean"
+
+FIU_reactionism:0 "Fiume"
+FIU_reactionism_DEF:0 "Fiume"
+FIU_reactionism_ADJ:0 "Fiumean"
+
+FIU_accelerationism:0 "Fiume"
+FIU_accelerationism_DEF:0 "Fiume"
+FIU_accelerationism_ADJ:0 "Fiumean"
+#PARTIES#
+FIU_vanguard_socialism_party:0 "PVF"
+FIU_libertarian_marxism_party:0 "PVF"
+FIU_revolutionary_anarchism_party:0 "UAD"
+FIU_revisionist_socialism_party:0 "PVF"
+FIU_social_democratism_party:0 "SDF"
+FIU_placeholderism_party:0 "PLD"
+FIU_liberalism_party:0 "PLI"
+FIU_conservatism_party:0 "PPI"
+FIU_right_authoritarianism_party:0 "Emergency Military Administration"
+FIU_reactionism_party:0 "Emergency Military Administration"
+FIU_accelerationism_party:0 "Concilio Degli Otimi"
+FIU_vanguard_socialism_party_long:0 "Partito Vanguardista Fiume"
+FIU_libertarian_marxism_party_long:0 "Partito Vanguardista Fiume"
+FIU_revisionist_socialism_party_long:0 "Partito Vanguardista Fiume"
+FIU_social_democratism_party_long:0 "Social-Democratico Fiume"
+FIU_placeholderism_party_long:0 "Partito Liberale Democratico"
+FIU_liberalism_party_long:0 "Partito Liberale Italiano"
+FIU_conservatism_party_long:0 "Partito Popolare Italiano"
+FIU_right_authoritarianism_party_long:0 "Emergency Military Administration"
+FIU_despotism_party_long:0 "Emergency Military Administration"
+FIU_reactionism_party_long:0 "Emergency Military Administration"
+FIU_accelerationism_party_long:0 "Concilio Degli Otimi"

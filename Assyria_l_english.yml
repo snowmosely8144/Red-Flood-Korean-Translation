@@ -1,0 +1,81 @@
+﻿l_english:
+#COUNTRY NAME#
+ASY_vanguard_socialism:0 "Assyria"
+ASY_vanguard_socialism_DEF:0 "Assyria"
+ASY_vanguard_socialism_ADJ:0 "Assyrian"
+
+ASY_libertarian_marxism:0 "Assyria"
+ASY_libertarian_marxism_DEF:0 "Assyria"
+ASY_libertarian_marxism_ADJ:0 "Assyrian"
+
+ASY_revolutionary_anarchism:0 "Assyria"
+ASY_revolutionary_anarchism_DEF:0 "Assyria"
+ASY_revolutionary_anarchism_ADJ:0 "Assyrian"
+
+ASY_revisionist_socialism:0 "Assyria"
+ASY_revisionist_socialism_DEF:0 "Assyria"
+ASY_revisionist_socialism_ADJ:0 "Assyrian"
+
+ASY_social_democratism:0 "Assyria"
+ASY_social_democratism_DEF:0 "Assyria"
+ASY_social_democratism_ADJ:0 "Assyrian"
+
+ASY_placeholderism:0 "Assyria"
+ASY_placeholderism_DEF:0 "Assyria"
+ASY_placeholderism_ADJ:0 "Assyrian"
+
+ASY_liberalism:0 "Assyria"
+ASY_liberalism_DEF:0 "Assyria"
+ASY_liberalism_ADJ:0 "Assyrian"
+
+ASY_conservatism:0 "Assyria"
+ASY_conservatism_DEF:0 "Assyria"
+ASY_conservatism_ADJ:0 "Assyrian"
+
+ASY_right_authoritarianism:0 "Assyria"
+ASY_right_authoritarianism_DEF:0 "Assyria"
+ASY_right_authoritarianism_ADJ:0 "Assyrian"
+
+ASY_despotism:0 "Assyria"
+ASY_despotism_DEF:0 "Assyria"
+ASY_despotism_ADJ:0 "Assyrian"
+
+ASY_reactionism:0 "Assyria"
+ASY_reactionism_DEF:0 "Assyria"
+ASY_reactionism_ADJ:0 "Assyrian"
+
+ASY_accelerationism:0 "Assyria"
+ASY_accelerationism_DEF:0 "Assyria"
+ASY_accelerationism_ADJ:0 "Assyrian"
+#PARTIES#
+ASY_vanguard_socialism_party:0 "GSA"
+ASY_libertarian_marxism_party:0 "GSA"
+ASY_revolutionary_anarchism_party:0 "GSA"
+ASY_revisionist_socialism_party:0 "GSA"
+ASY_social_democratism_party:0 "GSA"
+ASY_liberalism_party:0 "GAD"
+ASY_conservatism_party:0 "GAD"
+ASY_right_authoritarianism_party:0 "ASV"
+ASY_despotism_party:0 "EQQMA"
+ASY_reactionism_party:0 "EQQMA"
+ASY_accelerationism_party:0 "SRA"
+ASY_vanguard_socialism_party_long:0 "Gaba Shawtapaya Atouraya"
+ASY_libertarian_marxism_party_long:0 "Gaba Shawtapaya Atouraya"
+ASY_revolutionary_anarchism_party_long:0 "Gaba Shawtapaya Atouraya"
+ASY_revisionist_socialism_party_long:0 "Gaba Shawtapaya Atouraya"
+ASY_social_democratism_party_long:0 "Gaba Shawtapaya Atouraya"
+ASY_liberalism_party_long:0 "Gaba Aturaya Demoqrataya"
+ASY_conservatism_party_long:0 "Gaba Aturaya Demoqrataya"
+ASY_right_authoritarianism_party_long:0 "Assiriyskiy Soyuz Veteranov"
+ASY_despotism_party_long:0 "Edta Qaddista wa-slihaita Qatoliqi d-Madenha d-Atoraye"
+ASY_reactionism_party_long:0 "Edta Qaddista wa-slihaita Qatoliqi d-Madenha d-Atoraye"
+ASY_accelerationism_party_long:0 "Soyuz Russkikh Assiriytsev"
+#LEADER DESCRITIONS#
+#IDEAS#
+veterans_of_the_caucasian_voluntary_army:0 "Veterans of the Caucasian Voluntary Army"
+veterans_of_the_caucasian_voluntary_army_desc:0 "Yudenich's Caucasian Volunteer Army worked closely with pro-Russian assyrian leaders. After its fall, the remnants of the army retreated to Assyria. They had an important influence in the formation of the army of our principality. However, many former members didn't calm down after all these years and calling for a new campaign against the transcaucasian socialists. It can create problems in the future for our principality if we don't take measures to contain them."
+Domination_of_the_Assyrian_Church_of_the_East:0 "Domination of the AssyrianChurch of the East"
+Domination_of_the_Assyrian_Church_of_the_East_desc:0 "The patriarchs of the Assyrian Church of the East have been the leaders of our people for many centuries. However, their leading role in our young state discontents believers of other religions and supporters of the proclamation of the republic."
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

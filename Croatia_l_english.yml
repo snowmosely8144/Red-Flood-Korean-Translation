@@ -1,0 +1,72 @@
+﻿l_english:
+#COUNTRY NAME#
+CRO_vanguard_socialism:0 "People's State of Croatia"
+CRO_vanguard_socialism_DEF:0 "Croatia"
+CRO_vanguard_socialism_ADJ:0 "Croatian"
+
+CRO_libertarian_marxism:0 "People's State of Croatia"
+CRO_libertarian_marxism_DEF:0 "Croatia"
+CRO_libertarian_marxism_ADJ:0 "Croatian"
+
+CRO_revolutionary_anarchism:0 "People's State of Croatia"
+CRO_revolutionary_anarchism_DEF:0 "Croatia"
+CRO_revolutionary_anarchism_ADJ:0 "Croatian"
+
+CRO_revisionist_socialism:0 "People's State of Croatia"
+CRO_revisionist_socialism_DEF:0 "Croatia"
+CRO_revisionist_socialism_ADJ:0 "Croatian"
+
+CRO_social_democratism:0 "Croatia"
+CRO_social_democratism_DEF:0 "Croatia"
+CRO_social_democratism_ADJ:0 "Croatian"
+
+CRO_placeholderism:0 "Croatia"
+CRO_placeholderism_DEF:0 "Croatia"
+CRO_placeholderism_ADJ:0 "Croatian"
+
+CRO_liberalism:0 "Croatia"
+CRO_liberalism_DEF:0 "Croatia"
+CRO_liberalism_ADJ:0 "Croatian"
+
+CRO_conservatism:0 "Croatia"
+CRO_conservatism_DEF:0 "Croatia"
+CRO_conservatism_ADJ:0 "Croatian"
+
+CRO_right_authoritarianism:0 "Croatia"
+CRO_right_authoritarianism_DEF:0 "Croatia"
+CRO_right_authoritarianism_ADJ:0 "Croatian"
+
+CRO_despotism:0 "Croatia"
+CRO_despotism_DEF:0 "Croatia"
+CRO_despotism_ADJ:0 "Croatian"
+
+CRO_reactionism:0 "Croatia"
+CRO_reactionism_DEF:0 "Croatia"
+CRO_reactionism_ADJ:0 "Croatian"
+
+CRO_accelerationism:0 "Croatia"
+CRO_accelerationism_DEF:0 "Croatia"
+CRO_accelerationism_ADJ:0 "Croatian"
+#PARTIES#
+CRO_vanguard_socialism_party_long:0 "Hrvatski Revolucionarni Pokret-Ustaše"
+CRO_vanguard_socialism_party:0 "HRP-Ustaše"
+CRO_libertarian_marxism_party_long:0 "Komunistička Partija Hrvatske"
+CRO_libertarian_marxism_party:0 "KPH"
+CRO_revolutionary_anarchism_party_long:0 "Savez Anarhista Hrvatske"
+CRO_revolutionary_anarchism_party:0 "SAH"
+CRO_revisionist_socialism_party_long:0 "Socijaldemokratska radnička stranka Hrvatske"
+CRO_revisionist_socialism_party:0 "SrsH"
+CRO_social_democratism_party_long:0 "Socijaldemokratska stranka Hrvatske"
+CRO_social_democratism_party_long:0 "SsH"
+CRO_liberalism_party:0 "Narodna Stranka"
+CRO_conservatism_party:0 "Hrvatska Pučka Partija"
+CRO_right_authoritarianism_party:0 "Hrvatska Pučka Stranka"
+CRO_despotism_party:0 "Hrvatski Blok"
+CRO_reactionism_party_long:0 "Nacionalni Savez Hrvatske"
+CRO_reactionism_party:0 "NSH"
+CRO_accelerationism_party_long:0 "Hrvatska Avantgarda"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
