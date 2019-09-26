@@ -1,0 +1,86 @@
+﻿l_english:
+#COUNTRY NAME#
+VOL_vanguard_socialism:0 "Suid-Afrikaanse Republiek"
+VOL_vanguard_socialism_DEF:0 "Suid-Afrikaanse Republiek"
+VOL_vanguard_socialism_ADJ:0 "Suid Afrikaans"
+
+VOL_libertarian_marxism:0 "South African Republic"
+VOL_libertarian_marxism_DEF:0 "South African Republic"
+VOL_libertarian_marxism_ADJ:0 "South African"
+
+VOL_revolutionary_anarchism:0 "South African Republic"
+VOL_revolutionary_anarchism_DEF:0 "South African Republic"
+VOL_revolutionary_anarchism_ADJ:0 "South African"
+
+VOL_revisionist_socialism:0 "South Africa"
+VOL_revisionist_socialism_DEF:0 "South Africa"
+VOL_revisionist_socialism_ADJ:0 "South African"
+
+VOL_social_democratism:0 "South Africa"
+VOL_social_democratism_DEF:0 "South Africa"
+VOL_social_democratism_ADJ:0 "South African"
+
+VOL_placeholderism:0 "South Africa"
+VOL_placeholderism_DEF:0 "South Africa"
+VOL_placeholderism_ADJ:0 "South African"
+
+VOL_liberalism:0 "South Africa"
+VOL_liberalism_DEF:0 "South Africa"
+VOL_liberalism_ADJ:0 "South African"
+
+VOL_conservatism:0 "South Africa"
+VOL_conservatism_DEF:0 "South Africa"
+VOL_conservatism_ADJ:0 "South African"
+
+VOL_right_authoritarianism:0 "Suid-Afrika"
+VOL_right_authoritarianism_DEF:0 "Suid-Afrika"
+VOL_right_authoritarianism_ADJ:0 "Suid Afrikaans"
+
+VOL_despotism:0 "Bantu Confederation"
+VOL_despotism_DEF:0 "Bantu Confederation"
+VOL_despotism_ADJ:0 "Bantu"
+
+VOL_reactionism:0 "Iningizimu Afrika"
+VOL_reactionism_DEF:0 "Iningizimu Afrika"
+VOL_reactionism_ADJ:0 "ENingizimu Afrika"
+
+VOL_accelerationism:0 "South Africa"
+VOL_accelerationism_DEF:0 "South Africa"
+VOL_accelerationism_ADJ:0 "South African"
+#PARTIES#
+VOL_vanguard_socialism_party:0 "SACP"
+VOL_libertarian_marxism_party:0 "BPP"
+VOL_revolutionary_anarchism_party:0 "ISL"
+VOL_revisionist_socialism_party:0 "NLP"
+VOL_social_democratism_party:0 "Labour"
+VOL_liberalism_party:0 "National"
+VOL_conservatism_party:0 "SAP"
+VOL_right_authoritarianism_party:0 "AFR"
+VOL_despotism_party:0 "Bantu Clique"
+VOL_reactionism_party:0 "SANC"
+VOL_accelerationism_party:0 "NC"
+VOL_vanguard_socialism_party_long:0 "South African Communist Party (Both)"
+VOL_libertarian_marxism_party_long:0 "Black Peoples Party (Banned)"
+VOL_revolutionary_anarchism_party_long:0 "International Socialist League (Banned)"
+VOL_revisionist_socialism_party_long:0 "New Labour Party (Anti-Apartheid)"
+VOL_social_democratism_party_long:0 "Labour Party (White only)"
+VOL_liberalism_party_long:0 "National Party (White only)"
+VOL_conservatism_party_long:0 "South African Party (White only)"
+VOL_right_authoritarianism_party_long:0 "Afrikaner Party (White only)"
+VOL_despotism_party_long:0 "Bantu Clique (Banned)"
+VOL_reactionism_party_long:0 "South African Native Congress (Banned)"
+VOL_accelerationism_party_long:0 "National Convention (White only)"
+#LEADER DESCRITIONS#
+politics_george_villiers_desc:0 "George Villiers, 6th Earl of Clarendon, has served loyally as Governor-General of the Union of South Africa since 1931 however he has never been interested in the politics of South Africa opting to maintain neutrality and filling his time with hunting and outdoor activities in the wilds of the African Dominion.
+politics_Nicolaas_Havenga_desc:0 "."
+Portrait_Yusuf_Dadoo_desc:0 "."
+politics_Zacharias_Mahabane_desc:0 "."
+politics_Moses_Kotane_desc:0 "."
+politics_Edward_Roux_desc:0 "."
+politics_Clements_Kadalie_desc:0 "."
+politics_portrait_Sobhuza_II_desc:0 "."
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+

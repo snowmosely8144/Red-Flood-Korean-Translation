@@ -1,0 +1,68 @@
+﻿l_english:
+#COUNTRY NAME#
+PNJ_vanguard_socialism:0 "Punjab"
+PNJ_vanguard_socialism_DEF:0 "Punjab"
+PNJ_vanguard_socialism_ADJ:0 "Punjabi"
+
+PNJ_libertarian_marxism:0 "Punjab"
+PNJ_libertarian_marxism_DEF:0 "Punjab"
+PNJ_libertarian_marxism_ADJ:0 "Punjabi"
+
+PNJ_revolutionary_anarchism:0 "Punjab"
+PNJ_revolutionary_anarchism_DEF:0 "Punjab"
+PNJ_revolutionary_anarchism_ADJ:0 "Punjabi"
+
+PNJ_revisionist_socialism:0 "Punjab"
+PNJ_revisionist_socialism_DEF:0 "Punjab"
+PNJ_revisionist_socialism_ADJ:0 "Punjabi"
+
+PNJ_social_democratism:0 "Punjab"
+PNJ_social_democratism_DEF:0 "Punjab"
+PNJ_social_democratism_ADJ:0 "Punjabi"
+
+PNJ_placeholderism:0 "Punjab"
+PNJ_placeholderism_DEF:0 "Punjab"
+PNJ_placeholderism_ADJ:0 "Punjabi"
+
+PNJ_liberalism:0 "Punjab"
+PNJ_liberalism_DEF:0 "Punjab"
+PNJ_liberalism_ADJ:0 "Punjabi"
+
+PNJ_conservatism:0 "Punjab"
+PNJ_conservatism_DEF:0 "Punjab"
+PNJ_conservatism_ADJ:0 "Punjabi"
+
+PNJ_right_authoritarianism:0 "Punjab"
+PNJ_right_authoritarianism_DEF:0 "Punjab"
+PNJ_right_authoritarianism_ADJ:0 "Punjabi"
+
+PNJ_despotism:0 "Punjab"
+PNJ_despotism_DEF:0 "Punjab"
+PNJ_despotism_ADJ:0 "Punjabi"
+
+PNJ_reactionism:0 "Punjab"
+PNJ_reactionism_DEF:0 "Punjab"
+PNJ_reactionism_ADJ:0 "Punjabi"
+
+PNJ_accelerationism:0 "Punjab"
+PNJ_accelerationism_DEF:0 "Punjab"
+PNJ_accelerationism_ADJ:0 "Punjabi"
+#PARTIES#
+PNJ_vanguard_socialism_party:0 "Punjabi Socialist Republican Association"
+PNJ_libertarian_marxism_party:0 "Punjabi Workers Party"
+PNJ_revolutionary_anarchism_party:0 "Anarchist Factions"
+PNJ_revisionist_socialism_party:0 "Agrarianism Factions"
+PNJ_social_democratism_party:0 "National Progressive Party"
+PNJ_liberalism_party:0 "Sikh Liberal Party"
+PNJ_conservatism_party:0 "Unionist Party"
+PNJ_right_authoritarianism_party:0 "Shiromani Akali Dal"
+PNJ_despotism_party:0 "Military Junta Support"
+PNJ_reactionism_party:0 "Sikh Purification Association"
+PNJ_accelerationism_party:0 "National Rejuvenation Party"
+#LEADER DESCRITIONS#
+POLITICS_Sikandar_Hayat_Khan_DESC:0 "Sir Sikandar Hayat Khan the previous governor and now prime minister of the small Sikh democracy in punjab. Having originally served in the British Indian army in the Great War and then the third Anglo Afghan war. After this he turned to business becoming a major figure in many companies. This with his political positions put him in the correct position at the right time to take control of the British collapse in Punjab and restore a independent Sikh state in the Indian subcontinent. As leader of the Unionist party, Sikander wants to retain the status quo that he has currently created and restore ties with the British Empire acting as one of the few friends it still has on the continent. However Sikanders main aim is to preserve a independent Sikh state and he will do everything in his power to acheive this."
+
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

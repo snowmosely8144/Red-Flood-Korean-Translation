@@ -1,0 +1,66 @@
+﻿l_english:
+#COUNTRY NAME#
+POR_vanguard_socialism:0 "Portugal"
+POR_vanguard_socialism_DEF:0 "Portugal"
+POR_vanguard_socialism_ADJ:0 "Portuguese"
+
+POR_libertarian_marxism:0 "Portugal"
+POR_libertarian_marxism_DEF:0 "Portugal"
+POR_libertarian_marxism_ADJ:0 "Portuguese"
+
+POR_revolutionary_anarchism:0 "Portugal"
+POR_revolutionary_anarchism_DEF:0 "Portugal"
+POR_revolutionary_anarchism_ADJ:0 "Portuguese"
+
+POR_revisionist_socialism:0 "Portugal"
+POR_revisionist_socialism_DEF:0 "Portugal"
+POR_revisionist_socialism_ADJ:0 "Portuguese"
+
+POR_social_democratism:0 "Portugal"
+POR_social_democratism_DEF:0 "Portugal"
+POR_social_democratism_ADJ:0 "Portuguese"
+
+POR_placeholderism:0 "Portugal"
+POR_placeholderism_DEF:0 "Portugal"
+POR_placeholderism_ADJ:0 "Portuguese"
+
+POR_liberalism:0 "Portugal"
+POR_liberalism_DEF:0 "Portugal"
+POR_liberalism_ADJ:0 "Portuguese"
+
+POR_conservatism:0 "Portugal"
+POR_conservatism_DEF:0 "Portugal"
+POR_conservatism_ADJ:0 "Portuguese"
+
+POR_right_authoritarianism:0 "Portugal"
+POR_right_authoritarianism_DEF:0 "Portugal"
+POR_right_authoritarianism_ADJ:0 "Portuguese"
+
+POR_despotism:0 "Portugal"
+POR_despotism_DEF:0 "Portugal"
+POR_despotism_ADJ:0 "Portuguese"
+
+POR_reactionism:0 "Portugal"
+POR_reactionism_DEF:0 "Portugal"
+POR_reactionism_ADJ:0 "Portuguese"
+
+POR_accelerationism:0 "Portugal"
+POR_accelerationism_DEF:0 "Portugal"
+POR_accelerationism_ADJ:0 "Portuguese"
+#PARTIES#
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#EVENTS#
+portugal.0.t:0 "President Bragança-Coburgo has been wounded!"
+portugal.0.d:0 "In order to reach out to the common man, President Bragança has been traveling around Portugal. With his young son, Jorge, affectionately nicknamed Joca, and his wife, Augusta Victoria, he had intended to travel from Lisbon to Porto to Faro holding speeches and talking with the citizens about what could be done to improve the nation. Early morning today, Manuel was attending a parade outside Bonfim Park in Setúbal when an unknown assailant threw a bomb into a crowd of spectators of which Manuel and his family were a part. It is unknown if the assailant was specifically targeting the President-King or if it was mere happenstance, as the attacker still remains at large. His family remains in stable condition, but it is Manuel that doctors are concerned about..."
+portugal.0.a:0 "No son should grow up without his father..."
+portugal.0.b:0 "We knew we had nothing to worry about!"
+portugal.1.t:0 "Elections of 1936"
+portugal.1.d:0 "It's election day in Portugal! With four main candidates in the race, experts think it could go any way. Óscar Carmona of the Nationalist Republican Party has the support of many conservatives. Manuel Teixeira Gomes, an independent, has the support of much of the lower class. António Granjo and the Republican Liberal Party are popular among the centrists, but with the announcement of Manuel Bragança-Coburgo's running for president, no candidate can rely on their expected voter base. That said, the results have just come in and it's time to welcome our new president..."
+portugal.1.a:0 "Manuel Teixeira Gomes!"
+portugal.1.b:0 "Óscar Carmona!"
+portugal.1.c:0 "Manuel II?!"
+portugal.1.e:0 "António Granjo"
+#FOCUSES#

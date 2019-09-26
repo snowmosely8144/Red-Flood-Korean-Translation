@@ -1,0 +1,83 @@
+﻿l_english:
+#Zheltorossiya NAME#
+ZHR_vanguard_socialism:0 "Zheltorossiya"
+ZHR_vanguard_socialism_DEF:0 "The Russian Republic"
+ZHR_vanguard_socialism_ADJ:0 "Zheltorossiyan"
+
+
+ZHR_libertarian_marxism:0 "Zheltorossiya"
+ZHR_libertarian_marxism_DEF:0 "The Russian Republic"
+ZHR_libertarian_marxism_ADJ:0 "Zheltorossiyan"
+
+ZHR_revolutionary_anarchism:0 "Zheltorossiya"
+ZHR_revolutionary_anarchism_DEF:0 "The Russian Republic"
+ZHR_revolutionary_anarchism_ADJ:0 "Zheltorossiyan"
+
+ZHR_revisionist_socialism:0 "Zheltorossiya"
+ZHR_revisionist_socialism_DEF:0 "The Russian Republic"
+ZHR_revisionist_socialism_ADJ:0 "Zheltorossiyan"
+
+ZHR_social_democratism:0 "Zheltorossiya"
+ZHR_social_democratism_DEF:0 "The Russian Republic"
+ZHR_social_democratism_ADJ:0 "Zheltorossiyan"
+
+ZHR_placeholderism:0 "Zheltorossiya"
+ZHR_placeholderism_DEF:0 "The Russian Republic"
+ZHR_placeholderism_ADJ:0 "Zheltorossiyan"
+
+ZHR_liberalism:0 "Zheltorossiya"
+ZHR_liberalism_DEF:0 "The Russian Republic"
+ZHR_liberalism_ADJ:0 "Zheltorossiyan"
+
+ZHR_conservatism:0 "Zheltorossiya"
+ZHR_conservatism_DEF:0 "The Russian Republic"
+ZHR_conservatism_ADJ:0 "Zheltorossiyan"
+
+ZHR_right_authoritarianism:0 "Zheltorossiya"
+ZHR_right_authoritarianism_DEF:0 "Zheltorossiya"
+ZHR_right_authoritarianism_ADJ:0 "Zheltorossiyan"
+
+ZHR_despotism:0 "Zheltorossiya"
+ZHR_despotism_DEF:0 "Zheltorossiya"
+ZHR_despotism_ADJ:0 "Zheltorossiyan"
+
+ZHR_reactionism:0 "Zheltorossiya"
+ZHR_reactionism_DEF:0 "Zheltorossiya"
+ZHR_reactionism_ADJ:0 "Zheltorossiyan"
+
+ZHR_accelerationism:0 "Zheltorossiya"
+ZHR_accelerationism_DEF:0 "Zheltorossiya"
+ZHR_accelerationism_ADJ:0 "Zheltorossiyan"
+#PARTIES#
+ZHR_vanguard_socialism_party:0 "RSDRP(Trotsyists)"
+ZHR_libertarian_marxism_party:0 "RSDRP(Centre)"
+ZHR_revolutionary_anarchism_party:0 "OLN"
+ZHR_revisionist_socialism_party:0 "PSR/RSDRP(Danists)"
+ZHR_social_democratism_party:0 "TNSP"
+ZHR_liberalism_party:0 "Kadets"
+ZHR_conservatism_party:0 "NDS"
+ZHR_right_authoritarianism_party:0 "Bandits"
+ZHR_despotism_party:0 "Monarchists"
+ZHR_reactionism_party:0 "Monarchists"
+ZHR_accelerationism_party:0 "Eurasianists"
+ZHR_vanguard_socialism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya(Storonniki Trotskogo)"
+ZHR_libertarian_marxism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya(Tsentr)"
+ZHR_revolutionary_anarchism_party_long:0 "Obyedineniye Levogo Narodnichestva"
+ZHR_revisionist_socialism_party_long:0 "Rossiyskaya Sotsial-Demokraticheskaya Rabochaya Partiya(Storonniki Dana)/Partiya Sotsialistov-Revolyutsionerov"
+ZHR_social_democratism_party_long:0 "Trudovaya Narodno-Sotsialisticheskaya Partiya"
+ZHR_liberalism_party_long:0 "Konstitutsionno-Demokraticheskaya Partiya Narodnoy Svobody"
+ZHR_conservatism_party_long:0 "Narodno-Demokraticheskiy Soyuz"
+ZHR_right_authoritarianism_party_long:0 "Bandity"
+ZHR_despotism_party_long:0 "Monarchistkiye Gruppy"
+ZHR_reactionism_party_long:0 "Monarkhistkiye Gruppy"
+ZHR_accelerationism_party_long:0 "Yevraziyskaya Partiya"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+
+#EVENTS#
+ZHR.1.t:0 "The Liquidator"
+ZHR.1.desc:0 "Recently, the People’s Committee for Entertainment produced a hit motion picture for The One State, to be shown in every factory. \n\nThe motion picture, called \"The Liquidator\", is set in a far future where capitalist reaction still lingers in America. The reationaries attempt to destroy the glorious, mechanised One State that fully embraced Comrade Gastev’s idea of mechanical, automatic socialism, where workers no longer trouble themselves administrating the country leaving it to machines. In the motion picture, Anglo-American reaction tries everything to stop the people’s mechanisation of the world, even inventing time machines to kill Comrade Gastev. However, the One State sends a brave mechanical son of The State to save the Soviet Utopia. \n\nThe Liquidator, a robot made using the brain of a heroic fallen Soviet soldier, hunts down the agents of international capitalism, sacrificing himself in the climax of the tale, achieving the final victory.\n\nThe motion picture ends with the One State beginning to travel to the stars, facing the new danger of extraterrestrial life."
+ZHR.1.a:0 "A bright look into the Future."

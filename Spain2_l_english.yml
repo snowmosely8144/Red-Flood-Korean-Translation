@@ -1,0 +1,57 @@
+﻿l_english:
+#COUNTRY NAME#
+SPA_vanguard_socialism:0 "Spain"
+SPA_vanguard_socialism_DEF:0 "Spain"
+SPA_vanguard_socialism_ADJ:0 "Spanish"
+
+SPA_libertarian_marxism:0 "Spain"
+SPA_libertarian_marxism_DEF:0 "Spain"
+SPA_libertarian_marxism_ADJ:0 "Spanish"
+
+SPA_revolutionary_anarchism:0 "Spain"
+SPA_revolutionary_anarchism_DEF:0 "Spain"
+SPA_revolutionary_anarchism_ADJ:0 "Spanish"
+
+SPA_revisionist_socialism:0 "Spain"
+SPA_revisionist_socialism_DEF:0 "Spain"
+SPA_revisionist_socialism_ADJ:0 "Spanish"
+
+SPA_social_democratism:0 "Spain"
+SPA_social_democratism_DEF:0 "Spain"
+SPA_social_democratism_ADJ:0 "Spanish"
+
+SPA_placeholderism:0 "Spain"
+SPA_placeholderism_DEF:0 "Spain"
+SPA_placeholderism_ADJ:0 "Spanish"
+
+SPA_liberalism:0 "Spain"
+SPA_liberalism_DEF:0 "Spain"
+SPA_liberalism_ADJ:0 "Spanish"
+
+SPA_conservatism:0 "Spain"
+SPA_conservatism_DEF:0 "Spain"
+SPA_conservatism_ADJ:0 "Spanish"
+
+SPA_right_authoritarianism:0 "Spanish State"
+SPA_right_authoritarianism_DEF:0 "the Spanish State"
+SPA_right_authoritarianism_ADJ:0 "Spanish"
+
+SPA_reactionism:0 "Spanish State"
+SPA_reactionism_DEF:0 "the Spanish State"
+SPA_reactionism_ADJ:0 "Spanish"
+
+SPA_despotism:0 "Spain"
+SPA_despotism_DEF:0 "Spain"
+SPA_despotism_ADJ:0 "Spanish"
+
+SPA_accelerationism:0 "Spanish State"
+SPA_accelerationism_DEF:0 "the Spanish State"
+SPA_accelerationism_ADJ:0 "Spanish"
+#PARTIES#
+SPA_accelerationism_party:0 "FG"
+SPA_accelerationism_party_long:0 "fiesta de los generales"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

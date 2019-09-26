@@ -1,0 +1,82 @@
+﻿l_english:
+#COUNTRY NAME#
+UGD_vanguard_socialism:0 "Uganda"
+UGD_vanguard_socialism_DEF:0 "Uganda"
+UGD_vanguard_socialism_ADJ:0 "Ugandan"
+
+UGD_libertarian_marxism:0 "Ugandan Commune"
+UGD_libertarian_marxism_DEF:0 "The Ugandan Commune"
+UGD_libertarian_marxism_ADJ:0 "Ugandan"
+
+UGD_revolutionary_anarchism:0 "Uganda"
+UGD_revolutionary_anarchism_DEF:0 "Uganda"
+UGD_revolutionary_anarchism_ADJ:0 "Ugandan"
+
+UGD_revisionist_socialism:0 "Uganda"
+UGD_revisionist_socialism_DEF:0 "Uganda"
+UGD_revisionist_socialism_ADJ:0 "Ugandan"
+
+UGD_social_democratism:0 "Uganda"
+UGD_social_democratism_DEF:0 "Uganda"
+UGD_social_democratism_ADJ:0 "Ugandan"
+
+UGD_placeholderism:0 "Uganda"
+UGD_placeholderism_DEF:0 "Uganda"
+UGD_placeholderism_ADJ:0 "Ugandan"
+
+UGD_liberalism:0 "Uganda"
+UGD_liberalism_DEF:0 "Uganda"
+UGD_liberalism_ADJ:0 "Ugandan"
+
+UGD_conservatism:0 "Uganda"
+UGD_conservatism_DEF:0 "Uganda"
+UGD_conservatism_ADJ:0 "Ugandan"
+
+UGD_right_authoritarianism:0 "Uganda"
+UGD_right_authoritarianism_DEF:0 "Uganda"
+UGD_right_authoritarianism_ADJ:0 "Ugandan"
+
+UGD_despotism:0 "Uganda"
+UGD_despotism_DEF:0 "Uganda"
+UGD_despotism_ADJ:0 "Ugandan"
+
+UGD_reactionism:0 "Uganda"
+UGD_reactionism_DEF:0 "Uganda"
+UGD_reactionism_ADJ:0 "Ugandan"
+
+UGD_accelerationism:0 "Uganda"
+UGD_accelerationism_DEF:0 "Uganda"
+UGD_accelerationism_ADJ:0 "Ugandan"
+#PARTIES#
+#LEADER DESCRITIONS#
+#IDEAS#
+UGD_guerilla_warfare:0 "Guerilla Warfare"
+UGD_guerilla_warfare_desc:0 ""
+#CUSTOM TOOLTIPS AND FLAGS#
+UGD_east_africa_libertarian_marxism:0 "East African People's Republic"
+UGD_east_africa_libertarian_marxism_DEF:0 "the East African People's Republic"
+UGD_east_africa_libertarian_marxism_ADJ:0 "East African"
+
+#DECISIONS (1.5 Update)#
+#FOCUSES#
+#EVENTS#
+uganda.1.t:0 "Marxist rebels in Uganda"
+uganda.1.desc:0 ""
+uganda.1.a:0 "We must crush these rebels."
+uganda.1.b:0 "Africa will be free!(Play as Uganda)"
+uganda.2.t:0 "Rebels seize Stanleyville"
+uganda.2.desc:0 ""
+uganda.2.a:0 "We will aid the British."
+uganda.2.b:0 "We must let it go."
+uganda.3.t:0 "African Marxists make massive gains"
+uganda.3.desc:0 ""
+uganda.3.a:0 "This war is not worth it, call for peace."
+uganda.3.b:0 "We will not cede another inch!"
+uganda.4.t:0 "England seeks peace."
+uganda.4.desc:0 ""
+uganda.4.a:0 "Make it so."
+uganda.4.b:0 "We will push them from this continent!"
+uganda.5.t:0 "The future of Uganda"
+uganda.5.desc:0 ""
+uganda.5.a:0 "We will stand for all African people."
+uganda.5.b:0 "We are Ugandan first and foremost."

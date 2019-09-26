@@ -1,0 +1,73 @@
+﻿l_english:
+#Sinkiang NAME#
+SIK_vanguard_socialism:0 "Xinjiang Autonomous Province"
+SIK_vanguard_socialism_DEF:0 "Sinkiang"
+SIK_vanguard_socialism_ADJ:0 "Sinkiangn"
+
+SIK_libertarian_marxism:0 "Xinjiang Autonomous Province"
+SIK_libertarian_marxism_DEF:0 "Sinkiang"
+SIK_libertarian_marxism_ADJ:0 "Sinkiangn"
+
+SIK_revolutionary_anarchism:0 "Xinjiang Autonomous Province"
+SIK_revolutionary_anarchism_DEF:0 "Sinkiang"
+SIK_revolutionary_anarchism_ADJ:0 "Sinkiangn"
+
+SIK_revisionist_socialism:0 "Xinjiang Autonomous Province"
+SIK_revisionist_socialism_DEF:0 "Sinkiang"
+SIK_revisionist_socialism_ADJ:0 "Sinkiangn"
+
+SIK_social_democratism:0 "Xinjiang Autonomous People's Province"
+SIK_social_democratism_DEF:0 "Sinkiang"
+SIK_social_democratism_ADJ:0 "Sinkiangn"
+
+SIK_placeholderism:0 "Xinjiang Autonomous Province"
+SIK_placeholderism_DEF:0 "Sinkiang"
+SIK_placeholderism_ADJ:0 "Sinkiangn"
+
+SIK_liberalism:0 "Xinjiang Autonomous Province"
+SIK_liberalism_DEF:0 "Sinkiang"
+SIK_liberalism_ADJ:0 "Sinkiangn"
+
+SIK_conservatism:0 "Xinjiang Autonomous Province"
+SIK_conservatism_DEF:0 "Sinkiang"
+SIK_conservatism_ADJ:0 "Sinkiangn"
+
+SIK_right_authoritarianism:0 "Xinjiang Autonomous Province"
+SIK_right_authoritarianism_DEF:0 "Sinkiang"
+SIK_right_authoritarianism_ADJ:0 "Sinkiangn"
+
+SIK_reactionism:0 "Xinjiang Autonomous Province"
+SIK_reactionism_DEF:0 "Sinkiang"
+SIK_reactionism_ADJ:0 "Sinkiangn"
+
+SIK_accelerationism:0 "Xinjiang Autonomous Province"
+SIK_accelerationism_DEF:0 "Sinkiang"
+SIK_accelerationism_ADJ:0 "Sinkiangn"
+#PARTIES#
+SIK_vanguard_socialism_party:0 "CPC/V(Xinjiang)"
+SIK_libertarian_marxism_party:0 "CPC/A(Xinjiang)"
+SIK_revolutionary_anarchism_party:0 "Xinjiang People's Revolutionary Party"
+SIK_revisionist_socialism_party:0 "Working People's Party(Xinjiang)"
+SIK_social_democratism_party:0 "Kuomintang"
+SIK_liberalism_party:0 "Liberal Party"
+SIK_conservatism_party:0 "Progressive Party"
+SIK_right_authoritarianism_party:0 "Jin Shuren Clique"
+SIK_despotism_party:0 "Ma Clique"
+SIK_reactionism_party:0 "East Turkestan Islamists"
+SIK_accelerationism_party:0 "Youth China Party(Xinjiang)"
+SIK_vanguard_socialism_party_long:0 "Communist Party of China/Vanguardist (Xinjiang)"
+SIK_libertarian_marxism_party_long:0 "Communist Party of China/Agrarian (Xinjiang)"
+SIK_revolutionary_anarchism_party_long:0 "Xinjiang People's Revolutionary Party"
+SIK_revisionist_socialism_party_long:0 "Working People's Party"
+SIK_social_democratism_party_long:0 "Nationalist Party"
+SIK_liberalism_party_long:0 "Liberal Party"
+SIK_conservatism_party_long:0 "Progressive Party"
+SIK_right_authoritarianism_party_long:0 "Jin Shuren Clique"
+SIK_despotism_party_long:0 "Ma Clique"
+SIK_reactionism_party_long:0 "East Turkestan Islamists"
+SIK_accelerationism_party_long:0 "Youth China Party(Xinjiang)"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

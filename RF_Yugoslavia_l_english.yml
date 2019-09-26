@@ -1,0 +1,84 @@
+﻿l_english:
+#COUNTRY NAME#
+YUG_vanguard_socialism:0 "Yugoslavian Commune"
+YUG_vanguard_socialism_DEF:0 "Yugoslavia"
+YUG_vanguard_socialism_ADJ:0 "Yugoslavian"
+
+YUG_libertarian_marxism:0 "Yugoslavian Commune"
+YUG_libertarian_marxism_DEF:0 "Yugoslavia"
+YUG_libertarian_marxism_ADJ:0 "Yugoslavian"
+
+YUG_revolutionary_anarchism:0 "Yugoslavian Commune"
+YUG_revolutionary_anarchism_DEF:0 "Yugoslavia"
+YUG_revolutionary_anarchism_ADJ:0 "Yugoslavian"
+
+YUG_revisionist_socialism:0 "Yugoslavian Commune"
+YUG_revisionist_socialism_DEF:0 "Yugoslavia"
+YUG_revisionist_socialism_ADJ:0 "Yugoslavian"
+
+YUG_social_democratism:0 "Yugoslavia"
+YUG_social_democratism_DEF:0 "Yugoslavia"
+YUG_social_democratism_ADJ:0 "Yugoslavian"
+
+YUG_placeholderism:0 "Yugoslavia"
+YUG_placeholderism_DEF:0 "Yugoslavia"
+YUG_placeholderism_ADJ:0 "Yugoslavian"
+
+YUG_liberalism:0 "Yugoslavia"
+YUG_liberalism_DEF:0 "Yugoslavia"
+YUG_liberalism_ADJ:0 "Yugoslavia"
+
+YUG_conservatism:0 "Yugoslavia"
+YUG_conservatism_DEF:0 "Yugoslavia"
+YUG_conservatism_ADJ:0 "Yugoslavia"
+
+YUG_right_authoritarianism:0 "Yugoslavia"
+YUG_right_authoritarianism_DEF:0 "Yugoslavia"
+YUG_right_authoritarianism_ADJ:0 "Yugoslavian"
+
+YUG_despotism:0 "Yugoslavia"
+YUG_despotism_DEF:0 "Yugoslavia"
+YUG_despotism_ADJ:0 "Yugoslavian"
+
+YUG_reactionism:0 "Serbian State"
+YUG_reactionism_DEF:0 "Serbia"
+YUG_reactionism_ADJ:0 "Serbian"
+
+YUG_accelerationism:0 "Yugoslavia"
+YUG_accelerationism_DEF:0 "Yugoslavia"
+YUG_accelerationism_ADJ:0 "Yugoslavian"
+#PARTIES#
+YUG_vanguard_socialism_party:0 "KPS"
+YUG_vanguard_socialism_party_long:0 "Komunistička Partija Srbije"
+YUG_libertarian_marxism_party:0 "SPS"
+YUG_libertarian_marxism_party_long:0 "Socijalistička Partija Srbije "
+YUG_revolutionary_anarchism_party:0 "SAS"
+YUG_revolutionary_anarchism_party_long:0 "Savet Anarhista Srbije"
+YUG_revisionist_socialism_party:0 "ZS"
+YUG_revisionist_socialism_party_long:0 "Zemljoradnička Stranka"
+YUG_social_democratism_party:0 "ZS"
+YUG_social_democratism_party_long:0 "Zemljoradnička Stranka"
+YUG_liberalism_party:0 "DS"
+YUG_liberalism_party_long:0 "Demokratska Stranka"
+YUG_conservatism_party:0 "NRS"
+YUG_conservatism_party_long:0 "Narodna Radikalna Stranka"
+YUG_right_authoritarianism_party:0 "Čentički Pokret"
+YUG_right_authoritarianism_party_long:0 "Čentički Pokret"
+YUG_despotism_party:0 "Dinastija Karađorđević"
+YUG_despotism_party_long:0 "Dinastija Karađorđevića"
+YUG_reactionism_party:0 "JNS"
+YUG_reactionism_party_long:0 "Srpska Narodna Stranka"
+YUG_accelerationism_party:0 "SJNK"
+YUG_accelerationism_party_long:0 "Sve-Jugoslovenska Nacionalna Koalicija"
+ 
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#EVENTS#
+yugoslavia.1.t:0 "Vampire Attack"
+yugoslavia.1.d:0 "Several smaller towns in eastern Serbia reported that they have been raided by vampires. While nobody was seriously injured, superstitious farmers claim attackers had pale skin, vampire teeth and wore bloody white shirts. They now claim that vampires need to be hunted down, and the cursed Church is already claiming vampires are our agents, preaching only Church can save them from horrors in the night.\nWhile logic is telling us they are probably reactionary bandits using foolish peasents to spread terror, we could form Vampire hunting brigade to show our regime can fight even against supernatural reaction!"
+yugoslavia.1.a:0 "It's pointless, just arrest the reactionaries."
+yugoslavia.1.b:0 "Assemble The Brigade!"
+
+#FOCUSES#

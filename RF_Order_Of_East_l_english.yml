@@ -1,0 +1,67 @@
+﻿l_english:
+#COUNTRY NAME#
+ORS_vanguard_socialism:0 "Orissa"
+ORS_vanguard_socialism_DEF:0 "Orissa"
+ORS_vanguard_socialism_ADJ:0 "Orissan"
+
+ORS_libertarian_marxism:0 "Orissa"
+ORS_libertarian_marxism_DEF:0 "Orissa"
+ORS_libertarian_marxism_ADJ:0 "Orissan"
+
+ORS_revolutionary_anarchism:0 "Orissa"
+ORS_revolutionary_anarchism_DEF:0 "Orissa"
+ORS_revolutionary_anarchism_ADJ:0 "Orissan"
+
+ORS_revisionist_socialism:0 "Orissa"
+ORS_revisionist_socialism_DEF:0 "Orissa"
+ORS_revisionist_socialism_ADJ:0 "Orissan"
+
+ORS_social_democratism:0 "Orissa"
+ORS_social_democratism_DEF:0 "Orissa"
+ORS_social_democratism_ADJ:0 "Orissan"
+
+ORS_placeholderism:0 "Orissa"
+ORS_placeholderism_DEF:0 "Orissa"
+ORS_placeholderism_ADJ:0 "Orissan"
+
+ORS_liberalism:0 "Orissa"
+ORS_liberalism_DEF:0 "Orissa"
+ORS_liberalism_ADJ:0 "Orissan"
+
+ORS_conservatism:0 "Orissa"
+ORS_conservatism_DEF:0 "Orissa"
+ORS_conservatism_ADJ:0 "Orissan"
+
+ORS_right_authoritarianism:0 "Orissa"
+ORS_right_authoritarianism_DEF:0 "Orissa"
+ORS_right_authoritarianism_ADJ:0 "Orissan"
+
+ORS_despotism:0 "Orissa"
+ORS_despotism_DEF:0 "Orissa"
+ORS_despotism_ADJ:0 "Orissan"
+
+ORS_reactionism:0 "Order of the Star"
+ORS_reactionism_DEF:0 "Order of the Star"
+ORS_reactionism_ADJ:0 "Orissan"
+
+ORS_accelerationism:0 "Orissa"
+ORS_accelerationism_DEF:0 "Orissa"
+ORS_accelerationism_ADJ:0 "Orissan"
+#PARTIES#
+ORS_vanguard_socialism_party:0 "Hindustan Socialist Republican Association"
+ORS_libertarian_marxism_party:0 "Libetarian Socialist Faction"
+ORS_revolutionary_anarchism_party:0 "Orissan Anarchists Faction"
+ORS_revisionist_socialism_party:0 "Agrarianism Factions"
+ORS_social_democratism_party:0 "Justice Party"
+ORS_liberalism_party:0 "Indian National Congress Remnants"
+ORS_conservatism_party:0 "Commonwealth Loyalists"
+ORS_right_authoritarianism_party:0 "Military Junta Supporters"
+ORS_despotism_party:0 "Monarchist Restorers"
+ORS_reactionism_party:0 "Theosophical Society"
+ORS_accelerationism_party:0 "Orissan Technocratic Party"
+#LEADER DESCRITIONS#
+
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
