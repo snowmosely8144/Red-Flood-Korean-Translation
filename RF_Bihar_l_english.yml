@@ -1,0 +1,67 @@
+﻿l_english:
+#COUNTRY NAME#
+BIH_vanguard_socialism:0 "Bihar"
+BIH_vanguard_socialism_DEF:0 "Bihar"
+BIH_vanguard_socialism_ADJ:0 "Biharan"
+
+BIH_libertarian_marxism:0 "Bihar"
+BIH_libertarian_marxism_DEF:0 "Bihar"
+BIH_libertarian_marxism_ADJ:0 "Biharan"
+
+BIH_revolutionary_anarchism:0 "Bihar"
+BIH_revolutionary_anarchism_DEF:0 "Bihar"
+BIH_revolutionary_anarchism_ADJ:0 "Biharan"
+
+BIH_revisionist_socialism:0 "Bihar"
+BIH_revisionist_socialism_DEF:0 "Bihar"
+BIH_revisionist_socialism_ADJ:0 "Biharan"
+
+BIH_social_democratism:0 "Bihar"
+BIH_social_democratism_DEF:0 "Bihar"
+BIH_social_democratism_ADJ:0 "Biharan"
+
+BIH_placeholderism:0 "Bihar"
+BIH_placeholderism_DEF:0 "Bihar"
+BIH_placeholderism_ADJ:0 "Biharan"
+
+BIH_liberalism:0 "Bihar"
+BIH_liberalism_DEF:0 "Bihar"
+BIH_liberalism_ADJ:0 "Biharan"
+
+BIH_conservatism:0 "Bihar"
+BIH_conservatism_DEF:0 "Bihar"
+BIH_conservatism_ADJ:0 "Biharan"
+
+BIH_right_authoritarianism:0 "Bihar"
+BIH_right_authoritarianism_DEF:0 "Bihar"
+BIH_right_authoritarianism_ADJ:0 "Biharan"
+
+BIH_despotism:0 "Bihar"
+BIH_despotism_DEF:0 "Bihar"
+BIH_despotism_ADJ:0 "Biharan"
+
+BIH_reactionism:0 "Bihar"
+BIH_reactionism_DEF:0 "Bihar"
+BIH_reactionism_ADJ:0 "Biharan"
+
+BIH_accelerationism:0 "Bihar"
+BIH_accelerationism_DEF:0 "Bihar"
+BIH_accelerationism_ADJ:0 "Biharan"
+#PARTIES#
+BIH_vanguard_socialism_party:0 "Hindustan Socialist Republican Association"
+BIH_libertarian_marxism_party:0 "Libetarian Socialist Faction"
+BIH_revolutionary_anarchism_party:0 "Anarchists Faction"
+BIH_revisionist_socialism_party:0 "Agrarianism Factions"
+BIH_social_democratism_party:0 "All India Forward Bloc"
+BIH_liberalism_party:0 "Indian National Congress Remnants"
+BIH_conservatism_party:0 "Commonwealth Loyalists"
+BIH_right_authoritarianism_party:0 "Military Junta Supporters"
+BIH_despotism_party:0 "Monarchist Restorers"
+BIH_reactionism_party:0 "Indian Legion"
+BIH_accelerationism_party:0 "Bihar Rejuvanists"
+#LEADER DESCRITIONS#
+
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

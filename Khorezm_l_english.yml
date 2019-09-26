@@ -1,0 +1,55 @@
+﻿l_english:
+#COUNTRY NAME#
+KHO_vanguard_socialism:0 "Khorezm"
+KHO_vanguard_socialism_DEF:0 "Khorezmian"
+KHO_vanguard_socialism_ADJ:0 "Khorezmian"
+
+KHO_libertarian_marxism:0 "Khorezm"
+KHO_libertarian_marxism_DEF:0 "Khorezm"
+KHO_libertarian_marxism_ADJ:0 "Khorezmian"
+
+KHO_revolutionary_anarchism:0 "Khorezm"
+KHO_revolutionary_anarchism_DEF:0 "Khorezm"
+KHO_revolutionary_anarchism_ADJ:0 "Khorezmian"
+
+KHO_revisionist_socialism:0 "Khorezm"
+KHO_revisionist_socialism_DEF:0 "Khorezm"
+KHO_revisionist_socialism_ADJ:0 "Khorezmian"
+
+KHO_social_democratism:0 "Khorezm"
+KHO_social_democratism_DEF:0 "Khorezm"
+KHO_social_democratism_ADJ:0 "Khorezmian"
+
+KHO_placeholderism:0 "Khorezm"
+KHO_placeholderism_DEF:0 "Khorezm"
+KHO_placeholderism_ADJ:0 "Khorezmian"
+
+KHO_liberalism:0 "Khorezm"
+KHO_liberalism_DEF:0 "Khorezm"
+KHO_liberalism_ADJ:0 "Khorezmian"
+
+KHO_conservatism:0 "Khorezm"
+KHO_conservatism_DEF:0 "Khorezm"
+KHO_conservatism_ADJ:0 "Khorezmian"
+
+KHO_right_authoritarianism:0 "Khorezm"
+KHO_right_authoritarianism_DEF:0 "Khorezm"
+KHO_right_authoritarianism_ADJ:0 "Khorezmian"
+
+KHO_despotism:0 "Khorezm"
+KHO_despotism_DEF:0 "Khorezm"
+KHO_despotism_ADJ:0 "Khorezmian"
+
+KHO_reactionism:0 "Khorezm"
+KHO_reactionism_DEF:0 "Khorezm"
+KHO_reactionism_ADJ:0 "Khorezmian"
+
+KHO_accelerationism:0 "Khorezm"
+KHO_accelerationism_DEF:0 "Khorezm"
+KHO_accelerationism_ADJ:0 "Khorezmian"
+#PARTIES#
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

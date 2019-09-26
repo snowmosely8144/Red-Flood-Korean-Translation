@@ -1,0 +1,69 @@
+﻿l_english:
+#COUNTRY NAME#
+DIN_vanguard_socialism:0 "Dinia"
+DIN_vanguard_socialism_DEF:0 "Dinia"
+DIN_vanguard_socialism_ADJ:0 "Dinian"
+
+DIN_libertarian_marxism:0 "Dinia"
+DIN_libertarian_marxism_DEF:0 "Dinia"
+DIN_libertarian_marxism_ADJ:0 "Dinian"
+
+DIN_revolutionary_anarchism:0 "Dinia"
+DIN_revolutionary_anarchism_DEF:0 "Dinia"
+DIN_revolutionary_anarchism_ADJ:0 "Dinian"
+
+DIN_revisionist_socialism:0 "Dinia"
+DIN_revisionist_socialism_DEF:0 "Dinia"
+DIN_revisionist_socialism_ADJ:0 "Dinian"
+
+DIN_social_democratism:0 "Dinia"
+DIN_social_democratism_DEF:0 "Dinia"
+DIN_social_democratism_ADJ:0 "Dinian"
+
+DIN_placeholderism:0 "Dinia"
+DIN_placeholderism_DEF:0 "Dinia"
+DIN_placeholderism_ADJ:0 "Dinian"
+
+DIN_liberalism:0 "Dinia"
+DIN_liberalism_DEF:0 "Dinia"
+DIN_liberalism_ADJ:0 "Dinian"
+
+DIN_conservatism:0 "Dinia"
+DIN_conservatism_DEF:0 "Dinia"
+DIN_conservatism_ADJ:0 "Dinian"
+
+DIN_right_authoritarianism:0 "Dinia"
+DIN_right_authoritarianism_DEF:0 "Dinia"
+DIN_right_authoritarianism_ADJ:0 "Dinian"
+
+DIN_despotism:0 "Dinia"
+DIN_despotism_DEF:0 "Dinia"
+DIN_despotism_ADJ:0 "Dinian"
+
+DIN_reactionism:0 "Dinia"
+DIN_reactionism_DEF:0 "Dinia"
+DIN_reactionism_ADJ:0 "Dinian"
+
+DIN_accelerationism:0 "Dinia"
+DIN_accelerationism_DEF:0 "Dinia"
+DIN_accelerationism_ADJ:0 "Dinian"
+#PARTIES#
+DIN_vanguard_socialism_party:0 "Dinia Republican Socialist Army"
+DIN_libertarian_marxism_party:0 "Dinian Socialist League"
+DIN_revolutionary_anarchism_party:0 "Dinian Anarchist Alliance"
+DIN_revisionist_socialism_party:0 "Agrianism Faction"
+DIN_social_democratism_party:0 "Dinia People's Party"
+DIN_liberalism_party:0 "Muslim League"
+DIN_conservatism_party:0 "Jamaat-e-Islami Dinia"
+DIN_right_authoritarianism_party:0 "Authority League"
+DIN_despotism_party:0 "Military Junta support"
+DIN_reactionism_party:0 "Monarchist Restoration Factions"
+DIN_accelerationism_party:0 "Dinia Rejuvanists"
+
+#LEADER DESCRITIONS#
+POLITICS_Muhammad_Iqbal_DESC: "Muhammed Iqbal is the spirtual and founding farther of the young republic of Dinia. Having been unanimously elected as president of the young republic by a gathering of political and military figures. A poet, philosopher and politician Muhammed Iqbal is essential for the young republic to run smoothly due to the large amount of support he gathers both from the general population as a beloved figure and poltical peers due to his work in creating the state. Iqbal wishes for Dinia to spread over what is known as Pakistan creating a true secular but islamic state for Dinia to thrive in. Against the extremes of radicalism of both the left and right Iqbal is responsible for keeping Dinias young democratic values alive and if he was to perish, the very future of Dinia would hang in the balence."
+#IDEAS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

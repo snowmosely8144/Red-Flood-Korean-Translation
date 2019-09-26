@@ -1,0 +1,67 @@
+﻿l_english:
+#COUNTRY NAME#
+ARY_vanguard_socialism:0 "Aryavartan Commune"
+ARY_vanguard_socialism_DEF:0 "Aryavarta"
+ARY_vanguard_socialism_ADJ:0 "Aryavartan"
+
+ARY_libertarian_marxism:0 "Aryavartan Commune"
+ARY_libertarian_marxism_DEF:0 "Aryavarta"
+ARY_libertarian_marxism_ADJ:0 "Delhian"
+
+ARY_revolutionary_anarchism:0 "Aryavartan Commune"
+ARY_revolutionary_anarchism_DEF:0 "Aryavarta"
+ARY_revolutionary_anarchism_ADJ:0 "Aryavartan"
+
+ARY_revisionist_socialism:0 "Aryavartan Commune"
+ARY_revisionist_socialism_DEF:0 "Delhi"
+ARY_revisionist_socialism_ADJ:0 "Aryavartan"
+
+ARY_social_democratism:0 "Delhi"
+ARY_social_democratism_DEF:0 "Delhi"
+ARY_social_democratism_ADJ:0 "Delhian"
+
+ARY_placeholderism:0 "Delhi"
+ARY_placeholderism_DEF:0 "Delhi"
+ARY_placeholderism_ADJ:0 "Delhian"
+
+ARY_liberalism:0 "Delhi"
+ARY_liberalism_DEF:0 "Delhi"
+ARY_liberalism_ADJ:0 "Delhian"
+
+ARY_conservatism:0 "Delhi"
+ARY_conservatism_DEF:0 "Delhi"
+ARY_conservatism_ADJ:0 "Delhian"
+
+ARY_right_authoritarianism:0 "Delhi"
+ARY_right_authoritarianism_DEF:0 "Delhi"
+ARY_right_authoritarianism_ADJ:0 "Delhian"
+
+ARY_despotism:0 "Delhi"
+ARY_despotism_DEF:0 "Delhi"
+ARY_despotism_ADJ:0 "Delhian"
+
+ARY_reactionism:0 "Aryavarta"
+ARY_reactionism_DEF:0 "Aryavarta"
+ARY_reactionism_ADJ:0 "Aryavartan"
+
+ARY_accelerationism:0 "Aryavarta"
+ARY_accelerationism_DEF:0 "Aryavarta"
+ARY_accelerationism_ADJ:0 "Aryavartan"
+#PARTIES#
+ARY_vanguard_socialism_party:0 "Revolutionary Communist Paty of India"
+ARY_libertarian_marxism_party:0 "Delhi Socialist League"
+ARY_revolutionary_anarchism_party:0 "Anarchist Factions"
+ARY_revisionist_socialism_party:0 "Agrarianism Factions"
+ARY_social_democratism_party:0 "Indian National Congress Remnants"
+ARY_liberalism_party:0 "Delhian Liberals"
+ARY_conservatism_party:0 "Delhian Conservatives"
+ARY_right_authoritarianism_party:0 "Military Junta Support"
+ARY_despotism_party:0 "Monarchist Supporters"
+ARY_reactionism_party:0 "Rashtriya Swayamsevak Sangh"
+ARY_accelerationism_party:0 "Aryavarta Futurist League"
+#LEADER DESCRITIONS#
+POLITICS_V.D.Savarkar_DESC:0
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

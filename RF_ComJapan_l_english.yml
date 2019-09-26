@@ -1,0 +1,78 @@
+﻿l_english:
+#COUNTRY NAME#
+JPR_vanguard_socialism:0 "Revolutionary Japan"
+JPR_vanguard_socialism_DEF:0 "Japan"
+JPR_vanguard_socialism_ADJ:0 "Japanese"
+
+JPR_libertarian_marxism:0 "Revolutionary Japan"
+JPR_libertarian_marxism_DEF:0 "Japan"
+JPR_libertarian_marxism_ADJ:0 "Japanese"
+
+JPR_revolutionary_anarchism:0 "Japan"
+JPR_revolutionary_anarchism_DEF:0 "Japan"
+JPR_revolutionary_anarchism_ADJ:0 "Japanese"
+
+JPR_revisionist_socialism:0 "Japan"
+JPR_revisionist_socialism_DEF:0 "Japan"
+JPR_revisionist_socialism_ADJ:0 "Japanese"
+
+JPR_social_democratism:0 "Japan"
+JPR_social_democratism_DEF:0 "Japan"
+JPR_social_democratism_ADJ:0 "Japanese"
+
+JPR_placeholderism:0 "Japan"
+JPR_placeholderism_DEF:0 "Japan"
+JPR_placeholderism_ADJ:0 "Japanese"
+
+JPR_liberalism:0 "Japan"
+JPR_liberalism_DEF:0 "Japan"
+JPR_liberalism_ADJ:0 "Japanese"
+
+JPR_conservatism:0 "Japan"
+JPR_conservatism_DEF:0 "Japan"
+JPR_conservatism_ADJ:0 "Japanese"
+
+JPR_right_authoritarianism:0 "Japan"
+JPR_right_authoritarianism_DEF:0 "Japan"
+JPR_right_authoritarianism_ADJ:0 "Japanese"
+
+JPR_despotism:0 "Japan"
+JPR_despotism_DEF:0 "Japan"
+JPR_despotism_ADJ:0 "Japanese"
+
+JPR_reactionism:0 "Japan"
+JPR_reactionism_DEF:0 "Japan"
+JPR_reactionism_ADJ:0 "Japanese"
+
+JPR_accelerationism:0 "Japan"
+JPR_accelerationism_DEF:0 "Japan"
+JPR_accelerationism_ADJ:0 "Japanese"
+#PARTIES#
+JPR_vanguard_socialism_party:0 "Nippon Rōdōtō(Kōa-ha)"
+JPR_libertarian_marxism_party:0 "Nippon Rōdōtō(Kakumaru-ha)"
+JPR_revolutionary_anarchism_party:0 "Rōdō Kumiai Sōdōmei"
+JPR_revisionist_socialism_party:0 "Shakai Seigi-tō"
+JPR_social_democratism_party:0 "Shakai Taishūtō"
+JPR_liberalism_party:0 "Rikken Minseitō"
+JPR_conservatism_party:0 "Rikken Seiyūkai"
+JPR_right_authoritarianism_party:0 "Chūō-ha"
+JPR_despotism_party:0 "Isshin-ha"
+JPR_reactionism_party:0 "Risshō Gokokukai"
+JPR_accelerationism_party:0 "Kakushin Kanryō"
+JPR_vanguard_socialism_party_long:0 "Worker's Party of Japan(Pan-Asianists)"
+JPR_libertarian_marxism_party_long:0 "Worker's Party of Japan(Marxists)"
+JPR_revolutionary_anarchism_party_long:0 "All-Japan Confederation of Trade Unions"
+JPR_revisionist_socialism_party_long:0 "Social Justice Party"
+JPR_social_democratism_party_long:0 "Japanese Social People’s Party"
+JPR_liberalism_party_long:0 "Constitutional Democratic Party"
+JPR_conservatism_party_long:0 "Constitutional Association of Political Friendship"
+JPR_right_authoritarianism_party_long:0 "Centralist Faction"
+JPR_despotism_party_long:0 "Restorationist Faction"
+JPR_reactionism_party_long:0 "Righteous National Defense Union"
+JPR_accelerationism_party_long:0 "Reformist Technocrats"
+#LEADER DESCRITIONS#
+#IDEAS#
+#EVENTS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

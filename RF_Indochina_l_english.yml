@@ -1,0 +1,58 @@
+﻿l_english:
+#COUNTRY NAME#
+DAI_vanguard_socialism:0 "Vietnam"
+DAI_vanguard_socialism_DEF:0 "Vietnam"
+DAI_vanguard_socialism_ADJ:0 "Vietnamese"
+
+DAI_libertarian_marxism:0 "Vietnam"
+DAI_libertarian_marxism_DEF:0 "Vietnam"
+DAI_libertarian_marxism_ADJ:0 "Vietnamese"
+
+DAI_revolutionary_anarchism:0 "Vietnam"
+DAI_revolutionary_anarchism_DEF:0 "Vietnam"
+DAI_revolutionary_anarchism_ADJ:0 "Vietnamese"
+
+DAI_revisionist_socialism:0 "Vietnam"
+DAI_revisionist_socialism_DEF:0 "Vietnam"
+DAI_revisionist_socialism_ADJ:0 "Vietnamese"
+
+DAI_social_democratism:0 "Vietnam"
+DAI_social_democratism_DEF:0 "Vietnam"
+DAI_social_democratism_ADJ:0 "Vietnamese"
+
+DAI_placeholderism:0 "Vietnam"
+DAI_placeholderism_DEF:0 "Vietnam"
+DAI_placeholderism_ADJ:0 "Vietnamese"
+
+DAI_liberalism:0 "Vietnam"
+DAI_liberalism_DEF:0 "Vietnam"
+DAI_liberalism_ADJ:0 "Vietnamese"
+
+DAI_conservatism:0 "Vietnam"
+DAI_conservatism_DEF:0 "Vietnam"
+DAI_conservatism_ADJ:0 "Vietnamese"
+
+DAI_right_authoritarianism:0 "Empire of Indochina"
+DAI_right_authoritarianism_DEF:0 "the Empire of Indochina"
+DAI_right_authoritarianism_ADJ:0 "Indochinese"
+
+DAI_despotism:0 "Empire of Indochina"
+DAI_despotism_DEF:0 "the Empire of Indochina"
+DAI_despotism_ADJ:0 "Indochinese"
+
+DAI_reactionism:0 "Vietnam"
+DAI_reactionism_DEF:0 "Vietnam"
+DAI_reactionism_ADJ:0 "Vietnamese"
+
+DAI_accelerationism:0 "Vietnam"
+DAI_accelerationism_DEF:0 "Vietnam"
+DAI_accelerationism_ADJ:0 "Vietnamese"
+#PARTIES#
+#LEADER DESCRITIONS#
+#IDEAS#
+DAI_instability_in_cho_lon:0 "Instability in Cho Lon"
+DAI_instability_in_cho_lon_desc:0 "For a long time the Chinese and the Japanese were not good friends, not to mention nowadays. The Chinese are all over in Cho Lon and we have noticed that they are arming their men and funding rebels to "liberate" our benevolent emperor from the Japanese benefactor, so we have to suppress them soon or bad things will start happening."
+
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

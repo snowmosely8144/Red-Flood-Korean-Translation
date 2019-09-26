@@ -1,0 +1,83 @@
+﻿l_english:
+#COUNTRY NAME#
+MAD_vanguard_socialism:0 "Madrassian Commune"
+MAD_vanguard_socialism_DEF:0 "Madras"
+MAD_vanguard_socialism_ADJ:0 "Madrassian"
+
+MAD_libertarian_marxism:0 "Madrassian Commune"
+MAD_libertarian_marxism_DEF:0 "Madras"
+MAD_libertarian_marxism_ADJ:0 "Madrassian"
+
+MAD_revolutionary_anarchism:0 "Madrassian Commune"
+MAD_revolutionary_anarchism_DEF:0 "Madras"
+MAD_revolutionary_anarchism_ADJ:0 "Madrassian"
+
+MAD_revisionist_socialism:0 "Madrassian Commune"
+MAD_revisionist_socialism_DEF:0 "Madras"
+MAD_revisionist_socialism_ADJ:0 "Madrassian"
+
+MAD_social_democratism:0 "Madras Presidency"
+MAD_social_democratism_DEF:0 "Madras"
+MAD_social_democratism_ADJ:0 "Madrassian"
+
+MAD_placeholderism:0 "Madras Presidency"
+MAD_placeholderism_DEF:0 "Madras"
+MAD_placeholderism_ADJ:0 "Madrassian"
+
+MAD_liberalism:0 "Madras Presidency"
+MAD_liberalism_DEF:0 "Madras"
+MAD_liberalism_ADJ:0 "Madrassian"
+
+MAD_conservatism:0 "Madras Presidency"
+MAD_conservatism_DEF:0 "Madras"
+MAD_conservatism_ADJ:0 "Madrassian"
+
+MAD_right_authoritarianism:0 "Madras Presidency"
+MAD_right_authoritarianism_DEF:0 "Madras"
+MAD_right_authoritarianism_ADJ:0 "Madrassian"
+
+MAD_despotism:0 "Madras Presidency"
+MAD_despotism_DEF:0 "Madras"
+MAD_despotism_ADJ:0 "Madrassian"
+
+MAD_reactionism:0 "Madras Presidency"
+MAD_reactionism_DEF:0 "Madras"
+MAD_reactionism_ADJ:0 "Madrassian"
+
+MAD_accelerationism:0 "Madrassian Technate"
+MAD_accelerationism_DEF:0 "Madras"
+MAD_accelerationism_ADJ:0 "Madrassian"
+
+MAD_restored_raj_right_authoritarianism:0 "Second British Raj"
+MAD_restored_raj_right_authoritarianism_DEF:0 "Second British Raj"
+MAD_restored_raj_right_authoritarianism_ADJ:0 "Indian"
+MAD_restored_raj_despotism:0 "Second Briitsh Raj"
+MAD_restored_raj_despotism_DEF:0 "Second British Raj"
+MAD_restored_raj_despotism_ADJ:0 "Indian"
+
+#PARTIES#
+MAD_vanguard_socialism_party:0 "Hindustan Socialist Republican Association"
+MAD_libertarian_marxism_party:0 "Libetarian Socialist Faction"
+MAD_revolutionary_anarchism_party:0 "Madras Syndicalist Faction"
+MAD_revisionist_socialism_party:0 "Dravidar Kazhagam"
+MAD_social_democratism_party:0 "Justice Party"
+MAD_liberalism_party:0 "Indian National Congress Remnants"
+MAD_conservatism_party:0 "Commonwealth Loyalists"
+MAD_right_authoritarianism_party:0 "Presidency Supporters"
+MAD_despotism_party:0 "Military Junta Support"
+MAD_reactionism_party:0 "Rashtriya Swayamsevak Sangh"
+MAD_accelerationism_party:0 "Madrassian Rejuvination Party"
+#LEADER DESCRITIONS#
+POLITICS_John_Erskine_DESC:0 ""
+#IDEAS#
+MAD_british_direct_rule:0 "British Direct Rule"
+MAD_british_direct_rule_desc:0 ""
+MAD_collapsing_raj:0 "Collapsing Raj"
+MAD_collapsing_raj_desc:0 ""
+MAD_partisan_infestation:0 "Partisan Infestation"
+MAD_partisan_infestation_desc:0 ""
+MAD_refugee_crisis:0 "Refugee Crisis"
+MAD_refugee_crisis_desc:0 ""
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

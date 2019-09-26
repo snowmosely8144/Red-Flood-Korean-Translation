@@ -1,0 +1,85 @@
+﻿l_english:
+ #COUNTRY NAME#
+ MNT_vanguard_socialism:0 "Montenegro"
+ MNT_vanguard_socialism_DEF:0 "Montenegro"
+ MNT_vanguard_socialism_ADJ:0 "Montenegrin"
+
+ MNT_libertarian_marxism:0 "Montenegro"
+ MNT_libertarian_marxism_DEF:0 "Montenegro"
+ MNT_libertarian_marxism_ADJ:0 "Montenegrin"
+
+ MNT_revolutionary_anarchism:0 "Montenegro"
+ MNT_revolutionary_anarchism_DEF:0 "Montenegro"
+ MNT_revolutionary_anarchism_ADJ:0 "Montenegrin"
+
+ MNT_revisionist_socialism:0 "Montenegro"
+ MNT_revisionist_socialism_DEF:0 "Montenegro"
+ MNT_revisionist_socialism_ADJ:0 "Montenegrin"
+
+ MNT_social_democratism:0 "Montenegro"
+ MNT_social_democratism_DEF:0 "Montenegro"
+ MNT_social_democratism_ADJ:0 "Montenegrin"
+
+ MNT_placeholderism:0 "Montenegro"
+ MNT_placeholderism_DEF:0 "Montenegro"
+ MNT_placeholderism_ADJ:0 "Montenegrin"
+
+ MNT_liberalism:0 "Montenegro"
+ MNT_liberalism_DEF:0 "Montenegro"
+ MNT_liberalism_ADJ:0 "Montenegrin"
+
+ MNT_conservatism:0 "Montenegro"
+ MNT_conservatism_DEF:0 "Montenegro"
+ MNT_conservatism_ADJ:0 "Montenegrin"
+
+ MNT_right_authoritarianism:0 "Montenegro"
+ MNT_right_authoritarianism_DEF:0 "Montenegro"
+ MNT_right_authoritarianism_ADJ:0 "Montenegrin"
+
+ MNT_despotism:0 "Montenegro"
+ MNT_despotism_DEF:0 "Montenegro"
+ MNT_despotism_ADJ:0 "Montenegrin"
+
+ MNT_reactionism:0 "Montenegro"
+ MNT_reactionism_DEF:0 "Montenegro"
+ MNT_reactionism_ADJ:0 "Montenegrin"
+
+ MNT_accelerationism:0 "Montenegro"
+ MNT_accelerationism_DEF:0 "Montenegro"
+ MNT_accelerationism_ADJ:0 "Montenegrin"
+ 
+ #PARTIES#
+ MNT_vanguard_socialism_party:0 "KPCG"
+ MNT_vanguard_socialism_party_long:0 "Komunistička Partija Crne Gore"
+ MNT_libertarian_marxism_party:0 "RDCG"
+ MNT_libertarian_marxism_party_long:0 "Radnički Savez Crne Gore"
+ MNT_libertarian_socialism_party:0 "RDCG"
+ MNT_libertarian_socialism_party_long:0 "Radnički Savez Crne Gore"
+ MNT_revolutionary_anarchism_party:0 "SZCG"
+ MNT_revolutionary_anarchism_party_long:0 "Savez Zadruga Crne Gore"
+ MNT_revisionist_socialism_party:0 "RSP"
+ MNT_revisionist_socialism_party_long:0 "Radnička Seljačka Partija"
+ MNT_social_democratism_party:0 "RSDP"
+ MNT_social_democratism_party_long:0 "Ranička Socijal Demokratksa Partija"
+ MNT_liberalism_party:0 "NS"
+ MNT_liberalism_party_long:0 "Narodna Stranka"
+ MNT_conservatism_party:0 "PNS"
+ MNT_conservatism_party_long:0 "Prava Narodna Stranka"
+ MNT_right_authoritarianism_party:0 "PNS - Krsto Popović"
+ MNT_right_authoritarianism_party_long:0 "Prava Narodna Stranka - Krsto Popović"
+ MNT_despotism_party:0 "Dinastija Petrović-Njegoš"
+ MNT_despotism_party_long:0 "Dinastija Petrović-Njegoš"
+ MNT_reactionism_party:0 "NS"
+ MNT_reactionism_party_long:0 "Nacionalna Stranka"
+ MNT_accelerationism_party:0 "NNP"
+ MNT_accelerationism_party_long:0 " Nacionalni Narodni Pokret"
+
+ #LEADER DESCRITIONS#
+
+ #IDEAS#
+
+ #CUSTOM TOOLTIPS AND FLAGS#
+
+ #DECISIONS (1.5 Update)#
+
+ #FOCUSES#

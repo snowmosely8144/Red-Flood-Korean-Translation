@@ -1,0 +1,66 @@
+﻿l_english:
+#COUNTRY NAME#
+NZL_vanguard_socialism:0 "New Zealand"
+NZL_vanguard_socialism_DEF:0 "New Zealand"
+NZL_vanguard_socialism_ADJ:0 "New Zealander"
+
+NZL_libertarian_marxism:0 "New Zealand"
+NZL_libertarian_marxism_DEF:0 "New Zealand"
+NZL_libertarian_marxism_ADJ:0 "New Zealander"
+
+NZL_revolutionary_anarchism:0 "New Zealand"
+NZL_revolutionary_anarchism_DEF:0 "New Zealand"
+NZL_revolutionary_anarchism_ADJ:0 "New Zealander"
+
+NZL_revisionist_socialism:0 "New Zealand"
+NZL_revisionist_socialism_DEF:0 "New Zealand"
+NZL_revisionist_socialism_ADJ:0 "New Zealander"
+
+NZL_social_democratism:0 "New Zealand"
+NZL_social_democratism_DEF:0 "New Zealand"
+NZL_social_democratism_ADJ:0 "New Zealander"
+
+NZL_placeholderism:0 "New Zealand"
+NZL_placeholderism_DEF:0 "New Zealand"
+NZL_placeholderism_ADJ:0 "New Zealander"
+
+NZL_liberalism:0 "New Zealand"
+NZL_liberalism_DEF:0 "New Zealand"
+NZL_liberalism_ADJ:0 "New Zealander"
+
+NZL_conservatism:0 "New Zealand"
+NZL_conservatism_DEF:0 "New Zealand"
+NZL_conservatism_ADJ:0 "New Zealander"
+
+NZL_right_authoritarianism:0 "New Zealand"
+NZL_right_authoritarianism_DEF:0 "New Zealand"
+NZL_right_authoritarianism_ADJ:0 "New Zealander"
+
+NZL_despotism:0 "New Zealand"
+NZL_despotism_DEF:0 "New Zealand"
+NZL_despotism_ADJ:0 "New Zealander"
+
+NZL_reactionism:0 "New Zealand"
+NZL_reactionism_DEF:0 "New Zealand"
+NZL_reactionism_ADJ:0 "New Zealander"
+
+NZL_accelerationism:0 "New Zealand"
+NZL_accelerationism_DEF:0 "New Zealand"
+NZL_accelerationism_ADJ:0 "New Zealander"
+#PARTIES#
+NZL_vanguard_socialism_party:0 "Communist"
+NZL_libertarian_marxism_party:0 "Socialist Party"
+NZL_revolutionary_anarchism_party:0 "Union Congress"
+NZL_revisionist_socialism_party:0 "Ratana Movement"
+NZL_social_democratism_party:0 "Labour Party"
+NZL_liberalism_party:0 "Democrat Party"
+NZL_conservatism_party:0 "United Reform Coalition"
+NZL_right_authoritarianism_party:0 "Country Party"
+NZL_despotism_party:0 "British Emergancy Council"
+NZL_reactionism_party:0 "New Zealand Legion"
+NZL_accelerationism_party:0 "Technocracy Inc"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

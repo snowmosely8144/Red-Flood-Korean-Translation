@@ -1,0 +1,67 @@
+﻿l_english:
+#COUNTRY NAME#
+KSM_vanguard_socialism:0 "Kashmir Commune"
+KSM_vanguard_socialism_DEF:0 "Kashmir"
+KSM_vanguard_socialism_ADJ:0 "Kashmiri"
+
+KSM_libertarian_marxism:0 "Kashmir Commune"
+KSM_libertarian_marxism_DEF:0 "Kashmir"
+KSM_libertarian_marxism_ADJ:0 "Kashmiri"
+
+KSM_revolutionary_anarchism:0 "Kashmir Commune"
+KSM_revolutionary_anarchism_DEF:0 "Kashmir"
+KSM_revolutionary_anarchism_ADJ:0 "Kashmiri"
+
+KSM_revisionist_socialism:0 "Kashmir Commune"
+KSM_revisionist_socialism_DEF:0 "Kashmir"
+KSM_revisionist_socialism_ADJ:0 "Kashmiri"
+
+KSM_social_democratism:0 "Kashmir"
+KSM_social_democratism_DEF:0 "Kashmir"
+KSM_social_democratism_ADJ:0 "Kashmiri"
+
+KSM_placeholderism:0 "Kashmir"
+KSM_placeholderism_DEF:0 "Kashmir"
+KSM_placeholderism_ADJ:0 "Kashmiri"
+
+KSM_liberalism:0 "Kashmir"
+KSM_liberalism_DEF:0 "Kashmir"
+KSM_liberalism_ADJ:0 "Kashmiri"
+
+KSM_conservatism:0 "Kashmir"
+KSM_conservatism_DEF:0 "Kashmir"
+KSM_conservatism_ADJ:0 "Kashmiri"
+
+KSM_right_authoritarianism:0 "Kingdom of Kashmir"
+KSM_right_authoritarianism_DEF:0 "Kashmir"
+KSM_right_authoritarianism_ADJ:0 "kashmiri"
+
+KSM_despotism:0 "Kashmir State"
+KSM_despotism_DEF:0 "kashmir"
+KSM_despotism_ADJ:0 "kashmiri"
+
+KSM_reactionism:0 "Kashmir State"
+KSM_reactionism_DEF:0 "Kashmir"
+KSM_reactionism_ADJ:0 "kashmiri"
+
+KSM_accelerationism:0 "Kashmir state"
+KSM_accelerationism_DEF:0 "Kashmir"
+KSM_accelerationism_ADJ:0 "kashmiri"
+#PARTIES#
+KSM_vanguard_socialism_party:0 "Kashmir Vanguard movement"
+KSM_libertarian_marxism_party:0 "Kashmir Socialist League"
+KSM_revolutionary_anarchism_party:0 "Anarchist Factions"
+KSM_revisionist_socialism_party:0 "Agrarianism Factions"
+KSM_social_democratism_party:0 "Indian Congress Remnants"
+KSM_liberalism_party:0 "Kashmir Unity Party"
+KSM_conservatism_party:0 "Kashmir Collaberators"
+KSM_right_authoritarianism_party:0 "Monarchist Remnants"
+KSM_despotism_party:0 "Konstantin Mercanary Support"
+KSM_reactionism_party:0 "Fegeleins Faction"
+KSM_accelerationism_party:0 "Kashmir Futurist Rebels"
+#LEADER DESCRITIONS#
+POLITICS_Konstantin_Petrovich_Nechaev_DESC:0 "Konstantin Petrovich Nechaev travelled a long and dangerous path to become the military dictator and undisputed ruler of Jammue and Kashmir. Having originally been a member of the Imperial Russian Army as a officer, he left after the Russian civil war seeking fortune in the chaos of Warlord China. While originally working within Zheltorrossiya for various Japanese and Russian companies, Konstantin would eventually amass enough wealth to gather together a mercanary army and hire himself to Chinease warlords. Konstantin worked especially closley with Yan Xishan ruler of the Shanxi clique who required Konstanines mercanary army in his war against Zhang Zuolin. Thanks to Konstantin Yan Xishan was succesful and Konstantin was rewarded greatly for his help. However with the chaos that was engulfing the British Raj, Konstantin saw another oppotunity. Bidding Yan Xishan farewell he made his way to the Raj before reaching the Princly state of Jammu Kashmir. Konstantin seeing how weak it was overthrew the princly state and claimed the land as his and the mercanary groups own. Now with the region under his and the mercanary groups firm control Konstantin is able to further his goals of futre wealth and glory, lets hope that no mercanary grows too envious of Konstantins new found glory and tries to take it for themselves...."
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

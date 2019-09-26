@@ -1,0 +1,533 @@
+﻿l_english:
+    PRS_Heirs_Empire: "Heirs of the Empire"
+    PRS_Heirs_Empire_desc: "We are the last remnants of the German Empire, the Heirs of Frederick the Great and the Iron Chancellor. If we want to rekindle the glory of 1870, we must win the struggle ahead of us! It is Rebirth or Annihilation!"
+
+    PRS_Bloody_Jan: "Bloody January"
+    PRS_Bloody_Jan_desc: "The last harvest had been a measely one and our protectionist policy on trade has hindered the import of food in a dire moment. The people are hungry and radicals may exploit the situation."
+
+    PRS_Letter_Schleichner: "The Letter to Schleicher"
+    PRS_Letter_Schleichner_desc: "A number of Officers have delivered a letter to Reichsmarschall Schleicher, requesting his resignation. They state that they narrowly avoided catastropy and that consequences must be drawn. First, the Reichsmarschall must resign with the dignity expected of a Prussian in Public Office."
+
+    PRS_Treason: "It's Treason, then..."
+    PRS_Treason_desc: "These poor excuses for Prussians dared to send a letter of Protest to a superior officer? Someone hasn't been sufficiently whipped as a child... Send in the Police and make these fools answer to a Court."
+
+    PRS_Reichsmarschall: "The Reichsmarschall Resigns!"
+    PRS_Reichsmarschall_desc: "General Schleicher has chosen to resign! But who will take his place?"
+
+    PRS_Any_Objections: "Any further Objections?"
+    PRS_Any_Objections_desc: "Does anyone else intend to destabilise our Nation? No? Thought so. Now, let's get back to business..."
+
+    PRS_Daddy_Guderian: "Appoint Guderian"
+    PRS_Daddy_Guderian_desc: "Heinz Guderian is a visionary thinker and a trusted General. He may be lacking Schleicher's skill in Realpolitik, but maybe brute force will still serve us well in the coming struggle. And Schleicher will still be able to give advice from the background."
+
+    PRS_Order_Day: "Back to the Order of the Day"
+    PRS_Order_Day_desc: "The Dissent has been dealt with for now and the Junta will continue as usual, but these rowdy kids may have had a point... There are a few things we should adress."
+
+    PRS_Appoint_Pabst: "Appoint Pabst"
+    PRS_Appoint_Pabst_desc: "Waldemar Pabst is not the ideal choice, he is an unsophisticated brute, but hasn't his approach proven to work during the Blutfebruar? He will ensure Prussia's internal stability and isn't afraid to get his hands dirty for the cause. Reds don't deserve chivalry."
+
+    PRS_Process_First: "Process First!"
+    PRS_Process_First_desc: "Just appointing a Reichsmarschall won't do. A power-struggle must be avoided at all costs at this moment of national fragility. It is time to set up a process to determine the choice of a Reichsmarschall. We will perform an internal debate and hold a vote!"
+
+    PRS_DIRECTRULEFROMTHECROWN: "The Crown's Authority"
+    PRS_DIRECTRULEFROMTHECROWN_desc: "Schleicher's resignation has put the Junta in a Dilemma. The internal factions are scheming against each other and Civil War appears imminent. There is only one way to resolve this: It is time to crown a King for Prussia. Or a Queen..."
+
+    PRS_White_Terror: "The White Terror"
+    PRS_White_Terror_desc: "There are too many subversive elements within the Junta and it is time to root them out."
+
+    PRS_Der_Panzergeneral: "Der Panzergeneral"
+    PRS_Der_Panzergeneral_desc: "Heinz Guderian is one of the leading theorists of the Reich and for the coming war, we will need to get the most out of our Army. He is the best chance we have!"
+
+    PRS_Der_Verteidiger: "Der Verteidiger des Baltikums"
+    PRS_Der_Verteidiger_desc: "General Rüdiger von der Golz has proven his worth as an officer all around the Baltic, fighting the Red Flood. He has convinced the assembled Generals that Prussia has no chance of standing alone against the rabble infesting our Homeland. To go West, we have to first go East. Unite with the Germanic Peoples of the Baltic, to mobilise them for the march West."
+
+    PRS_Der_Graf: "Der Graf der Rosen"
+    PRS_Der_Graf_desc: "Fritz-Dietlof von der Schulenburg was the last person anyone would have expected to step into Schleicher's shoes. However, he has presented a calm, cold speech that presented the case that the introduction of an extensive "Social State" is the only way to compete with the appeal of Socialism."
+
+    PRS_Der_Tagtra: "Der Tagträumer"
+    PRS_Der_Tagtra_desc: "Heinrich Schnee is a controversial figure in the Junta, but his unorthodox approach might work. Spartacism is a Global Threat and we need to think big. His plan to open negotiations with Britain and establish ties all around the World may give us an edge the enemy does not expect. We must beat the Socialists at their own Internationalist Game!"
+
+    PRS_Emergency_Reforms: "Emergency Reforms"
+    PRS_Emergency_Reforms_desc: "We must immediately adress the issues uncovered by the Bloody January. First of all, we must formalise a Protocol to Coordinate our response to a native Insurrection. We cannot have the Freikorps plunge us into Anarchy with their overzealous brutality."
+
+    PRS_Humanitarian_Fund: "Humanitarian Emergency Fund"
+    PRS_Humanitarian_Fund_desc: "To be prepared in case of another Crisis, the Army itself needs to be ready to intervene to help the civilian population. We will keep a stockpile of military rations in reserve and work out a battleplan on how to rapidly distribute them to provinces in Crisis."
+
+    PRS_Tariff_Reform: "Tariff Reform"
+    PRS_Tariff_Reform_desc: "Tariffs are integral to Germany's method of doing Economics! But we also have to be pragmatic. There are some things we need to import and in the Future we should be more flexible with adjusting Tariff Rates according to the needs of our people."
+
+    PRS_General_Staff: "Assemble the General Staff"
+    PRS_General_Staff_desc: "It is time to plan for the reclaimation of the Homeland."
+
+    PRS_Reneg_Corridor: "Renegotiate the Corridor"
+    PRS_Reneg_Corridor_desc: "We have accepted Poland's control of the corridor to Danzig out of necessity, but we are by no means happy about it. It is time to politely ask the Poles if they'd be willing to make an arrangement that we are going to control it during the coming War. Maybe Russia can exert some pressure on our behalf as well..."
+
+    PRS_Northern_Thrust: "The Northern Thrust"
+    PRS_Northern_Thrust_desc: "General Guderian will command the Panzertruppe for an offensive into Pommern and rush to seize the ports to open up the possibility of shipping in Russian Strelky-Divisions as reinforcements."
+
+    PRS_Southern_Loyalists: "Contanct the Southern Loyalists"
+    PRS_Southern_Loyalists_desc: "There are still elements in the conservative South, who might be willing to fight against the Reds. We should contact them and incorporate them into our plan of attack."
+
+    PRS_Southern_Distraction: "The Southern Distraction"
+    PRS_Southern_Distraction_desc: "When we declare the Reclaimation-War, our Agents within the Gebirgsjäger units will conduct sabotage of installations in Bavaria and local Freikorps will seize control of the countryside, so the Reds will have to send troops to break the Siege of Munich."
+
+    PRS_Yes_Daddy_Guderian: "Guderian's Ambitions"
+    PRS_Yes_Daddy_Guderian_desc: "Reichsmarschall Guderian is more ambitious than the old Pragmatist Schleicher. He will not rest until the Reich is restored in it's full glory. That means that our Alliance with the Poles is not one that will last..."
+
+    PRS_Fall_Weiss: "Fall Weiß"
+    PRS_Fall_Weiss_desc: "In case of a conflict with Poland, the Panzertruppe will lead a spearhead along the Coast to seize the Ports. The Infantry will sweep down to the Vistula, to force Poland's concession of territories. In case of drawn out War, the Long Term Strategy is to throttle polish trade and stoke an ethnic german insurrection in Western Poland."
+
+    PRS_East_Allies: "Find Eastern Allies"
+    PRS_East_Allies_desc: "Russia may be a shattered mess, but they will surely recognise the threat of Communism. We will make overtures to cobble together a stronger Coalition."
+
+    PRS_Secret_Britain: "Secret Negotiations with Britain"
+    PRS_Secret_Britain_desc: "To defeat the Spartacists, they must be isolated from the World. Yet, the North Sea remains beyond out reach. We must open secret negotiations with Britain to ensure they will establish a Blockade when the time is right."
+
+    PRS_GOT: "A Game of Thrones"
+    PRS_GOT_desc: "With Schleicher's announcement that it is time to restore the Crown's authority over Prussia, a few Candidates have come out on top. But the actual legitimacy of the claims seems to play little role here."
+
+    PRS_Crown_Madman: "Crown the Madman"
+    PRS_Crown_Madman_desc: "He may have radical ideas, but it is not appropriate for a prussian officer to judge the vision of his Kaiser. August Wilhelm von Preußen is now Emperor of Germany!"
+
+    PRS_Benevolent_Usurp: "Benevolent Usurpation"
+    PRS_Benevolent_Usurp_desc: "We cannot gamble with the future of Germany, even if we must betray our principles. August Wilhelm is too radical, he must be passed over in favour of Prince Oskar. Crown him now, before another pretender has a chance to organise his bid!"
+
+    PRS_Queen_Coup: "The Queen's Coup"
+    PRS_Queen_Coup_desc: "Princess Viktoria-Louise has always been ambitious, but not even Schleicher had expected her to march into the Castle in full Uniform with a small Army at her back. With Königsberg effectively under her occupation, she has declared the Military Regency to be concluded."
+
+    PRS_Clash_Kings: "A Clash of Kings"
+    PRS_Clash_Kings_desc: "Usurpers don't sit easy on their Thrones."
+
+    PRS_Prussian_Spring: "A Prussian Spring"
+    PRS_Prussian_Spring_desc: "Spring has come and the political crisis is resolved. For now. It is time to let things calm down and smell the flowers."
+
+    PRS_Reconciliation: "Reconciliation"
+    PRS_Reconciliation_desc: "Prussia can't afford to be divided. After these turbulent Months, it is time to rebuild the political landscape and reconcile with the loosers. With the Red Flood soon to crash against the Dam, we can't afford the divides to grow."
+
+    PRS_March_Eagles: "March of the Eagles"
+    PRS_March_Eagles_desc: "Hurrah for the Kaiser of Germany!"
+
+    PRS_Soldier_Kaiserin: "Die Soldatenkaiserin"
+    PRS_Soldier_Kaiserin_desc: "Empress Viktoria-Louise has announced that she will return Prussia to it's roots. She shall rule by decree and lead as her Ancestor Friedrich the Great once did: From the front with her Soldiers!"
+
+    PRS_Enlight_Despotism: "Enlightened Despotism"
+    PRS_Enlight_Despotism_desc: "The Empress has announced that her reign will be one of Progress. She intends to have Prussia remember it's roots to be able to step stronger into the future. Concretely, what she has announced is a series of sweeping Social Reforms to Prussia that are expected to have a huge impact on policy and culture."
+
+    PRS_Integrate_Junta: "Integration of the Junta"
+    PRS_Integrate_Junta_desc: "The old order must be integrated into the new structures if the Empress wants to keep her Throne. It will take time and efford, though."
+
+    PRS_Kaiser_Vision: "Ein Kaiser mit Vision!"
+    PRS_Kaiser_Vision_desc: "Austust Wilhelm von Preußen is an eccentric man, a man of Vision! To prosper, we need a true ideal to strive for and he will deliver. But will we look to our rich past or the exiting future for that Spark of Inspiration?"
+
+    PRS_Braun_Ambition: "Braun's Ambitions"
+    PRS_Braun_Ambition_desc: "Otto Braun has been an influential figure in prussian politics for a while. Despite his young age, he has established himself as the artistic visionary of a National Rejuvinationist Movement. The Kaiser is a fan of his and intends to make the young man's visions a Reality."
+
+    PRS_The_Brownshirts: "The Brownshirts"
+    PRS_The_Brownshirts_desc: "Our Nation has long been plagued by a splinter-group of the Freikorps, the Brownshirts, who are responsible for unauthorized Progroms in the Cities. Our Kaiser admires their enthusiasm and has announced that Horst Wessel will be his appointed Reichsmarschall."
+
+    PRS_Kaiser_English: "Kaiser nach Englischem Vorbild"
+    PRS_Kaiser_English_desc: "Prinz Oskar, now Kaiser Oskar, never asked for the Crown. Yet, he accepted the responsibility to save the realm from his mad Brother. But it is time to hand power back to an accountable institution: His Majesty's Imperial Diet."
+
+    PRS_Revive_Reichstag: "Revive the Reichstag"
+    PRS_Revive_Reichstag_desc: "By the Kaiser's decree, the Reichstag is now officially restored as the legislative branch of the Government. The Fate of the Reichsmarchall and the Executive remain to be determined."
+
+    PRS_Restore_Democracy: "Restore Full Democracy"
+    PRS_Restore_Democracy_desc: "The Regency has done a good enough Job in safeguarding the Remnants of the Reich, but their watch has ended. It is time to transfer executive power to an elected Chancellor and his Cabinet."
+
+    PRS_Elect_Reichsmarschall: "An Elected Reichsmarschall"
+    PRS_Elect_Reichsmarschall_desc: "Uprooting the Junta from Executive Power would be a long, difficult and risky task. It would be much easier to maintain the current Junta as the Executive Branch and have the Reichsmarschall be chosen by public Elections."
+
+    PRS_Prussian_Democracy: "Prussian Democracy"
+    PRS_Prussian_Democracy_desc: "Democracy has been restored in Prussia and it is time to work out the finer details about our Role in the World."
+
+    PRS_Women_Sufferage: "Women's Sufferage"
+    PRS_Women_Sufferage_desc: "The most stable and just system is one where everyone can vote. It's is important to give women the ability to participate in the political process without restrictions."
+
+    PRS_One_Household: "One Vote per Household"
+    PRS_One_Household_desc: "The less people Vote, the better. An ideal way to keep power centralised is to ensure that only the Patriarch of the Family has the right to Vote."
+
+    PRS_Aristocracy: "Lord-Electors"
+    PRS_Aristocracy_desc: "Giving the Peasants the right to choose a Ruler? Preposterous! If we must restore Democracy, it should be through a federal system in which the Junker-Families retain formal Privileges. Only they can run as candidates and they will act as Superdelegates in the Election of the Reichsmarchall."
+
+    PRS_Radical_Parties: "Permit Radical Parties"
+    PRS_Radical_Parties_desc: "There is no such thing as too much Democracy. Socialists and Futurists both have a fundamental right to have their voices heard. Furthermore, their participation in electoral politics will serve to defuse their volatile tendencies."
+
+    PRS_Fortified_Party: "Fortified Democracy"
+    PRS_Fortified_Party_desc: "The rights of Radicals must be respected, but that does not apply to Extremists. Any Party or Organisation that threatens the constitutional Order or calls for the violent overthrow of Democracy can be banned by the Reichstag."
+
+    PRS_No_Commies: "No Reds!"
+    PRS_No_Commies_desc: "Democracy has it's limits. We cannot allow Berlin's Puppets to participate in elections without risking National Security."
+
+    PRS_Stick_Russia: "Stick with Russia"
+    PRS_Stick_Russia_desc: "Russia is the force that protects Eurasia from Communism and it would be foolish not to stick with them. God Save the Tsar and Admiral Kolchak!"
+
+    PRS_Join_LOL: "Join the League of Nations"
+    PRS_Join_LOL_desc: "The British are one of the few Bastions of Sanity left in this World. It is time for Prussia to provide a good example for others and join the League of Nations."
+
+    PRS_Detente_Reds: "Detente with the Reds"
+    PRS_Detente_Reds_desc: "Some people think that Communism is the work of the Devil, but we have to be objective. They are not that bad, compared to some of the other Madness going on in Europe. Us Germans need to stick together to protect the Homeland from those who would destroy it, despite our differences."
+
+    PRS_Baltic_Crusade: "The Baltic Crusade"
+    PRS_Baltic_Crusade_desc: "Reichsmarschall Rüdiger von der Golz has announced his intentions in a public speech today. He promised to unite the Peoples of the Baltic to fight together for the restoration of order in Europe. Preferably by Diplomacy, maybe by force."
+
+    PRS_Baltic_SecConf: "Host a "Baltic Security Conference""
+    PRS_Baltic_SecConf_desc: "To lay the groundwork for an Alliance, Prussia will host a Conference on the topic of securing Stability in the Baltic Region. It is a non-commital event, mainly for discussion and exchage, but the Reichsmarschall plans to use it to propose a real Alliance."
+
+    PRS_AntiCommie: "The Anti-Communist Coalition"
+    PRS_AntiCommie_desc: "With Russia watching closely, the wisest course of action might be to propose a simple military Coalition, with the hope that it will grow in Centralisation over time."
+
+    PRS_NordicConf: "The Nordic Confederation"
+    PRS_NordicConf_desc: "With Russia distracted and unable act as Protector of the region, it is neccesary to form a potent Alliance agains the Reds. Prussia will be responsible for both Leadership and Protection."
+
+    PRS_NorthernCrusade: "The Northern Crusade"
+    PRS_NorthernCrusade_desc: "First, we must clean up our backyard. If any place in the Baltic has started flirting with the Socialists, we will beat that notion out of them."
+
+    PRS_StrikeSource: "Strike at the Source"
+    PRS_StrikeSource_desc: "We have assembled a strong coalition. It is time to take back Germany!" 
+
+    PRS_GreaterReich: "A Greater Reich"
+    PRS_GreaterReich_desc: "Germany is ours again! And with the trust we have gained from our Allies, we can unite all germanic Peoples under one Reich."
+
+    PRS_Global_Ambition: "Global Ambitions"
+    PRS_Global_Ambition_desc: "The restoration of the German Empire cannot just be a matter of reconquering the Heartland. There have been Colonies stolen from us too! Although it would be madness to think we can reconquer them (yet), we can reestablish Embassies worldwide and spread our influence under the cause of figthing Communism."
+
+    PRS_British_Ties: "British Ties"
+    PRS_British_Ties_desc: "We have little to offer but good will, yet that can go a long way. With Europe descending into insanity ever more, the sane peoples need to stick together."
+
+    PRS_Schee_Letter: "The Schnee Letter"
+    PRS_Schee_Letter_desc: "Reichsmarschall Schnee had an idea to negotiate the return of some Colonies into the Reich. If Prussia successfully takes care of the communist threat in Europe, then Britain may be ready to provide a reward. Schnee has delivered a secret letter to London, proposing this Plan."
+
+    PRS_Reap_Reward: "Reap the Rewards"
+    PRS_Reap_Reward_desc: "It is time to harvest the fruits of our Seeds. Germany is reunited and it's time to reclaim the Colonies. By Diplomacy, Subterfuge or War."
+
+    PRS_Pacific_Reconquest: "Pacific Reconquest"
+    PRS_Pacific_Reconquest_desc: "If we have the Naval Power and logistical reach required, we could reconquer our Colonies in the Pacific. Some people call this a waste of Money, but this is a matter of Prestige!"
+
+    PRS_Asien_Diplomacy: "Asian Diplomacy"
+    PRS_Asien_Diplomacy_desc: "For now, we are unable to do Gunship-Diplomacy in the Pacific, so we will have to try building influence by more benevolent means."
+
+    PRS_Colonial_Societies: "Colonial Societies"
+    PRS_Colonial_Societies_desc: "There are still scattered remnants of Germany's old colonial societies. We can unite them into an umbrella-federation, so they can act as the backbone of our international diplomatic schemes."
+
+    PRS_Afrika: "Afrika"
+    PRS_Afrika_desc: "In Namibia and Tanganyika, there are still significant remnants of german settlement. We use these as either the nucleus of a future Rebellion, or as a proxy to exert political influence on their new Overlords."
+
+    PRS_Asien: "Asien Diplomacy"
+    PRS_Asien_desc: "Our former Colonies in Asia have little love to spare for us, but there is a faint possibility that the West reasserts itself in the Pacific and Tsingtao can be reclaimed."
+
+    PRS_AntiCommie_International: "The Anti-Communist International"
+    PRS_AntiCommie_International_desc: "Internationalism is the big advantage of the Communist Movement. By setting up an organisation to combat the influence of the Komintern across the World, we can beat them."
+
+    PRS_Contact_Amerika: "Contacts in the Amerikas"
+    PRS_Contact_Amerika_desc: "There are some nations in South America with whom we have good relations and it's always worth sliming up to the USA."
+
+    PRS_Contact_Eurasia: "Eurasian Diplomacy"
+    PRS_Contact_Eurasia_desc: "Russia is a mess and we don't know who in there we can rely on. So, we need to keep all options open."
+
+    PRS_Global_Stability: ""Ensure Global Stability""
+    PRS_Global_Stability_desc: "Now that we have built an Alliance, we can start washing away the Red stain on our Globe."
+
+    PRS_Global_Reich: "The Global Reich"
+    PRS_Global_Reich_desc: "We have done it! The Sun never sets on the German Empire!"
+
+    PRS_Sunny_Retirement: "A Sunny Retirement"
+    PRS_Sunny_Retirement_desc: "Heinrich Schnee has announced that he will be stepping down from the position of Reichsmarschall to cede the office to one of his Colleagues again. He plans to settle down in Tanganyika as the Governor of the Colony."
+
+    PRS_Welt_Sicher: "Welt-Sicherheitsrat"
+    PRS_Welt_Sicher_desc: "In this new World, we must ensure that Socialism or Futurism will never become a threat again. We will set up a global order that will repress the Reds wherever they arise."
+
+    PRS_Rat_Nation: "Rat der Nationen"
+    PRS_Rat_Nation_desc: "With the threat of the Communist International defeated and the world still united in celebration, it is time to strike the iron while it's hot. We can set up a new system of International Law and ensure that the World of the future will be a stable one."
+
+    PRS_Resp_Join_Lol: "Join the League of Nations"
+    PRS_Resp_Join_Lol_desc: "The British have made an admirable efford to maintain sanity in the World through the League of Nations. It is time for us to join and let our dear Friends have some company..."
+
+    PRS_Goddamn_TNO: "The New Order"
+    PRS_Goddamn_TNO_desc: "There is a new Order descending over the World. The World Security-Council will fight off any threats to the World's stability, prosperity and private property. If you want a vision of the Future, imagine a Boot gently stomping on a Human Face. Forever."
+
+    PRS_RSP: "Respect, Stability and Peace"
+    PRS_RSP_desc: "The new World will be one defined by Law and Order. The Council of Nations will ensure that no one disrupt the Peace like the Futurists or Communists. But there will be no overstepping of Mandates, there will be no more Wars of Conquest."
+
+    PRS_Bread_Roses: "Bread and Roses"
+    PRS_Bread_Roses_desc: "The only thing that can save Prussia from Communism are swift reforms in the direction of Social Democracy. Although, maybe with a little less of the "Democracy" part."
+
+    PRS_Reestablish_Sozialstaat: "Reestablish the Sozialstaat"
+    PRS_Reestablish_Sozialstaat_desc: "It is time to divert some funds from the Army and invest in the wellbeing of our people. The Abwehr has become bloated and overfunded by Schleicher, we can easily divert some money from them without compromising our Security."
+
+    PRS_Labor_Regulate: "Labour Regulation"
+    PRS_Labor_Regulate_desc: "Unions might be a step too far, but the Junta can easily enforce solid Labour-Regulations to make sure that overly tyrannical Junkers don't cultivate militancy among their Workers."
+
+    PRS_Civilian_Admin: "Expand Civilian Buerocracy"
+    PRS_Civilian_Admin_desc: "As is stands, we rely too much on delegating tasks to the Junkers to make Prussia functional. This regression to Feudalism cannot continue! The State must take responsibility administrative tasks on the local level again."
+
+    PRS_Democratic_Infrastructure: "Democratic Infrastructure"
+    PRS_Democratic_Infrastructure_desc: "The Junta will not restore Democracy any time soon, but it is time to set up infrastructure for the restoration of a Federal Republic. We will allow the people to elect local Councils and even positions within the Buerocracy."
+
+    PRS_Fuck_Pabst: "Put Pabst on Trial!"
+    PRS_Fuck_Pabst_desc: "Waldemar Pabst had widely overstepped his bounds during the Bloody January. The Freikorps are a menace to both the People and the State. It is time to put them on trial."
+
+    PRS_DI_Freikorp: "Disperse and Integrate the Freikorp"
+    PRS_DI_Freikorp_desc: "It would be too dangerous to leave the Freikorps as an intact structure. They must be integrated into the Army and dispersed across different units."
+
+    PRS_Stability_Ensured: "Stability Ensured"
+    PRS_Stability_Ensured_desc: "With the most urgent Reforms done, Prussia is already a much more stable place."
+
+    PRS_Trade_Unions: "Negotiate with the Unions"
+    PRS_Trade_Unions_desc: "It is a controversial move, but Unions have much sway among workers and working with them is integral to ensuring harmony in our nation."
+
+    PRS_Safe_Homefront: "A Safe Homefront"
+    PRS_Safe_Homefront_desc: "With Prussia's internal issues thoroughly adressed, we can start preparing for War in the knowledge that we will not have to fight communist Insurgents in our Heartland."
+
+    PRS_Return_Home: "Return Home"
+    PRS_Return_Home_desc: "It is time."
+    PRS_Heirs_Empire: "Heris of the Empire"
+    PRS_Heirs_Empire_desc: "We are the last remnants of the German Empire, the Heirs of Frederick the Great and the Iron Chancellor. If we want to rekindle the glory of 1870, we must win the struggle ahead of us! It is Rebirth or Annihilation!"
+
+    PRS_Bloody_Jan: "Bloody January"
+    PRS_Bloody_Jan_desc: "The last harvest had been a measely one and our protectionist policy on trade has hindered the import of food in a dire moment. The people are hungry and radicals may exploit the situation."
+
+    PRS_Letter_Schleichner: "The Letter to Schleicher"
+    PRS_Letter_Schleichner_desc: "A number of Officers have delivered a letter to Reichsmarschall Schleicher, requesting his resignation. They state that they narrowly avoided catastropy and that consequences must be drawn. First, the Reichsmarschall must resign with the dignity expected of a Prussian in Public Office."
+
+    PRS_Treason: "It's Treason, then..."
+    PRS_Treason_desc: "These poor excuses for Prussians dared to send a letter of Protest to a superior officer? Someone hasn't been sufficiently whipped as a child... Send in the Police and make these fools answer to a Court."
+
+    PRS_Reichsmarschall: "The Reichsmarschall Resigns!"
+    PRS_Reichsmarschall_desc: "General Schleicher has chosen to resign! But who will take his place?"
+
+    PRS_Any_Objections: "Any further Objections?"
+    PRS_Any_Objections_desc: "Does anyone else intend to destabilise our Nation? No? Thought so. Now, let's get back to business..."
+
+    PRS_Daddy_Guderian: "Appoint Guderian"
+    PRS_Daddy_Guderian_desc: "Heinz Guderian is a visionary thinker and a trusted General. He may be lacking Schleicher's skill in Realpolitik, but maybe brute force will still serve us well in the coming struggle. And Schleicher will still be able to give advice from the background."
+
+    PRS_Order_Day: "Back to the Order of the Day"
+    PRS_Order_Day_desc: "The Dissent has been dealt with for now and the Junta will continue as usual, but these rowdy kids may have had a point... There are a few things we should adress."
+
+    PRS_Appoint_Pabst: "Appoint Pabst"
+    PRS_Appoint_Pabst_desc: "Waldemar Pabst is not the ideal choice, he is an unsophisticated brute, but hasn't his approach proven to work during the Blutfebruar? He will ensure Prussia's internal stability and isn't afraid to get his hands dirty for the cause. Reds don't deserve chivalry."
+
+    PRS_Process_First: "Process First!"
+    PRS_Process_First_desc: "Just appointing a Reichsmarschall won't do. A power-struggle must be avoided at all costs at this moment of national fragility. It is time to set up a process to determine the choice of a Reichsmarschall. We will perform an internal debate and hold a vote!"
+
+    PRS_DIRECTRULEFROMTHECROWN: "The Crown's Authority"
+    PRS_DIRECTRULEFROMTHECROWN_desc: "Just appointing a Reichsmarschall won't do. A power-struggle must be avoided at all costs at this moment of national fragility. It is time to set up a process to determine the choice of a Reichsmarschall. We will perform an internal debate and hold a vote!"
+
+    PRS_White_Terror: "The White Terror"
+    PRS_White_Terror_desc: "There are too many subversive elements within the Junta and it is time to root them out."
+
+    PRS_Der_Panzergeneral: "Der Panzergeneral"
+    PRS_Der_Panzergeneral_desc: "Heinz Guderian is one of the leading theorists of the Reich and for the coming war, we will need to get the most out of our Army. He is the best chance we have!"
+
+    PRS_Der_Verteidiger: "Der Verteidiger des Baltikums"
+    PRS_Der_Verteidiger_desc: "General Rüdiger von der Golz has proven his worth as an officer all around the Baltic, fighting the Red Flood. He has convinced the assembled Generals that Prussia has no chance of standing alone against the rabble infesting our Homeland. To go West, we have to first go East. Unite with the Germanic Peoples of the Baltic, to mobilise them for the march West."
+
+    PRS_Der_Graf: "Der Graf der Rosen"
+    PRS_Der_Graf_desc: "Fritz-Dietlof von der Schulenburg was the last person anyone would have expected to step into Schleicher's shoes. However, he has presented a calm, cold speech that presented the case that the introduction of an extensive "Social State" is the only way to compete with the appeal of Socialism."
+
+    PRS_Der_Tagtra: "Der Tagträumer"
+    PRS_Der_Tagtra_desc: "Heinrich Schnee is a controversial figure in the Junta, but his unorthodox approach might work. Spartacism is a Global Threat and we need to think big. His plan to open negotiations with Britain and establish ties all around the World may give us an edge the enemy does not expect. We must beat the Socialists at their own Internationalist Game!"
+
+    PRS_Emergency_Reforms: "Emergency Reforms"
+    PRS_Emergency_Reforms_desc: "We must immediately adress the issues uncovered by the Bloody January. First of all, we must formalise a Protocol to Coordinate our response to a native Insurrection. We cannot have the Freikorps plunge us into Anarchy with their overzealous brutality."
+
+    PRS_Humanitarian_Fund: "Humanitarian Emergency Fund"
+    PRS_Humanitarian_Fund_desc: "To be prepared in case of another Crisis, the Army itself needs to be ready to intervene to help the civilian population. We will keep a stockpile of military rations in reserve and work out a battleplan on how to rapidly distribute them to provinces in Crisis."
+
+    PRS_Tariff_Reform: "Tariff Reform"
+    PRS_Tariff_Reform_desc: "Tariffs are integral to Germany's method of doing Economics! But we also have to be pragmatic. There are some things we need to import and in the Future we should be more flexible with adjusting Tariff Rates according to the needs of our people."
+
+    PRS_General_Staff: "Assemble the General Staff"
+    PRS_General_Staff_desc: "It is time to plan for the reclaimation of the Homeland."
+
+    PRS_Reneg_Corridor: "Renegotiate the Corridor"
+    PRS_Reneg_Corridor_desc: "We have accepted Poland's control of the corridor to Danzig out of necessity, but we are by no means happy about it. It is time to politely ask the Poles if they'd be willing to make an arrangement that we are going to control it during the coming War. Maybe Russia can exert some pressure on our behalf as well..."
+
+    PRS_Northern_Thrust: "The Northern Thrust"
+    PRS_Northern_Thrust_desc: "General Guderian will command the Panzertruppe for an offensive into Pommern and rush to seize the ports to open up the possibility of shipping in Russian Strelky-Divisions as reinforcements."
+
+    PRS_Southern_Loyalists: "Contanct the Southern Loyalists"
+    PRS_Southern_Loyalists_desc: "There are still elements in the conservative South, who might be willing to fight against the Reds. We should contact them and incorporate them into our plan of attack."
+
+    PRS_Southern_Distraction: "The Southern Distraction"
+    PRS_Southern_Distraction_desc: "When we declare the Reclaimation-War, our Agents within the Gebirgsjäger units will conduct sabotage of installations in Bavaria and local Freikorps will seize control of the countryside, so the Reds will have to send troops to break the Siege of Munich."
+
+    PRS_Yes_Daddy_Guderian: "Guderian's Ambitions"
+    PRS_Yes_Daddy_Guderian_desc: "Reichsmarschall Guderian is more ambitious than the old Pragmatist Schleicher. He will not rest until the Reich is restored in it's full glory. That means that our Alliance with the Poles is not one that will last..."
+
+    PRS_Fall_Weiss: "Fall Weiß"
+    PRS_Fall_Weiss_desc: "In case of a conflict with Poland, the Panzertruppe will lead a spearhead along the Coast to seize the Ports. The Infantry will sweep down to the Vistula, to force Poland's concession of territories. In case of drawn out War, the Long Term Strategy is to throttle polish trade and stoke an ethnic german insurrection in Western Poland."
+
+    PRS_East_Allies: "Find Eastern Allies"
+    PRS_East_Allies_desc: "Russia may be a shattered mess, but they will surely recognise the threat of Communism. We will make overtures to cobble together a stronger Coalition."
+
+    PRS_Secret_Britain: "Secret Negotiations with Britain"
+    PRS_Secret_Britain_desc: "To defeat the Spartacists, they must be isolated from the World. Yet, the North Sea remains beyond out reach. We must open secret negotiations with Britain to ensure they will establish a Blockade when the time is right."
+
+    PRS_GOT: "A Game of Thrones"
+    PRS_GOT_desc: "With Schleicher's announcement that it is time to restore the Crown's authority over Prussia, a few Candidates have come out on top. But the actual legitimacy of the claims seems to play little role here."
+
+    PRS_Crown_Madman: "Crown the Madman"
+    PRS_Crown_Madman_desc: "He may have radical ideas, but it is not appropriate for a prussian officer to judge the vision of his Kaiser. August Wilhelm von Preußen is now Emperor of Germany!"
+
+    PRS_Benevolent_Usurp: "Benevolent Usurpation"
+    PRS_Benevolent_Usurp_desc: "We cannot gamble with the future of Germany, even if we must betray our principles. August Wilhelm is too radical, he must be passed over in favour of Prince Oskar. Crown him now, before another pretender has a chance to organise his bid!"
+
+    PRS_Queen_Coup: "The Queen's Coup"
+    PRS_Queen_Coup_desc: "Princess Viktoria-Louise has always been ambitious, but not even Schleicher had expected her to march into the Castle in full Uniform with a small Army at her back. With Königsberg effectively under her occupation, she has declared the Military Regency to be concluded."
+
+    PRS_Clash_Kings: "A Clash of Kings"
+    PRS_Clash_Kings_desc: "Usurpers don't sit easy on their Thrones."
+
+    PRS_Prussian_Spring: "A Prussian Spring"
+    PRS_Prussian_Spring_desc: "Spring has come and the political crisis is resolved. For now. It is time to let things calm down and smell the flowers."
+
+    PRS_Reconciliation: "Reconciliation"
+    PRS_Reconciliation_desc: "Prussia can't afford to be divided. After these turbulent Months, it is time to rebuild the political landscape and reconcile with the loosers. With the Red Flood soon to crash against the Dam, we can't afford the divides to grow."
+
+    PRS_March_Eagles: "March of the Eagles"
+    PRS_March_Eagles_desc: "Hurrah for the Kaiser of Germany!"
+
+    PRS_Soldier_Kaiserin: "Die Soldatenkaiserin"
+    PRS_Soldier_Kaiserin_desc: "Empress Viktoria-Louise has announced that she will return Prussia to it's roots. She shall rule by decree and lead as her Ancestor Friedrich the Great once did: From the front with her Soldiers!"
+
+    PRS_Enlight_Despotism: "Enlightened Despotism"
+    PRS_Enlight_Despotism_desc: "The Empress has announced that her reign will be one of Progress. She intends to have Prussia remember it's roots to be able to step stronger into the future. Concretely, what she has announced is a series of sweeping Social Reforms to Prussia that are expected to have a huge impact on policy and culture."
+
+    PRS_Integrate_Junta: "Integration of the Junta"
+    PRS_Integrate_Junta_desc: "The old order must be integrated into the new structures if the Empress wants to keep her Throne. It will take time and efford, though."
+
+    PRS_Kaiser_Vision: "Ein Kaiser mit Vision!"
+    PRS_Kaiser_Vision_desc: "Austust Wilhelm von Preußen is an eccentric man, a man of Vision! To prosper, we need a true ideal to strive for and he will deliver. But will we look to our rich past or the exiting future for that Spark of Inspiration?"
+
+    PRS_Braun_Ambition: "Braun's Ambitions"
+    PRS_Braun_Ambition_desc: "Otto Braun has been an influential figure in prussian politics for a while. Despite his young age, he has established himself as the artistic visionary of a National Rejuvinationist Movement. The Kaiser is a fan of his and intends to make the young man's visions a Reality."
+
+    PRS_The_Brownshirts: "The Brownshirts"
+    PRS_The_Brownshirts_desc: "Our Nation has long been plagued by a splinter-group of the Freikorps, the Brownshirts, who are responsible for unauthorized Progroms in the Cities. Our Kaiser admires their enthusiasm and has announced that Horst Wessel will be his appointed Reichsmarschall."
+
+    PRS_Kaiser_English: "Kaiser nach Englischem Vorbild"
+    PRS_Kaiser_English_desc: "Prinz Oskar, now Kaiser Oskar, never asked for the Crown. Yet, he accepted the responsibility to save the realm from his mad Brother. But it is time to hand power back to an accountable institution: His Majesty's Imperial Diet."
+
+    PRS_Revive_Reichstag: "Revive the Reichstag"
+    PRS_Revive_Reichstag_desc: "By the Kaiser's decree, the Reichstag is now officially restored as the legislative branch of the Government. The Fate of the Reichsmarchall and the Executive remain to be determined."
+
+    PRS_Restore_Democracy: "Restore Full Democracy"
+    PRS_Restore_Democracy_desc: "The Regency has done a good enough Job in safeguarding the Remnants of the Reich, but their watch has ended. It is time to transfer executive power to an elected Chancellor and his Cabinet."
+
+    PRS_Elect_Reichsmarschall: "An Elected Reichsmarschall"
+    PRS_Elect_Reichsmarschall_desc: "Uprooting the Junta from Executive Power would be a long, difficult and risky task. It would be much easier to maintain the current Junta as the Executive Branch and have the Reichsmarschall be chosen by public Elections."
+
+    PRS_Prussian_Democracy: "Prussian Democracy"
+    PRS_Prussian_Democracy_desc: "Democracy has been restored in Prussia and it is time to work out the finer details about our Role in the World."
+
+    PRS_Women_Sufferage: "Women's Sufferage"
+    PRS_Women_Sufferage_desc: "The most stable and just system is one where everyone can vote. It's is important to give women the ability to participate in the political process without restrictions."
+
+    PRS_One_Household: "One Vote per Household"
+    PRS_One_Household_desc: "The less people Vote, the better. An ideal way to keep power centralised is to ensure that only the Patriarch of the Family has the right to Vote."
+
+    PRS_Aristocracy: "Lord-Electors"
+    PRS_Aristocracy_desc: "Giving the Peasants the right to choose a Ruler? Preposterous! If we must restore Democracy, it should be through a federal system in which the Junker-Families retain formal Privileges. Only they can run as candidates and they will act as Superdelegates in the Election of the Reichsmarchall."
+
+    PRS_Radical_Parties: "Permit Radical Parties"
+    PRS_Radical_Parties_desc: "There is no such thing as too much Democracy. Socialists and Futurists both have a fundamental right to have their voices heard. Furthermore, their participation in electoral politics will serve to defuse their volatile tendencies."
+
+    PRS_Fortified_Party: "Fortified Democracy"
+    PRS_Fortified_Party_desc: "The rights of Radicals must be respected, but that does not apply to Extremists. Any Party or Organisation that threatens the constitutional Order or calls for the violent overthrow of Democracy can be banned by the Reichstag."
+
+    PRS_No_Commies: "No Reds!"
+    PRS_No_Commies_desc: "Democracy has it's limits. We cannot allow Berlin's Puppets to participate in elections without risking National Security."
+
+    PRS_Stick_Russia: "Stick with Russia"
+    PRS_Stick_Russia_desc: "Russia is the force that protects Eurasia from Communism and it would be foolish not to stick with them. God Save the Tsar and Admiral Kolchak!"
+
+    PRS_Join_LOL: "Join the League of Nations"
+    PRS_Join_LOL_desc: "The British are one of the few Bastions of Sanity left in this World. It is time for Prussia to provide a good example for others and join the League of Nations."
+
+    PRS_Detente_Reds: "Detente with the Reds"
+    PRS_Detente_Reds_desc: "Some people think that Communism is the work of the Devil, but we have to be objective. They are not that bad, compared to some of the other Madness going on in Europe. Us Germans need to stick together to protect the Homeland from those who would destroy it, despite our differences."
+
+    PRS_Baltic_Crusade: "The Baltic Crusade"
+    PRS_Baltic_Crusade_desc: "Reichsmarschall Rüdiger von der Golz has announced his intentions in a public speech today. He promised to unite the Peoples of the Baltic to fight together for the restoration of order in Europe. Preferably by Diplomacy, maybe by force."
+
+    PRS_Baltic_SecConf: "Host a "Baltic Security Conference""
+    PRS_Baltic_SecConf_desc: "To lay the groundwork for an Alliance, Prussia will host a Conference on the topic of securing Stability in the Baltic Region. It is a non-commital event, mainly for discussion and exchage, but the Reichsmarschall plans to use it to propose a real Alliance."
+
+    PRS_AntiCommie: "The Anti-Communist Coalition"
+    PRS_AntiCommie_desc: "With Russia watching closely, the wisest course of action might be to propose a simple military Coalition, with the hope that it will grow in Centralisation over time."
+
+    PRS_NordicConf: "The Nordic Confederation"
+    PRS_NordicConf_desc: "With Russia distracted and unable act as Protector of the region, it is neccesary to form a potent Alliance agains the Reds. Prussia will be responsible for both Leadership and Protection."
+
+    PRS_NorthernCrusade: "The Northern Crusade"
+    PRS_NorthernCrusade_desc: "First, we must clean up our backyard. If any place in the Baltic has started flirting with the Socialists, we will beat that notion out of them."
+
+    PRS_StrikeSource: "Strike at the Source"
+    PRS_StrikeSource_desc: "We have assembled a strong coalition. It is time to take back Germany!" 
+
+    PRS_GreaterReich: "A Greater Reich"
+    PRS_GreaterReich_desc: "Germany is ours again! And with the trust we have gained from our Allies, we can unite all germanic Peoples under one Reich."
+    #Otto
+    PRS_ottos_traum: "Otto's Traum"
+    PRS_ottos_traum_desc: "Since he was young, our great Otto Braun had a dream; to unite the culture, wit and Intelligence of the Greek with the strengh and purity of the Germans to succeed where Alexander has failed."
+    PRS_conquer_like_alexander: "Conquer like Alexander"
+    PRS_conquer_like_alexander_desc: "We cannot deny our germanic roots- and why would we? While the Tribes of old didn't reach the societial level of Greece, they still were a magnificent and strong people. We should cherish our roots, not forget them!"
+    PRS_break_germany: "Break Germany"
+    PRS_break_germany_desc: "We shall crush the false Germany!"
+    PRS_destroy_sweden: "Destroy Sweden"
+    PRS_destroy_sweden_desc: "If we truly want an empire like alexanders, a macedonia of the Baltics, we cannot forget scandinavia- our rival in this area. Only by defeating them, we can cement our grip over the Baltics.
+    PRS_break_the_poles: "Break the Poles"
+    PRS_break_the_poles_desc: "It is undisputed that the Poles occupy rightful German Land- this has t stop! If we truly want to create an empire like Alexanders, the Poles have to fall."
+    PRS_crush_russia: "Crush Russia"
+    PRS_crush_russia_desc: "What for Alexander was persia, for us is Russia- a looming thread in the East. And like Alexander, after unifying our People, we can crush them. Our mighty armies will march east- and Russia will follow Persia. "
+    PRS_macedonia_of_the_baltics: "Macedonia of the Baltics"
+    PRS_macedonia_of_the_baltics_desc: "Finaly! With the wits and strengh of our great leader, we have made Alexander proud. Like Macedonia, Prussia is an empire with undisputed Power. But this is not the end. We will fight on, and ou Empire will last longer than time itself."
+    PRS_griechische_kultur: "Griechische Kultur"
+    PRS_griechische_kultur_desc: "greatest archievements of the Greek is their architecture- the columns and ornaments are iconic, and if we want to revive the hellenic Culture, we need to adopt their style."
+    PRS_democracy_for_the_people: "Democracy for the People"
+    PRS_democracy_for_the_people_desc: "The trick with greek Democracy is that not everyone was allowed to vote- those wh have proven their worth by owning Property have a right to vote and those who are the most subversive, the poor- dont have it"
+    PRS_polis_in_the_cities: "Polis in the Cities"
+    PRS_polis_in_the_cities_desc: "Our cities should be organized like Athens and the other Polis. If we can truly resurrect the spitit of Greece, we will be unstoppable."
+    PRS_adopt_greek_architecture: "Adopt Greek Architecture"
+    PRS_adopt_greek_architecture_desc: "One of the greatest archievements of the Greek is their architecture- the coloumns and ornarments are iconic, and if we want to revive the hellenic Culture, we need to adopt their style."
+    PRS_gymnasien: "Gymnasien"
+    PRS_gymnasien_desc: "The Greek Phalanx and Philosopher were educated in special learning facilities, strenghening both mind and body alike and creating a people brutal and cunning like none before or after."
+    PRS_second_renaissance: "Second Renaissance"
+    PRS_second_renaissance_desc: "Now, we can truly revive the might and knowledge of old, and create a nation of warriors an philosophs not seen since a thousand years. We can truly say, we are the Hellas of the north!"
+    PRS_starke_der_kultur: "Stärke der Kultur"
+    PRS_starke_der_kultur_desc: "We are proud to say- we have created an economy which is not only possible to sustain an Empire worthy of Alexander, but is also the most just system under the sun."
+    PRS_the_peoples_economy: "The People's Economy"
+    PRS_the_peoples_economy_desc: "her is no way around this, we need Socialism, we need an economy for the people. But the communists have created the image that Socialism means giving the sacred means of production  into the hands of the Proles.  But we know the truth. Our socialism means unity of the People, not a "War of Classes""
+    PRS_socialism_from_above: "Socialism from Above"
+    PRS_socialism_from_above_desc: "Ideologies in the current day- the Capitalists, who exploit the people, strangle the small buisnesses and expropriate the farmers, and the Communists who give the important matters of state and economy into the unwashed hands of the Unemployed and the Uneducated. We have to stand against bot the Elites and the Mob- because we have a new, a third way"
+    PRS_appease_the_masses: "Appease the Masses"
+    PRS_appease_the_masses_desc: "Our society is not the one of bicering and divide like the others- we stand united. But to Unify the people we need to give them enough so they dont start fights over the things they want"
+    PRS_food_against_power: "Food Against Power"
+    PRS_food_against_power_desc: "We cannot create a world-spanning Empire if we are not even able to feed the poor on the streets of Gumbinnen and Königsberg"
+    PRS_unity_against_the_collective: "Unity against the Collective"
+    PRS_unity_against_the_collective_desc: "Now, after we have the people, we can finally do something about the scourge of Europe; Communism."
+    PRS_neue_deutsche_wirtschaft: "Neue deutsche Wirtschaft"
+    PRS_neue_deutsche_wirtschaft_desc: "We are proud to say- we have created an economy which is not only possible to sustain an Empire worthy of Alexander, but is also the most just system under the sun."
+    PRS_germanische_starke: "Germanische Stärke"
+    PRS_germanische_starke_desc: "After the Junker are gone, we need to solidify the system of tribes we have established in the countryside. We should create a council of tribes."
+    PRS_one_with_our_soil: "One with our Soil"
+    PRS_one_with_our_soil_desc: "As true sons of germany, we have a sacred relationship with the soil beneath us- the spirits of our ancestors pulsate through it, and whoever mistreats this sacred soil shall die."
+    PRS_wie_die_berserker: "Wie die Berserker"
+    PRS_wie_die_berserker_desc: "With our culture honouring both the fathers of Germany and the Fathers of Hellas, there is no Reason why we shouldn'd combine these cultures, to a new, Germano-Hellenic Culture!"
+    PRS_rulership_of_the_best: "Rulership of the Best"
+    PRS_rulership_of_the_best_desc: "The countryside is still ruled by the Junker. They are heredetary noblemen, decaing in their decadence and with every generation it gets stronger. While they may have been a people of great deeds and honour, now they are leeches living off the back of their subjects. Instead of them, the smartest, strongest or most witted members of society should rule outside of the cities."
+    PRS_tribes_in_the_countryside: "Tribes in the Countryside"
+    PRS_tribes_in_the_countryside_desc: "After the Junker are gone, we need to solidify the system of tribes we have established in the countryside. We should create a council of tribes."
+    PRS_germanentum: "Germanentum"
+    PRS_germanentum_desc: "Only by connecting to our Ancestors, we can create a society that has the strengh of the old Germans when they repelled the romans and when they marched to Britain, Spain and Aftica. We will be undefeateble"
+    PRS_kultur_der_starke: "Kultur der Stärke"
+    PRS_kultur_der_starke_desc: "Our Culture promotes strengh. We are invincible"
+    PRS_unified_pantheons: "Unified Pantheons"
+    PRS_unified_pantheons_desc: "With our culture honouring both the fathers of Germany and the Fathers of Hellas, there is no Reason why we shouldn'd combine these cultures, to a new, Germano-Hellenic Culture!"
+    PRS_our_place_in_the_world: "Our Place in the World"
+    PRS_our_place_in_the_world_desc: "We have took our rightful place in the world!"
+    PRS_into_intermarium: "Into Intermarium"
+    PRS_into_intermarium_desc: "Like Alexander with the Leauge of Corinth, we need allies. And there is no one better then the Poles and their federation of Intermarium, which will ensure our Victory."
+    PRS_our_own_way: "Our Own Way"
+    PRS_our_own_way_desc: "We do not need puny alliances to be victorious! No empire has ever been forged through "equal cooperation". Either you join us, or you'll share the fate of thebes."

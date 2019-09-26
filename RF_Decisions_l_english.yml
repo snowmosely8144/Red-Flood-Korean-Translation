@@ -1,0 +1,49 @@
+﻿l_english: 
+
+#Category
+ideology_generic_category:0 "Maintaining the Regime"
+
+#Revolutionary Anarchist
+anarchist_stability:0 "Arrange Communal Debates"
+anarchist_popularity:0 "Democratise Institutions"
+anarchist_war_support:0 "Local Militia Elections"
+#Vanguard Socialist
+vanguard_stability:0 "Central Committee Congress"
+vanguard_popularity:0 "Open Party Membership"
+vanguard_war_support:0 "Prepare Revolutionary Parade"
+#Libertarian Marxist
+libertarian_stability:0 "Recall Unpopular Representatives"
+libertarian_popularity:0 "Intergrate Trade Unions"
+libertarian_war_support:0 "Concessions to Soldiers' Councils"
+#Revisionist Socialist
+revisionist_stability:0 "Reconcile with Radicals"
+revisionist_popularity:0 "Entice the Middle-Class" 
+revisionist_war_support:0 "Protect Wartime Workers' Rights"
+#Social Democrat
+social_stability:0 "Form Special Commissions"
+social_popularity:0 "Promises to Capital Owners"
+social_war_support:0 "Work with Trade Unions"
+#Liberal
+liberal_stability:0 "Protect Essential Industries"
+liberal_popularity:0 "Capitalism for All!"
+liberal_war_support:0 "Stockpile Resources for War"
+#Conservative
+conservative_stability:0 "Cuts to Unnecessary Institutions"
+conservative_popularity:0 "Appeal to Tradition"
+conservative_war_support:0 "Call upon Patriotic Duty"
+#Right Authoritarian
+authoritarian_stability:0 "Purge Uncooperative Citizens"
+authoritarian_popularity:0 "Service Guarantees Security"
+authoritarian_war_support:0 "Absolution for Service"
+#Despotic
+despotic_stability:0 "The Great Speech"
+despotic_popularity:0 "Reward Loyal Subjects"
+despotic_war_support:0 "Rally the Nation!"
+#Reactionary
+reactionism_stability:0 "Construct National Works"
+reactionism_popularity:0 "Bully Rival Parties"
+reactionism_war_support:0 "Inspire Ideological Militarism"
+#Accelerationism
+accelerationism_stability:0 "Align Arts and Academia"
+accelerationism_popularity:0 "Promise a Liberating Alternative"
+accelerationism_war_support:0 "Demand Absolute Fanaticism"

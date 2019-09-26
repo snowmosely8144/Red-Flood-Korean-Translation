@@ -1,0 +1,56 @@
+﻿l_english:
+#COUNTRY NAME#
+POL_vanguard_socialism:0 "Poland"
+POL_vanguard_socialism_DEF:0 "Poland"
+POL_vanguard_socialism_ADJ:0 "Polish"
+
+POL_libertarian_marxism:0 "Poland"
+POL_libertarian_marxism_DEF:0 "Poland"
+POL_libertarian_marxism_ADJ:0 "Polish"
+
+POL_revolutionary_anarchism:0 "Poland"
+POL_revolutionary_anarchism_DEF:0 "Poland"
+POL_revolutionary_anarchism_ADJ:0 "Polish"
+
+POL_revisionist_socialism:0 "Poland"
+POL_revisionist_socialism_DEF:0 "Poland"
+POL_revisionist_socialism_ADJ:0 "Polish"
+
+POL_social_democratism:0 "Poland"
+POL_social_democratism_DEF:0 "Poland"
+POL_social_democratism_ADJ:0 "Polish"
+
+POL_placeholderism:0 "Poland"
+POL_placeholderism_DEF:0 "Poland"
+POL_placeholderism_ADJ:0 "Polish"
+
+POL_liberalism:0 "Poland"
+POL_liberalism_DEF:0 "Poland"
+POL_liberalism_ADJ:0 "Polish"
+
+POL_conservatism:0 "Poland"
+POL_conservatism_DEF:0 "Poland"
+POL_conservatism_ADJ:0 "Polish"
+
+POL_right_authoritarianism:0 "Poland"
+POL_right_authoritarianism_DEF:0 "Poland"
+POL_right_authoritarianism_ADJ:0 "Polish"
+
+POL_despotism:0 "Poland"
+POL_despotism_DEF:0 "Poland"
+POL_despotism_ADJ:0 "Polish"
+
+POL_reactionism:0 "Poland"
+POL_reactionism_DEF:0 "Poland"
+POL_reactionism_ADJ:0 "Polish"
+
+POL_accelerationism:0 "Poland"
+POL_accelerationism_DEF:0 "Poland"
+POL_accelerationism_ADJ:0 "Polish"
+#PARTIES#
+#LEADER DESCRITIONS#
+POL_GATHERING_STORM_DESC = "Following the collapse of Germany and Russia following the great war, Poland would be reborn out of the ashes from centuries of foreign domination. Led by General Piłsudski Poland was able to overcome and defeat the threats surrounding them, from Germany, Russia and Czechoslovakia, through the formation of a eastern Europe defensive pact called "The Intermarium". It has been over 15 years since this however and Piłsudski has gotten old. Bed ridden from cancer few know how long he will live, but it is only a matter of time till the Great Marshal loses his final battle."
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#

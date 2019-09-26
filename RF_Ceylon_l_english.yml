@@ -1,0 +1,67 @@
+﻿l_english:
+#COUNTRY NAME#
+CEY_vanguard_socialism:0 "Ceylon"
+CEY_vanguard_socialism_DEF:0 "Ceylon"
+CEY_vanguard_socialism_ADJ:0 "Ceylonese"
+
+CEY_libertarian_marxism:0 "Ceylon"
+CEY_libertarian_marxism_DEF:0 "Ceylon"
+CEY_libertarian_marxism_ADJ:0 "Ceylonese"
+
+CEY_revolutionary_anarchism:0 "Ceylon"
+CEY_revolutionary_anarchism_DEF:0 "Ceylon"
+CEY_revolutionary_anarchism_ADJ:0 "Ceylonese"
+
+CEY_revisionist_socialism:0 "Ceylon"
+CEY_revisionist_socialism_DEF:0 "Ceylon"
+CEY_revisionist_socialism_ADJ:0 "Ceylonese"
+
+CEY_social_democratism:0 "Ceylon"
+CEY_social_democratism_DEF:0 "Ceylon"
+CEY_social_democratism_ADJ:0 "Ceylonese"
+
+CEY_placeholderism:0 "Ceylon"
+CEY_placeholderism_DEF:0 "Ceylon"
+CEY_placeholderism_ADJ:0 "Ceylonese"
+
+CEY_liberalism:0 "Ceylon"
+CEY_liberalism_DEF:0 "Ceylon"
+CEY_liberalism_ADJ:0 "Ceylonese"
+
+CEY_conservatism:0 "Ceylon"
+CEY_conservatism_DEF:0 "Ceylon"
+CEY_conservatism_ADJ:0 "Ceylonese"
+
+CEY_right_authoritarianism:0 "Ceylon"
+CEY_right_authoritarianism_DEF:0 "Ceylon"
+CEY_right_authoritarianism_ADJ:0 "Ceylonese"
+
+CEY_despotism:0 "Ceylon"
+CEY_despotism_DEF:0 "Ceylon"
+CEY_despotism_ADJ:0 "Ceylonese"
+
+CEY_reactionism:0 "Ceylon"
+CEY_reactionism_DEF:0 "Ceylon"
+CEY_reactionism_ADJ:0 "Ceylonese"
+
+CEY_accelerationism:0 "Ceylon"
+CEY_accelerationism_DEF:0 "Ceylon"
+CEY_accelerationism_ADJ:0 "Ceylonese"
+#PARTIES#
+CEY_vanguard_socialism_party:0 "Lanka Sama Samaja Party"
+CEY_libertarian_marxism_party:0 "Indian Congress Socialist Party"
+CEY_revolutionary_anarchism-party:0 "Workers and Peasants Union"
+CEY_revisionist_socialism_party:0 "Agrarianism Supporters"
+CEY_social_democratism_party:0 "Ceylon Natinol Congress"
+CEY_liberalism_party:0 "Sinhala Maha Sabha"
+CEY_conservatism_party:0 "Ceylon Tamil League"
+CEY_right_authoritarianism_party:0 "British Empire Support"
+CEY_despotism_party:0 "Monarchist Restoration Supporters"
+CEY_reactionism_party:0 "Tamil Resurgence League"
+CEY_accelerationism_party:0 "Pro French Faction"
+#LEADER DESCRITIONS#
+
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
