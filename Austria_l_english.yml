@@ -444,130 +444,129 @@ AUS_strikethereds_desc:0 ""
 
 
 #EVENTS#
-austria.7.t:0 "피투성이의 학살" 
+austria.7.t:0 "피투성이 학살" 
 
-austria.7.d:0 "After the war and the subsequent loss of much of the empire, the position of the crown has been the subject of great debate throughout many of the political circles. \n It was against this intense scrutiny that Kaiser Otto had called the members of his house, the elites of Austrian society, and the leading clique of the CSP to discuss where the monarchy's place within future of Austria. \n After two hours of dry conversation had passed, two guards assigned to the main entrance to the hall had stormed in, interrupting a talk being delivered by the statistician Breisky. What followed struck the very foundation of our society: \n one of the guards fired at the sitting Habsburgs whilst the other locked doors and gunned down any attempting to flee the massacre, \n the shooting alerted other guards of the palace the local police who responded within minutes. The two gun men had fortified their position and the hastily put together response quickly devolved into a siege - by the time the police were able to break into the hall and neutralise the gunmen several innocent civilians were caught in crossfire or mistakenly identified. \n Despite the attempt to physically end the Habsburg hold on Austria, three royals have avoided the wrath of the gunmen: \n Archdukes Otto, Robert, and Archduchess Adelheid. These three were quickly moved to their country home for their protection. Before the bodies of the royal family had even been taken out of the hall, many have started to point fingers at those they deem responsible and the royals are being declared martyrs by the resurgent monarchists.\n  Austrians of all banners lay blame to others for the deaths of the Habsburgs with the vast majority focussing on the alleged communist sympathies of the guardsmen whilst many leftists are suspicious of potential Heimwehr funding. \n Schuschnigg, justified by the national tragedy, has granted himself intense emergency powers much to the glee of the right and the ire of the left - as a response to the Ministerpräsident's tightening grip on politics socialists have left the Reichsrat and red brigades have taken to the streets to fight against the newly established Schuschnigg regime. \n If there's one thing all Austrians can agree on in these divided times it is that the peace died with the Kaiser."
+austria.7.d:0 "전쟁과 그 여파로 제국의 많은 부분을 잃은 후, 왕관의 위치는 많은 정치권에서 큰 논쟁의 대상이 되었습니다. \n 황제 오토가 자신의 가문 일원들과 오스트리아 사회의 엘리트들, 그리고 오스트리아의 미래 속에서 왕정이 어디에 위치하는지를 논의하기 위해 기독사회당의 선도적인 파벌을 부른 것은 이러한 강도 높은 논의와 반대되는 것이였습니다. \n 두 시간 동안의 건조한 대화가 지나가고 난 후, 복도 정문에 배정된 두 명의 근위대가 난입하여 통계학자인 브레이스키가 전하는 이야기를 중단시켰습니다. 뒤이어 일어난 일은 우리 사회의 근간을 강타했습니다: \n 근위대 중 한 명이 앉아 있는 합스부르크 가문원에게 총을 쏘았고, 다른 한 명은 문을 잠그고 대학살에서 도망치는 이에게 총기를 난사했습니다. \n 총격은 몇 분 안에 대응한 지역 경찰들에게 다른 경비원들이 알려주었습니다. 두 명의 총잡이들은 그들의 위치를 확고히 했고 급하게 전개한 포위망 속에 갇혔습니다. 경찰이 복도에 침입하여 무장대원들을 무력화시킬 수 있을 때쯤에는 여러 명의 무고한 민간인들이 십자 포화에 휘말리거나 잘못 식별되었습니다. \n 오스트리아에 대한 합스부르크의 지배를 물리적으로 끝내려는 시도에도 불구하고, 세 명의 왕족들은 무장대원들의 분노를 피했습니다: \n 오토 대공, 로베르트, 여대공 아델하이트. 이 세 사람은 보호를 위해 재빨리 고국으로 옮겨졌습니다. 왕실의 시체가 홀 밖으로 반출되기도 전에, 많은 사람들이 자신들이 보기에 책임있다고 생각하는 사람들을 손가락질하기 시작했고 죽은 왕족들은 부활한 군주론자들에 의해 순교자가 되었습니다.\n 모든 기치 하의 오스트리아인들은 합스부르크 왕실의 죽음에 대해 다른 사람들에게 책임을 전가하며 대부분의 사람들은 근위병들이 공산주의에 동조했다는 의혹에 초점을 맞추고 있는 반면 많은 좌파들은 보국단이 사주했을 가능성을 의심하고 있습니다. \n 슈슈니크는 막강한 비상권한을 국가적인 비극으로 정당화하였으며 이에 우파는 기세등등해졌으며 동시에 좌파의 분노를 샀습니다.수상이 정치 장악을 강화한 것에 대한 대응으로 사회주의자들은 연방 의회를 떠났고 붉은 여단은 새로 수립된 슈슈니크 정권에 맞서 싸우기 위해 거리로 나섰습니다. \n 이 분열된 시기에 오스트리아인들이 모두 동의할 수 있는 것이 있다면 그것은 황제와 함께 평화가 죽었다는 것입니다." 
 
-austria.7.a:0 "The people have spoken."
+austria.7.a:0 "국민들이 동요하고 있다."
 
-austria.8.t:0 "피투성이의 학살" 
+austria.8.t:0 "피투성이 학살" 
 
-austria.8.d:0 "After the war and the subsequent loss of much of the empire, the position of the crown has been the subject of great debate throughout many of the political circles. \n It was against this intense scrutiny that Kaiser Otto had called the members of his house, the elites of Austrian society, and the leading clique of the CSP to discuss where the monarchy's place within future of Austria. \n After two hours of dry conversation had passed, two guards assigned to the main entrance to the hall had stormed in, interrupting a talk being delivered by the statistician Breisky. What followed struck the very foundation of our society: \n one of the guards fired at the sitting Habsburgs whilst the other locked doors and gunned down any attempting to flee the massacre, \n the shooting alerted other guards of the palace the local police who responded within minutes. The two gun men had fortified their position and the hastily put together response quickly devolved into a siege - by the time the police were able to break into the hall and neutralise the gunmen several innocent civilians were caught in crossfire or mistakenly identified. \n Despite the attempt to physically end the Habsburg hold on Austria, three royals have avoided the wrath of the gunmen: \n Archdukes Otto, Robert, and Archduchess Adelheid. These three were quickly moved to their country home for their protection. Before the bodies of the royal family had even been taken out of the hall, many have started to point fingers at those they deem responsible and the royals are being declared martyrs by the resurgent monarchists.\n  Austrians of all banners lay blame to others for the deaths of the Habsburgs with the vast majority focussing on the alleged communist sympathies of the guardsmen whilst many leftists are suspicious of potential Heimwehr funding. \n Schuschnigg, justified by the national tragedy, has granted himself intense emergency powers much to the glee of the right and the ire of the left - as a response to the Ministerpräsident's tightening grip on politics socialists have left the Reichsrat and red brigades have taken to the streets to fight against the newly established Schuschnigg regime. \n If there's one thing all Austrians can agree on in these divided times it is that the peace died with the Kaiser."
+austria.8.d:0 전쟁과 그 여파로 제국의 많은 부분을 잃은 후, 왕관의 위치는 많은 정치권에서 큰 논쟁의 대상이 되었습니다. \n 황제 오토가 자신의 가문 일원들과 오스트리아 사회의 엘리트들, 그리고 오스트리아의 미래 내 왕정이 어디에 위치하는지를 논의하기 위해 기독사회당의 선도적인 파벌을 부른 것은 이러한 강도 높은 논의와 반대되는 것이였습니다. \n 두 시간 동안의 건조한 대화가 지나가고 난 후, 복도 정문에 배정된 두 명의 근위대가 난입하여 통계학자인 브레이스키가 전하는 이야기를 중단시켰습니다. 뒤이어 일어난 일은 우리 사회의 근간을 강타했습니다: \n 근위대 중 한 명이 앉아 있는 합스부르크 가문원에게 총을 쏘았고, 다른 한 명은 문을 잠그고 대학살에서 도망치는 이에게 총기를 난사했습니다. \n 총격은 몇 분 안에 대응한 지역 경찰들에게 다른 경비원들이 알려주었습니다. 두 명의 총잡이들은 그들의 위치를 확고히 했고 급하게 전개한 포위망 속에 갇혔습니다. 경찰이 복도에 침입하여 무장대원들을 무력화시킬 수 있을 때쯤에는 여러 명의 무고한 민간인들이 십자 포화에 휘말리거나 잘못 식별되었습니다. \n 오스트리아에 대한 합스부르크의 지배를 물리적으로 끝내려는 시도에도 불구하고, 세 명의 왕족들은 무장대원들의 분노를 피했습니다: \n 오토 대공, 로베르트, 여대공 아델하이트. 이 세 사람은 보호를 위해 재빨리 고국으로 옮겨졌습니다. 왕실의 시체가 홀 밖으로 반출되기도 전에, 많은 사람들이 자신들이 보기에 책임있다고 생각하는 사람들을 손가락질하기 시작했고 죽은 왕족들은 부활한 군주론자들에 의해 순교자가 되었습니다.\n 모든 기치 하의 오스트리아인들은 합스부르크 왕실의 죽음에 대해 다른 사람들에게 책임을 전가하며 대부분의 사람들은 근위병들이 공산주의에 동조했다는 의혹에 초점을 맞추고 있는 반면 많은 좌파들은 보국단이 사주했을 가능성을 의심하고 있습니다. \n 슈슈니크는 막강한 비상권한을 국가적인 비극으로 정당화하였으며 이에 우파는 기세등등해졌으며 동시에 좌파의 분노를 샀습니다.수상이 정치 장악을 강화한 것에 대한 대응으로 사회주의자들은 연방 의회를 떠났고 붉은 여단은 새로 수립된 슈슈니크 정권에 맞서 싸우기 위해 거리로 나섰습니다. \n 이 분열된 시기에 오스트리아인들이 모두 동의할 수 있는 것이 있다면 그것은 황제와 함께 평화가 죽었다는 것입니다."
 
-austria.8.a:0 "빨갱이들을 최종적으로 패배시킬 시간이군."
+austria.8.a:0 "빨갱이들을 완전히 내쫓을 시간이다"
 
 austria.9.t:0 "빨갱이들이 사회주의 국가를 선언하다" 
 
-austria.9.d:0 "The uprisings reached a new hight when over 50 cops have been killed by workers in Graz. In response to the events Dollfus has commanded a harsh retaliation, arresting many prominent communist leaders. Seeing the escalation of the situation, Wilhelm Reich calls all wokers to rise up in an attempt to use the momentum gathered."
+austria.9.d:0 "50명 이상의 경찰이 그라츠에서 인부들에 의해 살해당하면서 봉기는 새로운 국면에 다달았습니다. 돌푸스가 가혹한 보복을 명령하면서 많은 저명한 공산주의 지도자들이 체포되었습니다. 사태가 고조되는 것을 보고 빌헬름 라이히는 가속도가 붙은 것을 이용해 모든 노동자들이 들고 일어날 것을 부르짖고 있습니다."
 
-austria.9.a:0 "그놈들을 최종적으로 패배시킬 시간이군."
+austria.9.a:0 "빨갱이들을 완전히 내쫓을 시간이다."
 
 austria.coup.t:0 "오스트리아 의회의 자기파괴" 
 
-austria.coup.d:0 "The success of the Fatherland Front in the elections has meant that Dolffuss has complete control over the entire Austrian government. The social democrats have been routed, the communists have fled to Germany, and the conservatives are either with us or to afraid to speak out. What this means is that Dollfuss finally has the chance to get what he always wanted; an ultranationalist Austria. \n This morning, an amendment was introduced called the “Law to Remedy the Distress of the People and the Empire”, which would radically reform the government. It was an amendment to the constitution that would give the Chancellor emergency powers for at least four years, until it would have to be voted on again by parliament. The vote was almost unanimously in favour of the act, and as his first act afterwards, Dolffuss replaced elections with a new corporatist system to be expanded on in the future. \n Now, democracy has died in Austria. The Fatherland Front reigns supreme, and a new age has begun. Whether it stands the test of time will have to be seen."
+austria.coup.d:0 "이번 선거에서 조국전선의 성공은 돌푸스가 오스트리아 정부 전체를 완전히 장악하고 있다는 것을 의미했습니다. 사회민주당은 패하고 공산주의자들은 독일로 도망쳤으며 보수주의자들은 우리와 함께 하거나 공개적으로 말하는 것을 두려워합니다. 이것이 의미하는 것은 돌푸스가 마침내 그가 항상 원했던 것을 얻을 수 있는 기회를 가지게 되었다는 것입니다. 바로 극단적인 오스트리아의 말입니다. \n 오늘 아침, "국민과 제국의 고난을 치유하는 법"이라는 개정안이 도입되어 정부를 근본적으로 개혁하게 되었습니다. 그것은 국회에서 재의결될 때까지 적어도 4년 동안 총리에게 비상권을 주도록 하는 헌법 개정안이였습니다. 투표는 거의 만장일치로 그 법에 찬성했고, 이후 그의 첫 번째 행동으로 돌푸스는 선거를 새로운 협동주의적으로 대체했고, 향후 확장될 것입니다. 지금, 오스트리아에서는 민주주의가 죽었습니다. 조국전선이 집권당으로 군림하면서 새로운 시대가 시작됐습니다. 그것이 시간의 시험을 받을지 아닌지는 지켜봐야 할 것입니다."
 
-austria.coup.a:0 "새로운 국가가 옛 잿더미에서 일어설 것이다."
+austria.coup.a:0 "낡은 잿더미에서 새로운 나라가 일어나리라"
 
-austria.1.t:0 "프란츠 페르디난트가 만남을 주선하다" 
+austria.1.t:0 "프란츠 페르디난트가 회의를 소집하다" 
 
-austria.1.d:0 "Seeing the escalation of the political situation resistance in Austria, Kaiser Franz Ferdinand has called a meeting comprising of the royal familly as well as prominent politicicians with the intent to discuss and resolve the rebellious voices within the austrian parliment."
+austria.1.d:0 "오스트리아에서 정치상황의 저항이 고조되는 것을 보고, 황제 프란츠 페르디난드는 오스트리아 의회 내의 반항적인 목소리를 토의하고 해결할 목적으로 왕족과 저명한 정치인으로 구성된 회의를 소집했습니다."
 
-austria.1.a:0 "그들에게 행운이 있기를!"
+austria.1.a:0 "그들에게 행운이 따르길!"
 
 austria.10.t:0 "오스트리아의 지도층이 반동주의적 사상을 수용하다" 
 
-austria.10.d:0 "As the austrian leadership seemed to get closer to britain, They recenty put out a statement claiming that "The french opposition to the more pragmatic and practical forms of government out there is no more than stupidity"."
+austria.10.d:0 "오스트리아 지도부가 영국에 가까워 지자 그들은 최근에 "실용적이고 현실적인 형태의 정부에 대한 프랑스의 반대는 어리 석음에 지나지 않는다"고 주장했다."
 
-austria.10.a:0 "망할 반동놈의 새끼들 같으니!"
+austria.10.a:0 "이 망할 반동분자들!"
 
 austria.11.t:0 "독일의 모략꾼들이 발각되다!" 
 
-austria.11.d:0 "For a long while we were gathering info and preparing for it, voices against our regime are found from within our party, Some of the german politicans are attempting to convince Rohm to overthrow Dolfuss's regime."
+austria.11.d:0 "오랫동안 우리는 정보를 수집하고 그것을 준비하면서 우리 당 내부에서 우리 정권에 반대하는 목소리가 발견되었습니다. 몇몇 독일 정치인들은 룀이 돌푸스의 정권을 전복시키도록 설득하려고 시도하고 있습니다."
 
-austria.11.a:0 "그놈들을 즉시 체포해라!"
+austria.11.a:0 "그들을 즉시 체포하라!"
 
-austria.11.b:0 "돌푸스가 예전에 필요하긴 했지만, 우리는 이제 앞으로 나아가야 한다."
+austria.11.b:0 "돌푸스는 예전에는 필요했을지 몰라도, 이제 우리는 앞으로 나아가야 한다."
 
-austria.12.t:0 "내부로부터의 음모의 가능성..." 
+austria.12.t:0 "내부로부터의 음모 가능성..." 
 
-austria.12.d:0 "The german immigrants have been of great help against the traitors, they provided the political and millitary power our party needed to succeed. Lately, There have been suspicions of minor german politicians plitting against the glorious leadership of dolfuss. Its still too early to know for sure, though."
+austria.12.d:0 "독일 이민자들은 반역자들에게 큰 도움을 주었고, 그들은 우리 당이 성공하기 위해 필요한 정치적, 비군사적 힘을 제공했습니다. 최근, 독일 군소 정치인들이 돌푸스의 영광스러운 지도력에 맞서 싸우고 있다는 의혹이 제기되고 있습니다. 아직 확실히 알기엔 너무 이릅니다"
 
-austria.12.a:0 "우리는 신중해야만 한다...."
+austria.12.a:0 "우린 신중해야만 한다...."
 
 
 austria.13.t:0 "오스트리아가 지원을 요청하다" 
 
-austria.13.d:0 "For a while now austria has been under threat of german invasion, given the delicate balance of power in the region, austria being conquered may ruin our chances on expanding our sphere of influence to central europe. Should we answer their request for assistance in case of a german attack?"
+austria.13.d:0 "한동안 오스트리아는 독일 침략의 위협을 받아왔습니다. 이 지역의 미묘한 힘의 균형을 감안할 때, 정복당한 오스트리아는 중앙 유럽으로 세력권을 확장하는 우리의 기회를 망칠 수도 있습니다. 독일군의 공격이 있을 경우 지원 요청에 응답해야 합니까?"
+austria.13.a:0 "물론이지! 빨갱이보단 나을거다..."
 
-austria.13.a:0 "당연하지! 그들이 빨갱이들보단 낫지..."
-
-austria.13.b:0 "우리는 지금 당장 외국의 독재자들과 싸우는 위협을 무릅쓸 수 없다."
+austria.13.b:0 "우리는 지금 당장 외국의 독재자들과 싸우는 위험을 무릅쓸 수 없다."
 
 austria.14.t:0 "강철 조약" 
 
-austria.14.d:0 "Austrian diplomats have arrived, Requesting that we take our relationship further and declare a mutural defence pact. They also wanted to progress in the diplomatic effort of pressuring and influencing the surrounding nations in a large coalition to crush germany."
-austria.14.a:0 "괜찮군. 서명한다."
-austria.14.b:0 "우리는 오스트리아가 필요없다."
+austria.14.d:0 "오스트리아 외교관들이 도착하여 우리의 관계를 더욱 발전시키고 상호 방위 조약을 선포했습니다. 그들은 또한 독일을 무너 뜨리기 위해 대규모 연합에서 주변국들에게 압력을 가하고 영향을 미치기위한 외교적 노력에서 진보하기를 원했다."
+austria.14.a:0 "좋아 보이는군. 서명하라."
+austria.14.b:0 "우리는 오스트리아가 필요하지 않다."
 
-austria.15.t:0 "프로이센이 수락하다!" 
-austria.15.d:0 "The prussians have responded positively to our offers, this is great news!"
+austria.15.t:0 "프로이센이 승낙하다!" 
+austria.15.d:0 "프로이센은 우리의 제안에 긍정적인 반응을 보였습니다. 좋은 소식이 아닐 수 없습니다!"
 austria.15.a:0 "완벽해."
 
 austria.16.t:0 "프로이센이 거절하다!" 
-austria.16.d:0 "프로이센이 우리의 제안을 거절했고, 우리는 스스로를 제외하곤 그 누구에게도 의지할 수 없을 것으로 보입니다."
+austria.16.d:0 "프로이센은 우리의 제안을 거부했습니다. 우리 자신 외에는 누구도 의지할 수 없는 것 같습니다."
 austria.16.a:0 "수치스럽군...."
 
 austria.17.t:0 "오스트리아가 조약을 제안하다" 
-austria.17.d:0 "The Austrians have approached us with a proposal to aid in the defence against the reds who occupy the Fatherland: A bilateral military alliance. This proposed alliance would unite both our military commands together in order to share research, and organise training, exercises, and operations as well as a promise to defend one another against the red menace. Whilst there are many apparent benefits to this alliance, there is one part of the agreement that is less than desirable - Austria asserts that southern Germany should come under her occupation in the event we were to succeed in the liberation of the German Volk. Our government is divided whether we should accept the alliance to have a stronger chance to depose the oppressive communists or reject it in order to preserve our independence along with our claim as the rightful German government." 
-austria.17.a:0 "좋아, 우리는 함께 일할 것이다."
-austria.17.b:0 "우리는 오스트리아의 도움 없이 조국을 해방시킬 것이다."
+austria.17.d:0 "오스트리아는 조국을 점령하고 있는 빨갱이들을 방어하기 위한 제안으로 우리에게 접근했습니다. 그것은 바로 양자 군사 동맹입니다. 이 제안된 동맹은 연구를 공유하고 훈련, 훈련, 작전, 그리고 붉은 위협으로부터 서로를 방어하기 위한 약속을 조직하기 위해 두 개의 군 지휘부를 하나로 통합할 것입니다. 이 동맹에는 명백히 많은 이득이 있지만, 바람직하지 않은 부분이 있습니다. 오스트리아에서는 우리가 독일 국민들을 해방시키는 데 성공할 경우 독일 남부가 그녀의 점령 하에 있어야 한다고 주장합니다. 우리 정부는 우리가 적법한 독일 정부라는 주장과 함께 우리의 독립을 지키기 위해 억압적인 공산주의자들을 몰아낼 수 있는 더 강력한 기회를 갖기 위해 동맹을 받아들여야 할지, 아니면 거부해야 할지 의견이 분분합니다." 
+austria.17.a:0 "그래, 우린 함께 해야한다."
+austria.17.b:0 "우린 오스트리아의 도움없이 조국을 해방시킬거다."
 
 austria.18.t:0 "내부의 적" 
-austria.18.d:0 "The plot by the Ultranationalists has been foiled! The madman Dolfuss and that Sodomite Röhm have ruined themselves by attempted coup against the Austrian Republic. Now however, the Christlichsoziale Partei must deal with its many internal divisions. The figurehead of the ultraconservative wing of the CSP, Adolf Hitler, in secret plots the assassination of his party leader, Kurt Schuschnig. As he believes his tempered reforms will not be enough to save Austria from the storm soon approaching Europe. A lone gunman is sent to Schuschnig’s office in Vienna, and it is clear if apprehended, the action can simply be pinned on remnants of the Communist and Ultranationalist forces. Will this finally be the end of Austrian democracy?"
-austria.18.a:0 "Ensure his entrance to the office."
-austria.18.b:0 "Arrest him, and also arrest hitler at once!"
-hitler_coup_tooltip:0 "Hitler and his supporters will secure a smooth takeover of the government"
-austria.19.t:0 "The Prussains Accept!" 
-austria.19.d:0 "The prussian athoritires have accepted the pact, We may now work toogether with our brothers to the north and liberate the fatherland."
-austria.19.a:0 "Fantastic!"
+austria.18.d:0 "극단주의자들의 음모가 실패했습니다! 미친 돌푸스와 그의 정부 룀은 오스트리아 공화국에 대한 쿠데타를 시도하여 자멸했습니다. 하지만 이제 기독사회당은 수많은 내부 분열을 다루어야 합니다. 기사당 극우파의 수장격인 아돌프 히틀러는 자신의 당 지도자 쿠르트 슈슈니크의 암살을 비밀리에 모의하고 있습니다. 그는 쿠르트의 완화된 개혁이 곧 유럽으로 다가오는 폭풍으로부터 오스트리아를 구하기에 충분하지 않을 것이라고 믿고 있습니다. 고독한 총잡이가 비엔나에 있는 슈슈니크의 사무실로 보내졌습니다. 만약 체포된다하더라도 그 행동은 공산주의와 극단주의 세력의 잔재가 한 짓으로 포장하면 됩니다. 이것이 마침내 오스트리아 민주주의의 종말이 될까요?"
+austria.18.a:0 "그의 사무실 입구를 확인해라."
+austria.18.b:0 "암살범을 체포하고, 히틀러도 잡아들여라!"
+hitler_coup_tooltip:0 "히틀러와 그의 지지자들은 정부의 순조로운 인수를 확보할 것이다."
+austria.19.t:0 "프로이센이 받아들이다!" 
+austria.19.d:0 "프로이센 당국은 그 협약을 받아들였습니다. 우리는 이제 북쪽에 있는 형제들과 함께 조국을 해방시킬 수 있다."
+austria.19.a:0 "환상적이야!"
 
 austria.20.t:0 "프로이센이 거절하다!" 
-austria.20.d:0 "The prussian athoritires have declined the pact, They cant be trusted to help with our righteous mission and choose to be secluded in their pathetic holding."
+austria.20.d:0 "프로이센 당국은 협약을 거부했습니다. 그들은 우리의 정당한 임무에 도움을 줄 수 없고 그들의 애처로운 구속 속에서 은둔하는 것을 선택할 수 없습니다."
 austria.20.a:0 "우리는 스스로 해낼 것이다."
 
 austria.21.t:0 "왕정의 상황" 
-austria.21.d:0 "Ever since our glorious leader, Engelbert Dollfuss has taken over the Austrian parliament the question of the monarchy has remained in somewhat of a limbo. While not officially abolished yet, Dollfuss had been convinced for quite some time that the Habsburg-Lothringen family is partially to blame for the situation Austria was in. He damned the multicultural empire for its incompetence and failures, and is steadily leading the nation to a better, brighter path. And yet, The question stands…\n should the old values and traditions of the Austrian monarchy shall be brought back under our new Regime, or remain to be forgotten as relics of the past? \n The Kaiser, back again to represent God and the country, would act as a symbolic figure, and a moral guide for the nation at large.  Still, having a head of state to challenge Engelbert Dollfuss’s ultimate power might be a dangerous power dynamic. \n A proposition was made: \n Dollfuss shall remain the Reichsprotektor as co-head of state and leader of the nation while the Habsburgs get to serve as a national symbol and monument."
-austria.21.a:0 "오스트리아는 앞으로 나아갈 것이고, 돌푸스가 철권통치를 통해 홀로 군림할 것이다!"
-austria.21.b:0 "왕정이 다시금 수립될 것이다."
+austria.21.d:0 "우리의 영광스러운 지도자 엥겔베르트 돌푸스가 오스트리아 의회를 점령한 이후 왕정 문제는 다소 미궁에 빠져 있습니다. 아직 공식적으로 폐지되지는 않았지만, 돌푸스는 꽤 오랫동안 합스부르크로트링겐 가문이 오스트리아의 상황에 부분적으로 책임이 있다고 확신했습니다. 그는 다민족제국의 무능과 실패에 대해 비난했고, 꾸준히 더 나은 밝은 길로 인도하고 있습니다. 그럼에도 불구하고, 문제는...\n 오스트리아 왕권의 오래된 가치와 전통이 우리의 새로운 통치하에서 다시 돌아올 것인가, 아니면 과거의 유물로 잊혀질 것인가 하는 것입니다. \n 다시 신과 나라를 대표하기 위해 돌아온 황제는 상징적인 인물로서, 국가를 위한 도덕적 가이드 역할을 할 것입니다. 그럼에도 불구하고, 엥겔베르트 돌푸스의 궁극적인 권력에 도전할 수 있는 국가 수반이 있는 것은 위험한 권력 역학일 수도 있습니다. \n 제안이 있습니다: \n 돌푸스는 합스부르크가 국가 상징과 기념물 역할을 하는 동안 국가 지도자이자 국가 지도자로 남아있을 것입니다."
+austria.21.a:0 "오스트리아는 앞으로 나아갈 것이고, 돌푸스가 철권통치를 통해 홀로 군림 할 것이다!"
+austria.21.b:0 "왕관의 주인이 다시 돌아올 것이다."
 
 austria.22.t:0 "황제의 귀환" 
-austria.22.d:0 "The proposition to restore the monarchy has been received quite fondly with the Austrian people. One problem stands: it is still unclear who shall be monarch. The three candidates consisted of Franz Ferdinand, Otto von Habsburg and Adelheid von Habsburg. \n Franz, as we already know, has done much to save Austria during the Great War, and has ruled us for many years. While being the obvious choice to many, his previous political affiliations might make it necessary to pass the crown to his nephew, Otto, which would probably be the safest pick.\n Finally, The more radical side of the party supports the coronation of Archduchess Adelheid, Otto’s Sister. She has been supportive of our movement, and has shown herself as a bright and powerful figure, fitting for Dollfuss’s  new regime, a clean slate to grow beyond the old bureaucratic and failed Habsburg estate. \n Now, Dollfuss must decide who must become the Reichsprotektor. The old regime, the reformist winds or the favorite of the fatherland?"
-austria.22.a:0 "God Protect Kaiser Franz, the sign of stability and fairness in the empire!"
-austria.22.b:0 "God Protect Kaiser Otto, the moral beacon of Austria!"
-austria.22.c:0 "God Protect Kaiserin Adelheid, the beautiful sword of the fatherland!"
+austria.22.d:0 "군주제를 복원하자는 제안은 오스트리아 사람들에게 꽤 호의적으로 받아들여져 왔습니다. 한가지 문제는 누가 군주가 될지는 아직 분명하지 않다는 것입니다. 세 후보는 프란츠 페르디난드, 오토 폰 합스부르크, 아델하이트 폰 합스부르크로 구성됐습니다. \n 프란츠는 우리가 이미 알고 있듯이 대전 중에 오스트리아를 구하기 위해 많은 일을 했고, 여러 해 동안 우리를 지배해 왔습니다. 많은 사람들에게 두말할 것 없는 선택이지만 그의 이전 정치적 소속으로 인해 그의 조카인 오토에게 왕관을 물려줄 필요가 있을 수도 있는데, 이것은 아마도 가장 안전한 선택이 될 것입니다.\n 마지막으로 당의 급진파에서는 오토의 남매인 아델하이트의 대관식을 지지합니다. 그녀는 우리의 움직임을 지지해 왔고, 돌푸스의 새 정권, 낡은 관료주의적이고 실패한 합스부르크 영지를 뛰어넘어 성장할 수 있는 깨끗한 후보자로 적합할 밝고 강력한 인물을 보여주었습니다. 돌푸스는 누가 호국관이 되어야 하는지 결정해야 합니다 낡은 정권, 개혁의 바람, 아니면 조국의 사랑을 받는 사람?"
+austria.22.a:0 "신이시여, 제국의 안정과 공정함의 상징이신 황제 프란츠 폐하를 지켜주소서!"
+austria.22.b:0 "신이시여, 오스트리아 도덕성의 등불이신 황제 오토 폐하를 지켜주소서!"
+austria.22.c:0 "신이시여, 조국의 아름다운 검이신 여제 아델하이트 폐하를 지켜주소서!"
 
 austria.23.t:0 "여제의 요청" 
-austria.23.d:0 "Despite the symbolic nature of the throne in the new Austrian Reich, that hasn’t stopped those who sit in it from trying to exercise and wield power. Adelheid first appeared to the members of the Fatherland Front as a non threatening and controllable monarch; she often looked embarrassed or scared during the first public gatherings. But more and more, the people in the party started to listen to her; behind closed doors, she met with individual officials and was able to sway them to whatever her cause was at that moment. Its clear to some that there is more than meets the eye here. \n Earlier today, Adelheid met with Reichsprotektor Dollfuss to discuss the issue of military reform. Adelheid said that while she had read much on army doctrine, she was still unsure about what was the best course of action. In order to come to a conclusion, therefore, she wanted to have a meeting with the officers of the army and discuss how to move forward on this. \n There is no doubt that she has a kind of influence and charisma that could challenge Dollfuss’s iron rule. He now has to decide on whether to let this by."
-austria.23.a:0 "You have no place in military affairs. Keep your nose out!"
-austria.23.b:0 "There is no reason to get hysterical. The Kaiserin may intervene when she feels the need to."
+austria.23.d:0 "새로운 오스트리아 제국에서 왕좌의 상징성에도 불구하고, 왕좌에 앉아 있는 사람들이 권력을 행사하고 휘두르려고 하는 것을 막지 못했습니다. 아델하이트는 처음 조국전선에 위협적이지 않고 통제가능한 군주로 나타났습니다. 그녀는 종종 첫 공개 집회 동안 당황하거나 무서워하는 듯 했습니다. 그러나 점점 더 많은 사람들이 그녀의 말에 귀를 기울이기 시작했습니다. 그녀는 비밀리에 개별 관리들을 만났고, 그녀의 명분이 무엇이든 간에 그들을 동요시킬 수 있었습니다. 분명 여기에는 눈에 보이는 이상의 무언가가 있습니다. 아델하이트는 오늘 오전 호국과 돌푸스를 만나 군 개혁 문제를 논의했습니다. 아델하이트는 군대 교리를 많이 읽었지만, 최선의 행동방식이 무엇인지 여전히 확신하지 못한다고 말했습니다. 그러므로 결론을 내리기 위해서, 그녀는 군대의 장교들과 회의를 하고 이 문제에 대해 어떻게 진전시킬 것인가를 의논하고 싶었습니다. \n 그녀가 돌푸스의 철칙에 도전할 수 있는 일종의 영향력과 카리스마를 가지고 있다는 것에는 의심의 여지가 없습니다. 그는 이제 이 일을 그냥 넘길지 결정해야 합니다."
+austria.23.a:0 "군대에 당신의 자리따윈 없소. 주제를 아시오!"
+austria.23.b:0 "신경질적으로 반응할 필요는 없다. 여제는 그녀가 필요성을 느낄 때 개입할 수 있다."
 
 austria.24.t:0 "돌푸스 정권의 몰락" 
-austria.24.d:0 "Everyone adored Dollfuss not that long ago. He was a confident speaker and reasonable to talk to in person. He once had an initiative and authority that meant he could grasp any situation and quickly act on it. Engelbert was a good person; but we need more! Austria was always first and foremost an Empire, and as such a strong Empress is needed. \n That night, officers of the Heimwehr stormed the parliament building and had numerous members of the Fatherland Front, including Dollfuss, and Rohm arrested and exiled. As he was guided out of the building by the soldiers, Adelheid felt a sense of regret as he looked upon her, dismayed and saddened. But again, she knew that Austria is safest in Habsburg hands. \n She will continue where Dollfuss left off, as far as the public is concerned, Dollfuss has resigned to the full authority of the Kaiserin. \n The new government declared that Adelheid was now Reichsprotektor und Kaiserin; the two positions had been merged into one, giving her full control over the entire government. Once again, Austria had entered a new age in her history, one led by a women with designs and ambitions of uniting the South Germans by any means necessary. If that meant pushing aside the moderates and even her own family, then so be it; the old and the weak are doomed."
-austria.24.a:0 "아델하이드 여제 만세!"
+austria.24.d:0 "얼마 전까지만 해도 모두들 돌푸스를 흠모했습니다. 그는 자신감 넘치는 연설가였고, 직접 나서서 이야기하기에 합당한 사람이었습니다. 그는 한때 어떤 상황이든 파악하곤 신속하게 행동에 나설 수 있는 결단력과 권위를 가지고 있었습니다. 엥겔베르트는 좋은 사람이지만, 우리는 더한 것을 필요로 합니다! 오스트리아는 항상 다른 무엇보다도 더한 제국이었고, 따라서 그만큼 강력한 여제가 필요했습니다. \n 그날 밤, 보국단의 장교들이 국회의사당에 난입해 돌푸스를 포함한 수많은 조국전선의 멤버들을 거느렸고, 룀은 체포된 뒤 추방되었습니다. 병사들의 호위 하에 그가 건물 밖으로 나오자, 아델하이트는 경악하고 슬픔에 찬 자신의 모습을 구경하는 그에 대해 후회감을 느꼈습니다. 하지만, 그녀는 오스트리아가 합스부르크의 손안에서 가장 안전함을 알았습니다. \n 대중이 관심이 있는 한 돌푸스의 중단 하에 그녀의 통치가 지속될 것이었고, 돌푸스는 여제에게 모든 권위를 넘기기 위해 사임했습니다. \n 신정부가 아델하이트를 새 호국관이자 여제로 선포하면서 두 직위가 하나로 합쳐졌으며, 여제에게 정부 전체의 모든 권한을 넘겨주었습니다. 다시 한 번, 오스트리아는 어떤 수단을 써서라도 남독일인들을 결속시키려는 설계와 야망을 가진 한 여성의 역사 안에서 새로운 시대로 접어들었습니다. 그게 중도파와 심지어 그녀의 가족마저도 떨쳐내는 것을 의미한다면, 응당 그래야만 합니다. 낡고 병든 것들은 사라질 것입니다.
+austria.24.a:0 "아델하이트 여제 만세!"
 
 austria.25.t:0 "빈에서 온 요구" 
-austria.25.d:0 "Much talk about the political future of our great nation has erupted since the presentation of certain demands from Austria and its far right government with Monarchist sympathies today from the Austrian embassy in Prague. The demands in question called for our increasingly unpopular King, Roman Petrovich of the house of Romanov, to abdicate and make way for a union with their nation and for a proper Habsburg to rule over us. Greater protection in this rapidly chaotic continent and increased economic prosperity and development are certainly benefits of a new Bohemia-Moravia, but many are convinced such a union would significantly reduce our autonomy. Many eagerly await a ultimate decision from our current King."
-austria.25.a:0 "We Wanted to get rid of the Romanovs regardless..."
-austria.25.b:0 "Austria will not force their puppet on our throne!"
+austria.25.d:0 "오늘 프라하의 오스트리아 대사관에서 오스트리아와 오스트리아 극우정부에 대한 요구가 발표된 이후 우리 대국의 정치적 미래에 대한 많은 논의가 일고 있습니다. 문제의 요구는 점점 더 인기를 끌지 못하고 있는 로마노프 왕가의 로만 페트로비치 국왕에게 퇴위하고 그들의 나라와 연합하여 합스부르크가 우리를 지배할 수 있도록 길을 열어 줄 것을 요구하는 내용이었습니다. 급변하는 이 대륙에서 더 많은 보호와 경제 번영, 발전은 분명히 새로운 보헤미아-모라비아의 이익이지만, 많은 사람들은 그러한 결합이 우리의 자치권을 현저히 감소시킬 것이라고 확신하고 있습니다. 많은 사람들이 현 왕의 최종 결정을 간절히 기다리고 있습니다."
+austria.25.a:0 "우린 항상 로마노프가 사라지는 것을 원했다..."
+austria.25.b:0 "오스트리아는 그들의 꼭두각시를 우리 왕좌에 앉히지 못할 것이다!"
 
 austria.28.t:0 "슈슈니크가 총선을 실시하다" 
-austria.28.d:0 "MWith the defeat of the rebellion and the scattering of any opposition, Schuschnigg is now faced with having to form a government. His opponents, be they Hayek’s liberals or Seitz’s social democrats, are organizing quickly, and Kurt’s legitimacy as the ruler is only really going to come from the people. So, as a result, he has called for elections. \n In a lot of ways, Schuschnigg is still a dictator. His powers have been extended in the face of civil war, and he used it to ruthlessly crush any and all opposition to his government. But Schuschnigg lacks the personality and will of one; he does not have Le Patron’s charisma, or Kolchak's iron will, or even d’Annunzio’s talented circle. He needs this election, for otherwise he lacks any serious legitimacy. And the opposition needs this election to steer Austria towards their goals and dreams, and him, into deeper corruption. \n Now, Schuschnigg, Hayek and Seitz begin to organize, for the moment of truth is just around the corner."
-austria.28.a:0 "오스트리아의 새 시대이군.."
+austria.28.d:0 "반란의 패배와 반대파의 확산으로 인해, 슈슈니크는 이제 정부를 구성해야 하는 상황에 직면해 있습니다. 하이에크의 자유주의자들이든, 세이츠의 사회민주주의자든 그의 반대자들은 빠르게 조직되고 있습니다. 그리고 통치자로서의 쿠르트의 합법성은 오직 사람들로부터 나올 것입니다. 그래서 결과적으로 그는 선거를 외쳤습니다. 슈슈니크는 많은 면에서 여전히 독재자입니다. 내전을 앞두고 그의 권력이 확장되었고, 그는 정부에 대한 어떤 반대도 무자비하게 분쇄하기 위해 그것을 사용했습니다. 하지만 슈슈니크는 한 사람의 성격과 의지가 부족합니다; 그는 파트롱의 카리스마, 콜차크의 철의 의지, 심지어 단눈치오의 재능 있는 단원들도 가지고 있지 않습니다. 그는 심각하게 부족한 정당성을 높이기 위해 이번 선거가 필요합니다. 그리고 야당은 오스트리아의 목표와 꿈을 향해 나아가고, 그를 더 깊게 타락시키기 위해 이번 선거가 필요합니다. \n 이제 슈슈니크, 하이에크, 자이츠가 준비하기 시작합니다. 진실의 순간이 다가오고 있습니다."
+austria.28.a:0 "오스트리아의 새 시대군.."
 
 austria.29.t:0 "선거" 
-austria.29.d:0 "A lot is on the line here.  /n If Schuschnigg wins, Austria shall return to a semi-constitutional monarchy, and will most likely go on the warpath in order to reclaim its empire and defeat the red Germans. Kurt has been adamant about his support for the royal family and their return, and has made no illusion to the fact that its empire should return. Seitz and the Social Democrats, The age old rival of the Conservatives have naturally contested this approach, wanting to create a proper republic instead. \n To the race also joined a more exotic candidate: The now infamous Economist Friedrich August von Hayek.Hayek Invisions a classical liberal economy built on renewed and improved principles to replace the old crumbling capitalist values. \n At last, the people have voted. The votes have been counted, everything is in their place, and it's time to announce the winner."
-austria.29.a:0 "슈슈니크가 권력을 보존했고, 기사당이 정권을 잡았다!"
-austria.29.b:0 "Hayek and the WP win by the margin!"
+austria.29.d:0 "여기엔 많은 것이 걸려 있습니다./n 슈슈니크가 승리하면 오스트리아는 반 입헌군주제 국가로 돌아갈 것이며, 제국을 되찾고 붉은 독일인들을 물리치기 위해 전쟁에 오를 가능성이 가장 높습니다. 쿠르트는 왕실에 대한 지지와 그들의 귀환에 대해 단호한 입장을 보여왔고, 그 제국이 돌아가야 한다는 사실에 대해 아무런 착각도 하지 않았습니다. 보수당의 오랜 경쟁자인 자이츠와 사회민주당은 자연스럽게 이 접근법에 이의를 제기해 왔고, 대신 적절한 공화국을 만들기를 원합니다. 더 이색적인 후보도 합류했습니다. 지금은 악명높은 경제학자 프리드리히 아우구스트 폰 하이에크. 하이에크는 무너지는 옛 자본주의 가치를 대체하기 위해 새로워지고 개선된 원칙에 입각한 고전적 자유경제체제를 도입할 것입니다. 마침내 국민이 투표를 했습니다. 개표가 됐고, 전부 제자리를 지킬 것이고, 이제 당선자를 발표할 차례입니다."
+austria.29.a:0 "슈슈니크가 권력을 지켜냈고, 기사당이 정권을 잡았다!"
+austria.29.b:0 "하이에크와 WP가 큰 표차로 이겼다!"
 austria.29.c:0 "자이츠와 사민당이 보수파 블록을 박살냈다!"
 
 #IDEAS#
@@ -577,7 +576,7 @@ AUS_neutrallity:0 "중립의 선포"
 AUS_stable_once_more:0 "다시 한 번 안정을"
 AUS_worker_front:0 "히틀러주의 노동자전선"
 
-AUS_adelheid:0 "여제 아델하이드 1세 폰 합스부르크-로트링겐"
+AUS_adelheid:0 "여제 아델하이트 1세 폰 합스부르크-로트링겐"
 AUS_adelheid_desc:0 "Adelheid wasnt the first choice when it comes to the monarchy. Her gender and lack of seniority made her claim debatable to say the least, She was eventually chosen due to her not been very politically active throughout her life, with the idea that with her the Fatherland Front could shape the monarchy to its image. Ironically, The Kaiserin has been very active and assertive in courts, and has seemed to completely take over the ideals of the Ultranationalist regime. Her beauty and fiery attitude is exactly what Austria needs in these times."
 
 AUS_despoticmonarchy:0 "전제군주정"
