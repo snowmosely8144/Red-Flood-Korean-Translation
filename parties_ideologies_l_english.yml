@@ -4,16 +4,16 @@
  vanguard_socialism_desc:0 "사회주의 체제"
 
  vanguard_socialism_ideology:0 "전위사회주의"
- vanguard_socialism_ideology_desc:0 "전위사회주의는 자본주의에서 사회주의로 이행할 때나 사회주의 스스로를 정의할 때 모두, 생산수단의 국유화라는 일시적인 수단에 대한 지지와 어떠한 정당의 전위주의의 형성을 신봉하는 모든 종류의 사회주의를 일컫는다."
+ vanguard_socialism_ideology_desc:0 "전위사회주의는 어떤 형태의 정당 전위주의를 믿으면서, 자본주의에서 사회주의를 향한 전환의 일시적 수단으로서, 혹은 사회주의 그 자체의 특징으로서 생산수단의 국가소유를 주장하는 사회주의의 유형들을 통칭합니다."
 
  totalism:0 "전체주의적 사회주의"
- bolshevism_desc:0 "전체주의적 사회주의, 또는 전체주의는 국가의 통제 하의 경제, 내셔널리즘, 국내 문제에 대한 국가의 전면적 개입, 그리고 사회주의의 보존에 있어서의 국가의 중요성 등에 기반한 정치적 이념이다."
+ bolshevism_desc:0 "전체주의적 사회주의, 또는 전체주의는 국가의 통제 하의 경제, 민족주의, 국내 문제에 대한 국가의 전면적 개입, 사회주의의 보존에 있어서의 국가의 중요성에 기반을 둔 정치이념입니다."
 
  national_vanguardism:0 "국가전위주의"
- national_vanguardism_desc:0 "국가전위주의는 민족주의적이고 사회주의적인 사상 및 정책의 혼합을 설명할 때 쓰이는 용어이다. 이는 일반적으로 국가에 따라 다른 양상을 보이며, 대개 지역적으로 인기 있는 내셔널리즘과 사회주의에 따라 다르지만 일반적으로 국가가 운영하는 경제와 일당제 국가를 지지한다."
+ national_vanguardism_desc:0 "국가전위주의는 민족주의적이고 사회주의적인 사상 및 정책의 혼합을 설명할 때 쓰이는 용어입니다. 일반적으로 이들은 국가에 따라 다른 양상을 보이고 현지에서 민족주의 및 사회주의의 어느 분파가 명망있는가에 달렸지만, 대체로 국영 경제와 일당제 국가를 지지합니다."
 
  bolshevism:0 "정통 레닌주의"
- bolshevism_desc:0 "정통 레닌주의는 러시아의 혁명가 블라디미르 레닌에게 충성을 지키고 있다고 자각하는 전위사회주의자 학파를 지칭하는 용어로, 혁명적 전위당의 조직과 함께 노동계급의 자기해방과 영구혁명론에 기반한 사회주의의 형성의 정치적 서곡으로서 프롤레타리아 독재정을 성취하는 것을 지지한다."
+ bolshevism_desc:0 "정통 레닌주의는 러시아의 혁명가 블라디미르 레닌에게 충성하는 전위사회주의 학파를 지칭하는 용어로, 노동계급의 자기해방과 영구혁명론에 기반을 둔 사회주의의 형성을 향한 정치적 서곡으로서 혁명전위당의 조직과 프롤레타리아 독재정을 주장합니다."
 
 
 
@@ -22,34 +22,34 @@
  libertarian_marxism_desc:0 "사회주의 체제"
 
  libertarian_marxism_ideology:0 "자유지상주의적 마르크스주의"
- libertarian_marxism_ideology_desc:0 "Council communism, or councilism, is a political ideology characterized by its opposition to state capitalism/state socialism and its advocacy of workers' councils as the basis for dismantling the class state. Its contention that democratic workers' councils arising in the factories and municipalities are the natural form of working class organization and authority."
+ libertarian_marxism_ideology_desc:0 "자유지상주의적 마르크스주의는 사회주의 운동에 속하는 반권위주의적 마르크스주의 철학으로, 중앙집권적 국가소유로서의 사회주의와 경제통제를 거부하고 직장 내에서 임금노동 관계를 비판하며, 직장에서의 노동자의 자체경영과 정치기구의 비중앙적 구조를 강조합니다."
 
  de_leonism:0 "드 레온주의"
- de_leonism_desc:0 "De Leonismis a form of syndicalist Marxism developed by the American activist Daniel De Leon. Despite sharing the theory with anarcho-syndicalism that militant industrial unions should be vehicle of class struggle, De Leonism believe in the necessity of a central government to coordinate production, as well as in the use of a revolutionary political party in addition to union action to achieve its goals."
+ de_leonism_desc:0 "드 레온주의는 미국의 행동가 대니얼 드 레온이 발전시킨 생디칼리스트 마르크스주의의 한 형태입니다. 호전적인 산업조합들이 계급투쟁의 도구가 되어야 한다는 점에선 아나코 생디칼리슴과 맥을 같이 하지만, 드 레온주의에서는 생산을 조정하고 목표 달성을 위해 노조의 행동과 함께 혁명정당을 이용함에 있어서도 중앙정부가 필요하다고 믿습니다."
 
  council_communism:0 "평의회 공산주의"
- council_communism_desc:0 "Council communism, or councilism, is a political ideology characterized by its opposition to state capitalism and state socialism and its advocacy of workers' councils as the basis for dismantling the class state. Its contention that democratic workers' councils arising in the factories and municipalities are the natural form of working class organization and authority."
+ council_communism_desc:0 "평의회 공산주의, 혹은 평의회주의는 국가자본주의/국가사회주의와 계급국가 해체를 위한 기반으로서의 노동자 평의회 주장에 반대하는 것이 특징인 정치이념입니다. 이 견해에 따르면 공장과 지방자치체에서의 민주적 노동자 평의회 결성은 노동층 조직과 권위의 자연적인 형태가 됩니다."
 
  agrarian_councilism:0 "농업 평의회주의"
- agrarian_councilism_desc:0 "Agrarian councilism is a militant and agrarian-based communism ideology developed by Chinese revolutionary Mao Zedong that aims to organize a national, popular, democratic, anti-feudal and anti-imperialist revolution in a pre-industrialized society by mobilizing large parts of rural populations in alliance with the workers to modernize the nation. It is characterized by its emphasis on the close integration between the party and popular masses via organized councils, instead of Bolshevik vanguard model."
+ agrarian_councilism_desc:0 "농업 평의회주의는 국가의 근대화를 위해 노동자들과 동맹한 향촌 인구의 대부분을 동원하여 전산업화된 사회에서 민족적, 대중적, 민주적, 만봉건 및 반제국주의적 혁명을 이루고자 중국의 혁명가 마오쩌둥이 고안한, 호전적이고 농업 중심적 공산주의 이념입니다. 이념은 볼셰비키식 전위당 모형과 달리, 조직화된 평의회들을 통해 당과 민중을 긴밀히 연결시키는 데 중점을 뒀다는 특징을 가집니다."
 
 
 
- revolutionary_anarchism:0 "혁명적 아나키스트"
- revolutionary_anarchism_noun:0 "혁명적 아나키즘"
+ revolutionary_anarchism:0 "혁명 아나키스트"
+ revolutionary_anarchism_noun:0 "혁명 아나키즘
  revolutionary_anarchism_desc:0 "아나키즘 체제"
 
- revolutionary_anarchism_ideology:0 "혁명적 아나키즘"
- revolutionary_anarchism_ideology_desc:0 "Revolutionary Anarchism is a political philosophy that advocates the establishment of self-governed societies based on voluntary institutions with revolutionary means.It opposes authority or hierarchical organisations in the conduct of all human relations, and would overthrow these with violent revolution."
+ revolutionary_anarchism_ideology:0 "혁명 아나키즘"
+ revolutionary_anarchism_ideology_desc:0 "혁명 아나키즘은 혁명적 수단들을 통한 자발적 기관들에 기반을 둔 자치사회의 설립을 주장하는 정치철학입니다. 이들은 모든 인간 관계에 있어서의 권위나 위계적 조직들에 반대하며, 폭력적 혁명을 통해 세계를 전복시키고자 합니다."
 
  anarcho_collectivism:0 "아나코 집산주의"
- anarcho_collectivism_desc:0 "Anarcho-collectivism is a revolutionary anarchist doctrine that advocates the abolition of both the state and private ownership of the means of production as it instead envisions the means of production being owned collectively and controlled and managed by the producers themselves."
+ anarcho_collectivism_desc:0 "아나코 집산주의는 국가와 개인소유권을 모두 폐지하고 생산자들 자신이 생산수단을 집산적으로 통제 및 관리할 것을 주장하는 혁명 아나키스트 교리입니다."
 
- anarcho_communism:0 "아나코 코뮤니즘"
- anarcho_communism_desc:0 "Anarcho communism is a theory of anarchism which advocates the abolition of the state, capitalism, wage labor and private property (though some strains retain respect for personal property) and in favor of common ownership of the means of production, direct democracy and a horizontal network of workers' councils with production and consumption based on the guiding principle; From each according to his ability, to each according to his need."
+ anarcho_communism:0 "아나코 공산주의"
+ anarcho_communism_desc:0 "아나코 공산주의는 국가, 자본주의, 임금노동, (개인재산의 존중 유지에 대한 일부 압력에도) 사유재산을 폐지하고 생산수단의 공동소유를 따르며, 직접민주정과, '각자의 능력에게부터 각자의 필요에게로'라는 원칙에 따라 생산과 소비를 시행하는 노동자 평의회들 간의 수평적 망을 주장하는 아나키즘 이론입니다."
 
- anarcho_syndicalism:0 "아나코 생디칼리슴"
- anarcho_syndicalism_desc:0 "Anarcho syndicalism is a theory of anarchism that views revolutionary industrial unionism or syndicalism as a method for workers in capitalist society to gain control of an economy and, with that control, influence broader society. Syndicalists consider their economic theories a strategy for facilitating worker self-activity and as an alternative co-operative economic system with democratic values and production centered on meeting human needs."
+ anarcho_syndicalism:0 "아나코 생디칼리슴
+ anarcho_syndicalism_desc:0 "아나코 생디칼리슴은 자본주의 사회에서 노동자들이 경제의 통제권을 쥐고, 그 통제권을 통해 더 넓은 사회에서 영향력을 가지기 위한 방법으로서 혁명 산업조합주의나 생디칼리슴을 제시하는 아나키즘 이론입니다. 생디칼리스트들은 자신들의 경제이론을 노동자의 자발적 행동을 촉진하고 사람 간의 회의를 근간으로 하는 민주적 가치와 생산을 담은 대안적인 협조형 경제체제를 위한 전략으로 취급합니다."
 
 
 
@@ -58,16 +58,16 @@
  revisionist_socialism_desc:0 "사회주의 체제"
 
  revisionist_socialism_ideology:0 "수정사회주의"
- revisionist_socialism_ideology_desc:0 "Revisionist socialism is a catch-all term for all the forms of non-Marxist, non-anarchist socialist ideologies that see socialism not as a means to transition to a new world but instead as a end goal.   "
+ revisionist_socialism_ideology_desc:0 "수정사회주의는 모든 형태의 비마르크스주의, 비아나키스트 사회주의 이념들을 가리키는 포괄적 용어로, 사회주의를 신세계로서의 전환을 위한 수단이 아니라 최종 목표 그 자체로 삼습니다."
 
  democratic_socialism:0 "민주사회주의"
- democratic_socialism_desc:0 "Democratic socialism is a political ideology that advocates political democracy alongside social ownership of the means of production, often with an emphasis on democratic management of enterprises within a socialist economic system.Democratic socialists see capitalism as inherently incompatible with the democratic values of liberty, equality and solidarity; and believe that the issues inherent to capitalism can only be solved by superseding private ownership with some form of social ownership."
+ democratic_socialism_desc:0 "민주사회주의는 생산수단의 사회소유권과 더불어 정치민주정을 요구하는 정치이념으로, 사회주의적 경제체제 아래서의 기업의 민주적 경영을 흔히 강조합니다. 민주사회주의자들은 자본주의가 자유, 평등, 연대라는 민주적 가치들과 본질적으로 양립할 수 없다고 보며, 자본주의에 내재된 문제들은 개인소유권을 사회소유권의 일종으로 전환했을 때에만 해결될 수 있을 것이라 여깁니다."
 
  religious_socialism:0 "종교사회주의"
- religious_socialism_desc:0 "Religious socialism is a form of socialism thought based on the value of a particular religion. Religious socialism is any form of socialism based on religious values. Members of several major religions have found that their beliefs about human society fit with socialist principles and ideas. As a result, religious socialist movements have developed within these religions, including Christianity, Islam and Buddhism."
+ religious_socialism_desc:0 "종교사회주의는 특정 종교 가치에 기반을 둔 사회주의 사상의 일파입니다. 여러 주요 종교의 일원들은 인간사회를 향한 자신들의 믿음이 사회주의적 원칙 및 관념들과 부합한다고 보았습니다. 이 결과 종교사회주의 운동들은 기독교, 이슬람, 불교 등 각자의 종교 안에서 발전하게 되었습니다."
 
  agrarian_socialism:0 "농업사회주의"
- agrarian_socialism_desc:0 "Agrarian Socialism refers to rural, locally focused, and relatively traditional or conservative variants of socialism.  Agrarian socialism applies to predominantly pre-industrial, non-urbanized demographics, with an emphasis on decentralization and non-state forms of collective ownership. It aims to solve problems on control, ownership and utilization of land rather than other means of production."
+ agrarian_socialism_desc:0 "농업사회주의는 농촌적이고 현지에 집중하며, 사회주의의 분파들 가운데 상대적으로 전통적이거나 보수적인 형태의 이념을 일컫습니다. 농업사회주의는 대부분 전산업적이며 비도시화된 인구층을 지니며, 비중앙화와 비국가적 형태의 집산 소유권을 강조합니다. 이념은 다른 생산수단보다도 토지의 통제, 소유권, 이용에 대한 문제를 해결하는 데 집중합니다."
 
 
 
@@ -76,17 +76,17 @@
  social_democratism_noun:0 "사회민주주의"
  social_democratism_desc:0 "민주주의 체제"
  
- left_nationalism:0 "좌파 내셔널리즘"
- left_nationalism_desc:0 "Left wing nationalism is a form of nationalism based upon social equality, popular sovereignty, and national self-determination. It has its origins in the Jacobinism of the French Revolution. Left-wing nationalism typically espouses anti-imperialism. It stands in contrast to right-wing nationalism, and often rejects ethno-nationalism."
+ left_nationalism:0 "좌익 민족주의"
+ left_nationalism_desc:0 "좌익 민족주의는 사회평등, 민중주권, 민족자결에 근거한 민족주의의 일파입니다. 이들은 프랑스 혁명기의 자코뱅주의에 근간을 두고 있으며, 일반적으로 반제국주의를 표방합니다. 우익 민족주의의 반대편에 서있는 이들은 흔히 종족민족주의에 반대합니다."
  
  liberal_socialism:0 "자유사회주의"
- liberal_socialism_desc:0 "Liberal socialism is a socialist political philosophy that incorporates liberal principles. Liberal socialism does not have the goal of completely abolishing capitalism and replacing it with socialism; instead, it supports a mixed economy that includes both private property and social ownership in capital goods."
+ liberal_socialism_desc:0 "자유사회주의는 자유주의적 원칙들을 포함한 사회주의적 정치철학입니다. 사회자유주의는 자본주의를 폐지하고 이를 사회주의로 대체하는 것에 목표를 두는 대신, 자본재화에 대한 개인재산과 사회소유권을 모두 포함하는 혼합경제를 지지합니다."
  
  social_democratism_ideology:0 "사회민주주의"
- social_democratism_ideology_desc:0 "Social democratism is a political, social and economic ideology that supports economic and social interventions to promote social justice within the framework of a capitalist economy, as well as a policy regime involving a commitment to representative democracy, measures for income redistribution, and regulation of the economy in the general interest and welfare state provisions."
+ social_democratism_ideology_desc:0 "사회민주주의는 대리민주정을 향한 책무, 소득재분배를 위한 수단, 일반의 이익을 위한 경제규제와 복지국가 제공이 포함된 정책체제와 더불어, 자본주의 경제의 틀 안에서 사회정의를 실현하기 위한 경제 및 사회적 개입을 지지하는 정치, 사회, 경제이념입니다."
  
  progressivism:0 "진보주의"
- progressivism_desc:0 "Progressivism is the support for or advocacy of social reform. As a philosophy, it is based on the Idea of Progress, which asserts that advancements in science, technology, economic development, and social organization."
+ progressivism_desc:0 "진보주의는 사회개혁을 지지 및 변호하는 이념입니다. 철학으로서 진보주의는 진보관념에 입각하여 과학, 기술, 경제발전, 사회조직에 있어서의 진전을 주장합니다."
 
 
 
@@ -95,19 +95,19 @@
  liberalism_desc:0 "민주주의 체제"
  
  liberalism_ideology:0 "자유주의"
- liberalism_ideology_desc:0 "Liberalism is an ideology which views the development and promotion of a market economy with minimal state intervention as an essential aspect of the protection and promotion of individual liberty."
+ liberalism_ideology_desc:0 "자유주의는 개인의 자유의 보호와 증진을 본질로 하는 이념으로서, 국가의 최소 개입을 통한 시장경제의 발전과 촉진을 추구합니다."
  
  liberalism:0 "시장자유주의"
- liberalism_desc:0 "Market Liberalism is a branch of liberalism which promotes an unregulated free market and a political system that is both democratic and plutocratic. Market liberals believe that the freer the market, the freer the people, and they will staunchly defend the political and economic rights of the individual."
+ liberalism_desc:0 "시장자유주의는 자유주의의 한 분파로, 무규제 자유시장과, 민주적이면서 금권주의적인 정치체제를 지향합니다. 시장자유주의자들은 더 자유로운 시장과 더 자유로운 인민이 개인의 정치 및 경제적 권익들을 더 엄중히 보호해낼 수 있다고 믿습니다."
  
- anarcho_capitalism:0 "아나코 캐피탈리즘"
- anarcho_capitalism_desc:0 "Anarcho-capitalism is a political philosophy and school of anarchist thought that advocates the elimination of centralized state dictum in favor of self-ownership, private property and free markets. Anarcho-capitalists hold that in the absence of statute, society tends to contractually self-regulate and civilize through the spontaneous and organic discipline of the free market."
+ anarcho_capitalism:0 "아나코 자본주의"
+ anarcho_capitalism_desc:0 "아나코 자본주의는 개인소유권, 사유재산, 자유시장의 옹호로서 중앙화된 국가의 지시체계를 제거할 것을 주장하는 아나키즘적 사고이자 정치철학입니다. 아나코 자본주의자들은 규제의 부재 속에서 자유시장의 자발적이면서 유기적인 규율을 통해 사회가 계약상의 자기규제와 문명화를 이뤄낼 것이라 생각합니다."
  
  placeholderism:0 "사회자유주의"
- placeholderism_desc:0 "Social Liberalism is a political ideology that believes individual liberty requires a level of social justice. Like classical liberalism, social liberalism endorses a market economy and the expansion of civil and political rights and liberties, but differs in that it believes the legitimate role of the government includes addressing economic and social issues such as poverty, health care and education. Under social liberalism, the good of the community is viewed as harmonious with the freedom of the individual."
+ placeholderism_desc:0 "사회자유주의는 개인의 자유에는 일정 수준의 사회정의를 필요로 한다 여기는 정치이념입니다. 고전자유주의와 같이, 사회자유주의 또한 시장경제와 민간 및 정치적 권리 및 자유를 옹호하지만, 핀곤, 의료, 교육과 같은 경제 및 사회사안에 있어서 정부의 정통적 역할을 논할 때엔 의견을 달리합니다. 사회자유주의에서는 공동체의 선이 개인의 자유와 조화를 이룰 수 있다고 봅니다."
  
  objectivism:0 "객관주의"
- objectivism_desc:0 "Objectivism is a libertarian political ideology derived from the philosophical thought of Russian liberal philosopher Alisa Rosenbaum, that advocates the promotion of maximizing the development of individuals by elimination of centralized state dictum in favor of self-ownership, private property and free markets. Objectivist holds that the government can only act as an agent of its citizens as a nightwatcher against crime and foreign invasion, and resolver of disputes between free citizens, and completely separated with any intervention of the economy.)"
+ objectivism_desc:0 "객관주의는 러시아의 자유주의 철학자 앨리사 로즌바움의 철학사고에서 기원한 자유지상주의적 정치이념으로, 개인소유권, 사유재산 및 자유시장의 옹호에 따라 중앙화된 국가의 지시체계를 허물어뜨림으로써 개개인의 발전을 극대화하자고 주장합니다. 객관주의는 정부가 범죄와 외세의 침공에 맞서는 야경꾼이자 자유시민들의 분쟁을 해결하는 해결사로서만 행동해야 하며, 경제에 있어선 전적으로 분리되어야 한다고 믿습니다."
 
 
 
@@ -115,17 +115,16 @@
  conservatism_noun:0 "보수주의"
  conservatism_desc:0 "민주주의 체제"
  
- conservative_liberalism:0 "자유보수주의"
- conservative_liberalism_desc:0 "Conservative liberalism is a variant of liberalism, combining liberal values and policies with conservative stances, or, more simply, representing the right-wing of the liberal movement. It is a more positive and less radical variant of classical liberalism. Conservative liberal parties tend to combine market liberal policies with more traditional stances on social and ethical issues."
+ conservative_liberalism:0 "보수자유주의"
+ conservative_liberalism_desc:0 "보수자유주의는 자유주의의 분파로, 자유주의적 가치들과 정책들이 보수적 입장과 연계된, 더 간단히는 자유주의 운동의 우익적 면모를 대변하는 이념입니다. 이들은 고전자유주의보다 더 긍정적이면서도 덜 급진적입니다. 보수자유주의적 정당들은 시장자유 정책에 더해 사회 및 윤리 문제에 있어선 더 전통주의적인 자세를 취합니다."
  
  social_conservatism:0 "사회보수주의"
- social_conservatism:0 "Social conservatism is an attitude that tends to favour beliefs seen as traditional in regard to social affairs. This can include moral issues. Social conservatism is generally sceptical of social change, and believes in maintaining the status quo concerning social issues such as family life, sexual relations and patriotism."
+ social_conservatism:0 "사회보수주의는 사회사안에 있어 더 전통주의적인 방식을 선호하는 자세로, 여기엔 도덕 문제 또한 포함될 수 있습니다. 일반적으로 사회보수주의는 사회변화에 회의적이며, 가족생활, 성적 관계, 애국주의에 있어 현상유지를 고수합니다."
  
  traditional_conservatism:0 "전통보수주의"
- traditional_conservatism_desc:0 "Traditional conservatism is a political philosophy emphasizing the need for the principles of natural law and transcendent moral order, tradition, hierarchy, organic unity, classicism, high culture, distributism and the intersecting spheres of loyalty."
- 
- national_conservatism:0 "국민보수주의"
- national_conservatism_desc:0 "National conservatism is a variant of conservatism that concentrates more on national interests and upholding cultural or ethnic identity than most other conservatives."
+ traditional_conservatism_desc:0 "전통보수주의는 자연법의 원칙들과 초월적인 도덕 질서, 전통, 위계체계, 유기적 단결, 고전주의, 상류문화, 배분주의, 충성이란 면들의 교차에 대한 필요성을 강조하는 정치철학입니다."
+ national_conservatism:0 "민족보수주의"
+ national_conservatism_desc:0 "민족보수주의는 보수주의의 일파로, 다른 보수주의자들보다도 국익과 문화 및 종족적 정체성 보존에 더 집중합니다."
 
 
 
@@ -134,13 +133,13 @@
  right_authoritarianism_desc:0 "권위주의 체제"
  
  authoritarian_democratism:0 "권위민주주의"
- authoritarian_democratism_desc:0 "Authoritarian democracy is used to refer to a state that shares both democratic and authoritarian features. Most of them are dominant-party systems—that is, states where opposition parties are allowed and free elections are held. Sometimes the dominant party maintains powers through election fraud, while other times the elections themselves are fair, but the electoral campaigns preceding them are not."
+ authoritarian_democratism_desc:0 "권위민주정은 민주정과 권위주의의 특징을 모두 공유하는 국가를 흔히 가리킵니다. 이들의 대부분은 일당우위 정당제로서, 야당의 존재가 허용되고 자유로이 선거에도 참여할 수 있습니다. 때때로 우위 정당은 부정선거를 통해 권력을 유지하며, 선거가 공정하게 개최돼도 우위 정당을 앞서는 정당이 나오지 못 합니다."
 
- military_junta:0 "군사 위원회"
- military_junta_desc:0 "A military junta is an oligarchic form of military government in which the power is resided within a council of high-ranking military officers who oversee all matters of state. Often viewing itself as saving the nation from the corrupt or myopic civilian politicians, a military dictatorship justifies its position as “neutral” arbiters on the basis of their membership within the armed forces."
+ military_junta:0 "군사위원회"
+ military_junta_desc:0 "군사위원회는 권력이 국가의 모든 사안들을 주재하는 고위 장교들로 구성된 하나의 평의회가 권력을 쥔 과두적 군사정부의 일파입니다. 위원회의 구성원들은 스스로를 부패하거나 근시안적인 민간정치인들에게서 국가를 구하고자 하는 이들로 여기며, 군사독재는 그 지위를 군인들이 근간을 이룬 “중립적” 결정권자라고 정당화합니다."
  
- oligarchy:0 "과두제"
- oligarchy_desc:0 "Oligarchy is a form of power structure in which power rests with a small number of people. These people might be distinguished by nobility, wealth, family ties, education or corporate, religious or military control."
+ oligarchy:0 "과두정"
+ oligarchy_desc:0 "과두정은 권력이 소수의 인민에게 쥐어진 권력구조의 한 형태입니다. 집권층은 혈통, 부, 혈연, 교육이나 기업, 혹은 군사통수권을 통해 구분됩니다."
 
 
 
@@ -149,30 +148,29 @@
  despotism_desc:0 "권위주의 체제"
  
  despotism_ideology:0 "전제주의"
- despotism_ideology_desc:0 "Despotism is a form of government in which a single entity rules with absolute power. Normally, that entity is an individual, the despot, as in an autocracy, but societies which limit respect and power to specific groups have also been called despotic."
- absolute_monarchism:0 "절대군주제"
- absolute_monarchism_desc:0 "Absolute monarchism is a form of monarchy in which one ruler has supreme authority and where that authority is not restricted by any written laws, legislature, or customs."
+ despotism_ideology_desc:0 "전제주의는 단일 실체가 절대 권력을 갖는 정부 형태입니다. 일반적으로 이 실체는 전제권자인 개인으로 구성된 독재정이지만, 존중과 권력이 특정 집단들에게 제한된 사회 또한 전제정으로 분류됩니다."
+ absolute_monarchism:0 "절대군주주의"
+ absolute_monarchism_desc:0 "절대군주주의는 한 명의 통치자가 절대적 권위를 가지며, 그 권위는 성문법과 입법부, 관습 등 그 어떤 것에 의해서도 제약받지 않는다고 여기는 군주정의 형태입니다."
  
- military_dictatorship:0 "군사독재정"
- military_dictatorship_desc:0 "Military dictatorship is the autocratic form of military government, in with the state apparatus is firmly controlled by the undisputed head of the military, often accompanied by a cult of personality, guided economy and army-first policy."
+ military_dictatorship:0 "군사독재"
+ military_dictatorship_desc:0 "군사독재는 군사정부의 독재적 형태로, 종종 개인숭배를 동반한, 도전받지 않는 군사지도자의 강력한 통제를 받는 국가기관이 경제와 군사우선 정책을 지도합니다."
  
  annihilationism:0 "절멸주의"
- annihiliationism_desc:0 "Annihilationism is not an ideology, but rather the strict description of the Force Publique, as a military force that has no goal or specific ideology, but only the desire to annihilate anyone that stands in their way. They have no diplomats or desire to engage in trade - their mission is more or less suicidal, but that is exactly what they wish."
-
+ annihiliationism_desc:0 "절멸주의는 이념이라기보단, 특정 목표나 이념 없이 앞을 막아서는 모든 이들을 절멸시킬 열망하는 포르스 퓌블리크의 행동 양식을 설명하는 데 쓰입니다. 이들에겐 외교관이 없으며 무역에 종사하고자 하는 그 어떤 열망도 없습니다. 이들은 자신들의 임무가 자살행위에 불과해도 상관하지 않습니다. 그것이 바로 그들이 바라던 바이기 때문입니다."
 
 
  reactionism:0 "반동주의자"
  reactionism_noun:0 "반동주의"
  reactionism_desc:0 "권위주의 체제"
  
- reactionary_populism:0 "우익 포퓰리즘"
- reactionary_populism_desc:0 "Right wing populism is a radical form of reactionism that aims to facilitate the reconstruction of a certain political or economic state in the past by mass organization against the current establishment or more progressive movements, characterized by support for paternalism and social solidarity, and radical opposition of modern and progressive ideals by recalling the collective memory of “good old times”."
+ reactionary_populism:0 "우익 대중주의"
+ reactionary_populism_desc:0 "우익 대중주의는 반동주의의 급진적 형태입니다. 이들은 현 기득권이나 더 진보적 운동에 맞서 대규모 조직을 통해 과거의 특정 정치적 혹은 경제적 상태의 재건을 용이하게 하고자 하며, 온정주의와 사회적 연대를 향한 지지, "좋았던 옛 시절"에 대한 집합적 기억 상기를 통한 근대 및 진보적 이상들에 대한 급진적인 반대 피력이 특징입니다."
  
- religious_fundamentalism:0 "종교적 원리주의"
- religious_fundamentalism_desc:0 "Religious fundamentalism refers to the belief of an individual or a group of individuals in the absolute authority of a sacred religious text or teachings of a particular religious leader, prophet,and/ or God . These fundamentalists believe that their religion is beyond any form of criticism, and should therefore also be forced upon others."
+ religious_fundamentalism:0 "종교원리주의"
+ religious_fundamentalism_desc:0 "종교원리주의는 특정 종교 지도자, 선지자, 신의 교리나 성문의 절대적 권위 아래 있는 개인이나 개인들의 집단의 믿음을 말합니다. 원리주의자들은 자신들의 종교가 그 어떤 비평도 초월하며, 그런 고로 다른 이들에게도 자신들의 믿음이 강요되어야 한다고 봅니다."
  
  frontism:0 "전선주의"
- frontism:0 "First originated in Switzerland and Austria, Frontism is a staunchly conservative nationalist movement who advocate a corporatist economic policy. Employing increasingly populist and authoritarian rhetoric, Frontism movements show strong devotion towards religion, tradition, and culture, while also expressing fervent nationalism."
+ frontism:0 "스위스와 오스트리아에서 처음 기원한 전선주의는 조합주의적 경제정책을 주장하는 강력한 보수민족주의 운동입니다. 대중주의적이며 권위주의적 수사법을 앞세운 전선주의 운동은 종교, 전통, 문화를 향한 강한 헌신을 나타내면서, 민족주의를 열렬히 지지합니다."
  
  
  
@@ -180,9 +178,9 @@
  accelerationism_noun:0 "촉진주의"
  accelerationism_desc:0 "촉진주의 체제"
 
- national_rejuvenatism:0 "국가적 회춘주의"
- national_rejuvenatism_desc:0 "National-rejuvenatism is a futuristic, authoritarian and nationalist political ideology  that proposes a system where the political power is centralised under a strong leadership that controls and guides the nation to a brighter future.  National-rejuvenatists advocate the rebirth of the nation by accelerating socio-economic development via the expansion of state-controlled and guided capitalism. Its final aim is to make the nation strong, unite the "cluster" of closely related ethnic or cultural groups and lead them forward to a new age of the nation with the strong hand of the state."
- ethno_accelerationism_desc:0 "Ethno-accelerationism is an avant-garde ideology that promotes violence, military heroism and society based on mechanical and industrial cult worship, that reject anything traditional or bourgouse. It aims to rebuild and strengthen the nation state under the guidance of heroism, militant principles, and industrial  culture, and eliminate its enemies with violent means."
+ national_rejuvenatism:0 "국가재건주의"
+ national_rejuvenatism_desc:0 "국가재건주의는 미래주의적이면서, 권위주의적인, 민족주의적 정치이념으로서, 정치권력이 하나의 강력한 지도력 아래 통제되고 인도될 때에만 국가의 밝을 미래가 있을 수 있다고 여깁니다. 국가재건주의자들은 국가가 통제하고 인도하는 자본주의를 통한 사회경제적 발전의 가속을 통해 국가가 부활할 수 있다고 주장합니다. 이들의 최종 목표는 국가를 강하게 만들고, 밀접하게 관련된 종족 및 문화집단들의 "다발"을 단합시켜 국가의 강한 손과 함께 하는 민족의 새 시대를 여는 것입니다."
+ ethno_accelerationism_desc:0 "종족촉진주의는 기계 및 산업교단 숭배에 근거하여 폭력과 군사영웅주의를 장려하는 아방가르드적 이념으로, 전통적이거나 부르주아적인 그 어떤 것도 거부합니다. 이념은 영웅주의, 전투적 원칙, 산업문화의 인도와 폭력적 수단을 통한 그 적들의 말살로써 민족국가를 재건하고 강화하는 데 목표를 둡니다."
  
- technocratism:0 "테크노크라트주의"
- technocratism_desc:0 "The least nationalist but one of the most unconventional among all subideologies of revolutionary nationalism, technocratism is an ideology that advocates to select decision-makers on the basis of their expertise in professional knowledge in science and engineering to lead the country forward, rather than political affiliations or parliamentary skills. This ideology explicitly contrasts with the notion that elected representatives should be the primary decision-makers in government,though it does not necessarily imply eliminating elected representatives. Professionals still argued that whether it should be put under revolutionary nationalism category or have its own category.
+ technocratism:0 "기술관료주의"
+ technocratism_desc:0 "혁명민족주의의 모든 하위 이념들 가운데 가장 덜 민족주의적이면서도 가장 독특한 이념 중 하나로서, 기술관료주의는 정치적 소속감이나 입법 능력 등이 아니라, 과학과 공학에서의 전문지식과 자질을 근거로 결정권자들을 선출하여 국가를 이끌게 하자고 주장합니다. 기술관료주의가 선출된 대표들의 존재를 반드시 부정하는 것은 아니지만, 정부 구성에 있어 선출된 대표들이 주요 결정권자가 되어야 한다는 점에는 분명히 반대합니다. 전문가들은 이를 혁명민족주의의 하위 분류로 보아야 할지, 아니면 별개의 고유 분류로 나눠야 할지 여전히 논쟁 중입니다."
