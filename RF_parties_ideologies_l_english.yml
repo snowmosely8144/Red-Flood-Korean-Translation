@@ -4,7 +4,7 @@
  vanguard_socialism_desc:0 "사회주의 정권"
 
  vanguard_socialism_ideology:0 "전위 사회주의"
- vanguard_socialism_ideology_desc:0 "전위 사회주의는 어떠한 형태로든 정당 선봉주의를 믿으며, 생산수단의 국가 소유를 자본주의에서 사회주의로 이행하는 일시적 조치 또는 사회주의 자체의 특징으로 옹호하는 사회주의 유형입니다."
+ vanguard_socialism_ideology_desc:0 "전위 사회주의는 어떠한 형태로든 정당 전위주의를 믿으며, 생산수단의 국가 소유를 자본주의에서 사회주의로 이행하는 일시적 조치 또는 사회주의 자체의 특징으로 옹호하는 사회주의 유형입니다."
 
  totalism:0 "전체주의적 사회주의"
  bolshevism_desc:0 "전체주의적 사회주의, 또는 전체주의는 국가가 통제하는 경제, 민족주의, 국가의 총체적인 내정관여, 사회주의 보존에 있어서 국가의 중요성에 바탕을 둔 정치 이념입니다."
@@ -23,8 +23,8 @@
  libertarian_marxism_ideology:0 "자유 마르크스주의"
  libertarian_marxism_ideology_desc:0 "평의회 공산주의, 또는 평의회주의는 국가 자본주의/국가 사회주의에 대한 반대와 계급 국가 해체의 기초로서 노동자 평의회를 옹호하는 특징을 가진 정치 이념입니다. 이 이념은 공장과 자치 단체에서 비롯된 노동자민주협의회가 노동자 계급 조직과 권위의 자연스러운 형태라고 주장합니다."
 
- de_leonism:0 "드 레오니즘"
- de_leonism_desc:0 "드 레오니즘은 미국의 운동가 다니엘 드 레옹이 발전시킨 생디칼리즘적 마르크스주의의 한 형태입니다. 드 레오니즘은 무권위적 생디칼리즘과 무장한 산업노조가 계급투쟁의 매개체가 되어야 한다는 이론을 공유했음에도 불구하고, 그 목표를 달성하기 위해 노조 행동 외에 혁명정당을 이용하는 것은 물론 생산조정을 위한 중앙정부의 필요성을 믿고 있습니다."
+ de_leonism:0 "드 레온주의"
+ de_leonism_desc:0 "드 레온주의는 미국의 운동가 대니얼 드 레온이 발전시킨 생디칼리즘적 마르크스주의의 한 형태입니다. 드 레온주의는 무장한 산업노조가 계급투쟁의 매개체가 되어야 한다는 이론을 무권위적 생디칼리즘과 공유했음에도 불구하고, 그 목표를 달성하기 위해 노조 행동 외에 혁명정당을 이용하는 것은 물론 생산조정을 위한 중앙정부의 필요성을 믿고 있습니다."
 
  council_communism:0 "평의회 공산주의"
  council_communism_desc:0 "평의회 공산주의, 또는 평의회주의는 국가 자본주의/국가 사회주의에 대한 반대와 계급 국가 해체의 기초로서 노동자 평의회를 옹호하는 특징을 가진 정치 이념입니다. 이 이념은 공장과 자치 단체에서 비롯된 노동자민주협의회가 노동자 계급 조직과 권위의 자연스러운 형태라고 주장합니다."
@@ -37,16 +37,16 @@
  revolutionary_anarchism_desc:0 "무권위주의 정권"
 
  revolutionary_anarchism_ideology:0 "혁명적 무권위주의"
- revolutionary_anarchism_ideology_desc:0 "Revolutionary Anarchism is a political philosophy that advocates the establishment of self-governed societies based on voluntary institutions with revolutionary means.It opposes authority or hierarchical organisations in the conduct of all human relations, and would overthrow these with violent revolution."
+ revolutionary_anarchism_ideology_desc:0 "혁명적 무권위주의는 혁명적 수단을 가진 자원 제도에 기초한 자치 사회의 구축을 지지하는 정치철학입니다. 이 사상은 모든 인간관계에 있어서 권위나 위계질서에 반대하며, 폭력혁명으로 이를 전복할 것입니다."
 
  anarcho_collectivism:0 "무권위적 집산주의"
- anarcho_collectivism_desc:0 "Anarcho-collectivism is a revolutionary anarchist doctrine that advocates the abolition of both the state and private ownership of the means of production as it instead envisions the means of production being owned collectively and controlled and managed by the producers themselves."
+ anarcho_collectivism_desc:0 "무권위적 집산주의는 생산수단의 국가 소유 및 사적 소유를 폐지하여 생산자들이 생산수단을 집단적으로 소유하여 생산수단을 스스로 통제하고 관리하는 청사진을 그립니다."
 
  anarcho_communism:0 "무권위적 공산주의"
- anarcho_communism_desc:0 "Anarcho communism is a theory of anarchism which advocates the abolition of the state, capitalism, wage labor and private property (though some strains retain respect for personal property) and in favor of common ownership of the means of production, direct democracy and a horizontal network of workers' councils with production and consumption based on the guiding principle; From each according to his ability, to each according to his need."
+ anarcho_communism_desc:0 "무권위적 공산주의는 국가, 자본주의, 임금 노동 및 사유 재산의 폐지를 지지하는 무정부주의 이론으로 (일부 계파는 동산은 존중하지만), 지도원리에 입각한 생산과 소비로 생산 수단의 공동 소유, 직접 민주주의 및 노동자 평의회의 수평적 네트워크에 찬성하는 무정부주의 이론입니다; 각각의 능률에 따라, 각각의 필요에 따라."
 
  anarcho_syndicalism:0 "무권위적 생디칼리즘"
- anarcho_syndicalism_desc:0 "Anarcho syndicalism is a theory of anarchism that views revolutionary industrial unionism or syndicalism as a method for workers in capitalist society to gain control of an economy and, with that control, influence broader society. Syndicalists consider their economic theories a strategy for facilitating worker self-activity and as an alternative co-operative economic system with democratic values and production centered on meeting human needs."
+ anarcho_syndicalism_desc:0 "무권위적 생디칼리즘은 혁명적 노조주의나 생디칼리즘을 통해 자본주의 사회의 노동자들이 경제를 지배하고, 이에 기초하여 사회적 영향력을 가질 수 있다고 보는 무권위주의 이론입니다. 생디칼리스트들은 자신들의 경제전략을 노동자의 자아활동을 촉진시키기 위한 전략이자 인간의 필요 충족에 초점을 둔 민주적 가치와 생산 수단을 가진 대안 협력경제 체계로 간주합니다."
 
 
  revisionist_socialism:0 "수정사회주의"
@@ -54,16 +54,16 @@
  revisionist_socialism_desc:0 "사회주의 정권"
 
  revisionist_socialism_ideology:0 "수정사회주의"
- revisionist_socialism_ideology_desc:0 "Revisionist socialism is a catch-all term for all the forms of non-Marxist, non-anarchist socialist ideologies that see socialism not as a means to transition to a new world but instead as a end goal.   "
+ revisionist_socialism_ideology_desc:0 "수정사회주의는 사회주의를 신세계로 이행하는 수단이 아닌 최종목표로 보는 모든 형태의 비마르크스주의, 비무권위주의적 사회주의 이념을 함축적으로 일컫는 말입니다."
 
  democratic_socialism:0 "민주사회주의"
- democratic_socialism_desc:0 "Democratic socialism is a political ideology that advocates political democracy alongside social ownership of the means of production, often with an emphasis on democratic management of enterprises within a socialist economic system.Democratic socialists see capitalism as inherently incompatible with the democratic values of liberty, equality and solidarity; and believe that the issues inherent to capitalism can only be solved by superseding private ownership with some form of social ownership."
+ democratic_socialism_desc:0 "민주사회주의는 생산수단의 사회적 소유와 함께 정치민주주의를 표방하는 정치이념으로, 사회주의 경제체제 내에서 기업의 민주경영을 중시합니다. 민주사회주의자들은 자본주의가 자유, 평등, 연대라는 민주주의 가치와 본질적으로 양립할 수 없다고 보고 자본주의에 내재된 문제는 사적 소유를 어떠한 형태의 사회적 소유로 대체해야만 해결할 수 있다고 믿습니다."
 
  religious_socialism:0 "종교사회주의"
- religious_socialism_desc:0 "Religious socialism is a form of socialism thought based on the value of a particular religion. Religious socialism is any form of socialism based on religious values. Members of several major religions have found that their beliefs about human society fit with socialist principles and ideas. As a result, religious socialist movements have developed within these religions, including Christianity, Islam and Buddhism."
+ religious_socialism_desc:0 "종교사회주의는 특정 종교 교리를 바탕으로 한 사회주의 사상의 한 형태입니다. 종교적 가치에 근거한 어떤 형태의 사회주의든 종교사회주의라고 할 수 있습니다. 몇몇 주요 종교의 구성원들은 인간 사회에 대한 그들의 믿음이 사회주의 원칙과 사상에 부합한다는 사실을 발견했습니다. 그 결과 기독교, 이슬람교, 불교 등 이들 종교 내에서 종교사회주의 운동이 전개되었습니다."
 
  agrarian_socialism:0 "농업사회주의"
- agrarian_socialism_desc:0 "Agrarian Socialism refers to rural, locally focused, and relatively traditional or conservative variants of socialism.  Agrarian socialism applies to predominantly pre-industrial, non-urbanized demographics, with an emphasis on decentralization and non-state forms of collective ownership. It aims to solve problems on control, ownership and utilization of land rather than other means of production."
+ agrarian_socialism_desc:0 "농업사회주의는 농촌과 지역에 중점을 두며 비교적 전통적이거나 보수적인 사회주의의 변종을 말합니다. 농업사회주의는 주로 산업화 이전 비도시화 인구에 적용되며 지방분권과 비국가별 집단소유에 중점을 둡니다. 다른 생산수단보다는 토지의 통제, 소유, 이용에 관한 문제를 해결하는 것을 목표로 합니다."
 
  social_democratism:0 "사회민주주의"
  social_democratism_noun:0 "사회민주주의"
