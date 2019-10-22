@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
 #COUNTRY NAME#
 GER_vanguard_socialism:0 "독일 사회주의 공화국"
 GER_vanguard_socialism_DEF:0 "독일"
@@ -373,12 +373,6 @@ germany.bavaria.desc:0 "After we now know about the ideas to turn Bavaria agains
 germany.bavaria.a:0 "Engl is right, violence brings us nowhere."
 germany.bavaria.b:0 "Gartmann is right, we need to show strength."
 
-
-
-
-
-
-
 germany.9.t:0 "VIII. Weltkongress der Internationale"
 germany.9.desc:0 "The goal of this meeting of the Internationale is arguably the most important since its founding. While previous ones discuss domestic policy and the road to power, this one will be mainly focused on Germany’s foreign policy and the way we interact with the world in the years to come. Questions like national self-determination, anti-colonialism, economic relations and even the forming of governments-in-exile will all be put to vote by the congress.\n\nClass warfare cannot merely be a struggle of party against the national bourgeoisie. This next war will be the struggle of a proletarian nation against the international capitalist class and all the influence they have upon the world. In order to break it, every tool in our arsenal must be used, because the capitalists will use every tool in their arsenal as well. Our conflict is just; as Trotsky says, \"A slave-owner who through cunning and violence shackles a slave in chains, and a slave who through cunning or violence breaks the chains – let not the contemptible eunuchs tell us that they are equals before a court of morality!\""
 germany.9.a:0 "Let the congress begin!"
@@ -434,36 +428,6 @@ for_proletarian:0 "프롤리타리아"
 
 GER_zentralrat_hog:0 "독일 사회주의 공화국 중앙위원회"
 GER_karl_paetel_hog:0 "카를 오토 페텔"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 GER_ernst_toller_for:0 "에른스트 톨러"
 GER_karl_korsch_for:0 "카를 코르슈"

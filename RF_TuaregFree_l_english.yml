@@ -1,0 +1,77 @@
+﻿l_english:
+#COUNTRY NAME#
+TUA_vanguard_socialism:0 "Nigerien People's Republic"
+TUA_vanguard_socialism_DEF:0 "Niger"
+TUA_vanguard_socialism_ADJ:0 "Nigerien"
+
+TUA_libertarian_marxism:0 "Nigerien People's Republic"
+TUA_libertarian_marxism_DEF:0 "Nigerien People's Republic"
+TUA_libertarian_marxism_ADJ:0 "Nigerien"
+
+TUA_revolutionary_anarchism:0 "Tuareg Free Territory"
+TUA_revolutionary_anarchism_DEF:0 "Tuareg Free Territory"
+TUA_revolutionary_anarchism_ADJ:0 "Tuareg"
+
+TUA_revisionist_socialism:0 "Nigerien People's Republic"
+TUA_revisionist_socialism_DEF:0 "Niger"
+TUA_revisionist_socialism_ADJ:0 "Nigerien"
+
+TUA_social_democratism:0 "Niger"
+TUA_social_democratism_DEF:0 "Niger"
+TUA_social_democratism_ADJ:0 "Nigerien"
+
+TUA_placeholderism:0 "Niger"
+TUA_placeholderism_DEF:0 "Niger"
+TUA_placeholderism_ADJ:0 "Nigerien"
+
+TUA_liberalism:0 "Niger"
+TUA_liberalism_DEF:0 "Niger"
+TUA_liberalism_ADJ:0 "Nigerien"
+
+TUA_conservatism:0 "Niger"
+TUA_conservatism_DEF:0 "Niger"
+TUA_conservatism_ADJ:0 "Nigerien"
+
+TUA_right_authoritarianism:0 "Niger"
+TUA_right_authoritarianism_DEF:0 "Niger"
+TUA_right_authoritarianism_ADJ:0 "Nigerien"
+
+TUA_despotism:0 "Tuareg Free Territory"
+TUA_despotism_DEF:0 "Tuareg Free Territory"
+TUA_despotism_ADJ:0 "Tuareg"
+
+TUA_reactionism:0 "Tuareg Free Territory"
+TUA_reactionism_DEF:0 "Tuareg Free Territory"
+TUA_reactionism_ADJ:0 "Tuareg"
+
+TUA_accelerationism:0 "Niger"
+TUA_accelerationism_DEF:0 "Niger"
+TUA_accelerationism_ADJ:0 "Nigerien"
+#PARTIES#
+TUA_vanguard_socialism_party:0 "PLN"
+TUA_vanguard_socialism_party_long:0 "Parti Leniniste Niger"
+TUA_libertarian_marxism_party:0 "PSR"
+TUA_libertarian_marxism_party_long:0 "Parti Socialiste Radical"
+TUA_revolutionary_anarchism_party:0 "Anarchiste"
+TUA_revolutionary_anarchism_party_long:0 "Anarchiste"
+TUA_revisionist_socialism_party:0 "Union Socialiste"
+TUA_revisionist_socialism_party_long:0 "Union Socialiste"
+TUA_social_democratism_party:0 "PS"
+TUA_social_democratism_party_long:0 "Parti Socialiste"
+TUA_liberalism_party:0 "PL"
+TUA_liberalism_party_long:0 "Parti Libéral"
+TUA_conservatism_party:0 "PL-R"
+TUA_conservatism_party_long:0 "Parti Libéral - Republicáin"
+TUA_right_authoritarianism_party:0 "Niamey Security"
+TUA_right_authoritarianism_party_long:0 "Niamey Security"
+TUA_despotism_party:0 "Free Territory"
+TUA_despotism_party_long:0 "Free Territory"
+TUA_reactionism_party:0 "UDM"
+TUA_reactionism_party_long:0 "Unité De Mohammed"
+TUA_accelerationism_party:0 "Futuristes"
+TUA_accelerationism_party_long:0 "Futuristes"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
