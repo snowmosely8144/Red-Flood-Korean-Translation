@@ -1,10 +1,10 @@
 ﻿l_english:
  vanguard_socialism:0 "전위사회주의자"
  vanguard_socialism_noun:0 "전위사회주의"
- vanguard_socialism_desc:0 "사회주의 체제"
+ vanguard_socialism_desc:0 "사회주의 정권"
 
  vanguard_socialism_ideology:0 "전위사회주의"
- vanguard_socialism_ideology_desc:0 "전위사회주의는 어떤 형태의 정당 전위주의를 믿으면서, 자본주의에서 사회주의를 향한 전환의 일시적 수단으로서, 혹은 사회주의 그 자체의 특징으로서 생산수단의 국가소유를 주장하는 사회주의의 유형들을 통칭합니다."
+ vanguard_socialism_ideology_desc:0 "전위사회주의는 모든 형태의 정당 전위주의를 믿으면서, 자본주의에서 사회주의를 향한 전환의 일시적 수단으로서, 혹은 사회주의 그 자체의 특징으로서 생산수단의 국가소유를 주장하는 사회주의의 유형들을 통칭합니다."
 
  totalism:0 "전체주의적 사회주의"
  bolshevism_desc:0 "전체주의적 사회주의, 또는 전체주의는 국가의 통제 하의 경제, 민족주의, 국내 문제에 대한 국가의 전면적 개입, 사회주의의 보존에 있어서의 국가의 중요성에 기반을 둔 정치이념입니다."
@@ -18,7 +18,7 @@
 
  libertarian_marxism:0 "자유지상주의적 마르크스주의자"
  libertarian_marxism_noun:0 "자유지상주의적 마르크스주의"
- libertarian_marxism_desc:0 "사회주의 체제"
+ libertarian_marxism_desc:0 "사회주의 정권"
 
  libertarian_marxism_ideology:0 "자유지상주의적 마르크스주의"
  libertarian_marxism_ideology_desc:0 "자유지상주의적 마르크스주의는 사회주의 운동에 속하는 반권위주의적 마르크스주의 철학으로, 중앙집권적 국가소유로서의 사회주의와 경제통제를 거부하고 직장 내에서 임금노동 관계를 비판하며, 직장에서의 노동자의 자체경영과 정치기구의 비중앙적 구조를 강조합니다."
@@ -34,7 +34,7 @@
 
  revolutionary_anarchism:0 "혁명 아나키스트"
  revolutionary_anarchism_noun:0 "혁명 아나키즘"
- revolutionary_anarchism_desc:0 "아나키즘 체제"
+ revolutionary_anarchism_desc:0 "아나키즘 정권"
 
  revolutionary_anarchism_ideology:0 "혁명 아나키즘"
  revolutionary_anarchism_ideology_desc:0 "혁명 아나키즘은 혁명적 수단들을 통한 자발적 기관들에 기반을 둔 자치사회의 설립을 주장하는 정치철학입니다. 이들은 모든 인간 관계에 있어서의 권위나 위계적 조직들에 반대하며, 폭력적 혁명을 통해 세계를 전복시키고자 합니다."
@@ -51,7 +51,7 @@
 
  revisionist_socialism:0 "수정사회주의자"
  revisionist_socialism_noun:0 "수정사회주의"
- revisionist_socialism_desc:0 "사회주의 체제"
+ revisionist_socialism_desc:0 "사회주의 정권"
 
  revisionist_socialism_ideology:0 "수정사회주의"
  revisionist_socialism_ideology_desc:0 "수정사회주의는 모든 형태의 비마르크스주의, 비아나키스트 사회주의 이념들을 가리키는 포괄적 용어로, 사회주의를 신세계로의 전환을 위한 수단이 아니라 최종 목표 그 자체로 삼습니다."
@@ -67,7 +67,7 @@
 
  social_democratism:0 "사회민주주의자"
  social_democratism_noun:0 "사회민주주의"
- social_democratism_desc:0 "민주주의 체제"
+ social_democratism_desc:0 "민주주의 정권"
 
  left_nationalism_desc:0 "좌익 민족주의는 사회평등, 민중주권, 민족자결에 근거한 민족주의의 일파입니다. 이들은 프랑스 혁명기의 자코뱅주의에 근간을 두고 있으며, 일반적으로 반제국주의를 표방합니다. 우익 민족주의의 반대편에 서있는 이들은 흔히 종족민족주의에 반대합니다."
  liberal_socialism:0 "자유사회주의"
@@ -82,7 +82,7 @@
 
  liberalism:0 "자유주의자"
  liberalism_noun:0 "자유주의"
- liberalism_desc:0 "민주주의 체제"
+ liberalism_desc:0 "민주주의 정권"
  liberalism_ideology:0 "자유주의"
  liberalism_ideology_desc:0 "자유주의는 개인의 자유의 보호와 증진을 본질로 하는 이념으로서, 국가의 최소 개입을 통한 시장경제의 발전과 촉진을 추구합니다."
  market_liberalism:0 "시장자유주의"
@@ -91,11 +91,11 @@
  placeholderism:0 "사회자유주의"
  placeholderism_desc:0 "사회자유주의는 개인의 자유에는 일정 수준의 사회정의를 필요로 한다 여기는 정치이념입니다. 고전자유주의와 같이, 사회자유주의 또한 시장경제와 민간 및 정치적 권리 및 자유를 옹호하지만, 핀곤, 의료, 교육과 같은 경제 및 사회사안에 있어서 정부의 정통적 역할을 논할 때엔 의견을 달리합니다. 사회자유주의에서는 공동체의 선이 개인의 자유와 조화를 이룰 수 있다고 봅니다."
  objectivism:0 "객관주의"
- objectivism_desc:0 "객관주의는 러시아의 자유주의 철학자 앨리사 로즌바움의 철학사고에서 기원한 자유지상주의적 정치이념으로, 개인소유권, 사유재산 및 자유시장의 옹호에 따라 중앙화된 국가의 지시체계를 허물어뜨림으로써 개개인의 발전을 극대화하자고 주장합니다. 객관주의는 정부가 범죄와 외세의 침공에 맞서는 야경꾼이자 자유시민들의 분쟁을 해결하는 해결사로서만 행동해야 하며, 경제에 있어선 전적으로 분리되어야 한다고 믿습니다."
+ objectivism_desc:0 "객관주의는 러시아의 자유주의 철학자 알리사 로젠바움의 철학사고에서 기원한 자유지상주의적 정치이념으로, 개인소유권, 사유재산 및 자유시장의 옹호에 따라 중앙화된 국가의 지시체계를 허물어뜨림으로써 개개인의 발전을 극대화하자고 주장합니다. 객관주의는 정부가 범죄와 외세의 침공에 맞서는 야경꾼이자 자유시민들의 분쟁을 해결하는 해결사로서만 행동해야 하며, 경제에 있어선 전적으로 분리되어야 한다고 믿습니다."
 
  conservatism:0 "보수주의자"
  conservatism_noun:0 "보수주의"
- conservatism_desc:0 "민주주의 체제"
+ conservatism_desc:0 "민주주의 정권"
  conservative_liberalism:0 "보수자유주의"
  conservative_liberalism_desc:0 "보수자유주의는 자유주의의 분파로, 자유주의적 가치들과 정책들이 보수적 입장과 연계된, 더 간단히는 자유주의 운동의 우익적 면모를 대변하는 이념입니다. 이들은 고전자유주의보다 더 긍정적이면서도 덜 급진적입니다. 보수자유주의적 정당들은 시장자유 정책에 더해 사회 및 윤리 문제에 있어선 더 전통주의적인 자세를 취합니다."
  social_conservatism:0 "사회보수주의"
@@ -107,7 +107,7 @@
 
  right_authoritarianism:0 "우익 권위주의자"
  right_authoritarianism_noun:0 "우익 권위주의"
- right_authoritarianism_desc:0 "권위주의 체제"
+ right_authoritarianism_desc:0 "권위주의 정권"
  authoritarian_democratism:0 "권위민주주의"
  authoritarian_democratism_desc:0 "권위민주정은 민주정과 권위주의의 특징을 모두 공유하는 국가를 흔히 가리킵니다. 이들의 대부분은 일당우위 정당제로서, 야당의 존재가 허용되고 자유로이 선거에도 참여할 수 있습니다. 때때로 우위 정당은 부정선거를 통해 권력을 유지하며, 선거가 공정하게 개최돼도 우위 정당을 앞서는 정당이 나오지 못 합니다."
 
@@ -118,7 +118,7 @@
 
  despotism:0 "전제주의자"
  despotism_noun:0 "전제주의"
- despotism_desc:0 "권위주의 체제"
+ despotism_desc:0 "권위주의 정권"
  despotism_ideology:0 "전제주의"
  despotism_ideology_desc:0 "전제주의는 단일 실체가 절대 권력을 갖는 정부 형태입니다. 일반적으로 이 실체는 전제권자인 개인으로 구성된 독재정이지만, 존중과 권력이 특정 집단들에게 제한된 사회 또한 전제정으로 분류됩니다."
  absolute_monarchism:0 "절대군주주의"
@@ -130,7 +130,7 @@
 
  reactionism:0 "반동주의자"
  reactionism_noun:0 "반동주의"
- reactionism_desc:0 "권위주의 체제"
+ reactionism_desc:0 "권위주의 정권"
  reactionary_populism:0 "우익 대중주의"
  reactionary_populism_desc:0 "우익 대중주의는 반동주의의 급진적 형태입니다. 이들은 현 기득권이나 더 진보적 운동에 맞서 대규모 조직을 통해 과거의 특정 정치적 혹은 경제적 상태의 재건을 용이하게 하고자 하며, 온정주의와 사회적 연대를 향한 지지, “좋았던 옛 시절”에 대한 집합적 기억 상기를 통한 근대 및 진보적 이상들에 대한 급진적인 반대 피력이 특징입니다."
  religious_fundamentalism:0 "종교원리주의"
