@@ -96,7 +96,7 @@ FRA_reactionism_party_long:0 "악시옹 프랑세즈"
 #LEADER DESCRITIONS#
 POLITICS_ANTONIN_ARTAUD_DESC:0 "프랑스의 파트롱 앙토냉 아르토는 예술국의 영웅이 되어 예술가들과 불만 가득한 민족주의자들을 새로운 국가를 향해 용맹히 이끌고 있습니다. 1896년 마르세유에서 태어난 앙토냉은 밀교적 특색의 극작들로 많은 이들의 시선을 모으며 가장 존경받는 시인이자 작가, 극작가들 중 하나로서 빠르게 성장했습니다. 구 프랑스 공화국의 붕괴에 따라, 아르토는 영웅으로서의 명성을 통해, 문턱에 다다른 공산주의 패악에 맞선 국가의 해방자로서 안정적으로 프랑스를 이끌게 됐습니다."
 POLITICS_GEORGES_BATAILLE_DESC:0 "조르주 알베르 모리스 빅토르 바타유는 "변태 병신", "초현실주의 변절자", "예술국의 암면"이라 불리던 이였습니다. 이제 바타유는 그 모든 더미 위에 앉아 경제학, 사회정책과 다른 모든 것에 관한 자신의 믿음을 신실히 따르며 예술국을 이끌어 갑니다. 헌신적인 아나키스트로서, 바타유는 정부가, 법이, 국제주의가 전무한 프랑스를 창조하고 이 새로운 프랑스를 에로티시즘과 미학주의를 담은, 과잉, 성, 개인주의적 향락의 존재로 이끌 것입니다. 바타유가 과거 천주교회에서 보였던 신실함은 그로 하여금 영성주의와 신비주의에 깊게 뒤얽히게 했으니, 이는 바타유가 프랑스의 미래에 있어서도 독특한 위치를 잡을 것이란 말이 됩니다. 르 솔레유 뒷골목의 초현실주의 변절자는 이제 예술국에서 가장 존경받는 귀족이 되었습니다."
-POLITICS_BIATAYL_DESC:0 "Georges Albert Maurice Victor Bataille, the "perverted degenerate", and renegade surrealist, has taken over Mauritania in an act of defiance against the tyranny of Le Soleil's government, betrayed by all. He now sits in a palace in Nouakchott, waiting for the time to strike and liberate France from his enemies."
+POLITICS_BIATAYL_DESC:0 "조르주 알베르 모리스 빅토르 바타유, 변태 병신이자 "초현실주의 변절자"인 그가, 모두에게 배신당한 그가 르 솔레유의 폭정에 맞서는 강단의 행동으로서 모리타니를 차지했습니다. 누악쇼트의 궁에 눌러앉은 그는 적에게서 프랑스를 쳐서 해방할 날을 기다리고 있습니다."
 
 
 #DECISIONS#
@@ -833,10 +833,10 @@ france.205.desc:0 ""
 france.205.a:0 "우린 함께 공산주의를 끝장내리라!"
 france.206.t:0 "[Root.GetName]이(가) 협약을 거부하다"
 france.206.desc:0 ""
-france.206.a:0 "I hope the Communists kill them all!"
-acemauritania.1.title:0 "Bataille flees to Mauritania"
-acemauritania.1.desc:0 "Georges Bataille and several Acéphale loyalists have fled to Mauritania today and declared the independent Gouvernement Provisionel de la Mauritanie. His clique of degenerates have caused significant influence loss of the Acéphale, which is a victory for us - but at the same time, Bataille can now plot freely against our Government."
-acemauritania.1.a:0 "Damn you, Renegade!"
+france.206.a:0 "공산주의자들이 놈들을 모두 죽였으면 좋겠군!"
+acemauritania.1.title:0 "바타유가 모리타니로 도주하다"
+acemauritania.1.desc:0 "조르주 바타유와 여러 아세팔 충성파가 오늘 모리타니로 도주하고 모리타니 임시독립정부를 선언했습니다. 그의 퇴폐 파벌이 아세팔의 영향력을 크게 상실하는 동기가 된 덕에 우리가 승리할 수 있었습니다만, 동시에 바타유는 우리 이제 우리 정부에 맞서 자유로이 음모를 꾸밀 수 있게 되었습니다."
+acemauritania.1.a:0 "빌어먹을 변절자 새끼!"
 
 
 
