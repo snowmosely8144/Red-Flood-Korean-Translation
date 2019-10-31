@@ -211,23 +211,23 @@ italy.105.d:0 "율리우스 에볼라는 지하로 들어갔고 아마 고귀한
 italy.105.a:0 "Damn"
 italy.105.b:0 "At least assign investigators"
 
-italy.106.t:0 "에볼라가 로마 행군을 선포"
-italy.106.d:0 "고귀한 각성 군단은 나폴리 행군을 하겠다는 의사를 선언하고 왕의 우위를 인정하라고 요구하면서, 정부가 이탈리아의 정신보다 외국 자본가와 사회주의자를 편애한다는 사실이 너무나도 명백해졌다고 말했습니다. 시칠리아 전통 전사나 아리안의 혼 병사들과 같이 지역 하위 기관 수준으로 군단과 협력하는 다른 소규모 급진전통주의 단체들도 동참할 것으로 예상됩니다. 왕정주의자와 국가주의자 중 일부도 동참할 것입니다."
+italy.106.t:0 "에볼라가 로마 행진을 선포"
+italy.106.d:0 "고귀한 각성 군단은 나폴리 행진을 하겠다는 의사를 선언하고 왕의 우위를 인정하라고 요구하면서, 정부가 이탈리아의 정신보다 외국 자본가와 사회주의자를 편애한다는 사실이 너무나도 명백해졌다고 말했습니다. 시칠리아 전통 전사나 아리안의 혼 병사들과 같이 지역 하위 기관 수준으로 군단과 협력하는 다른 소규모 급진전통주의 단체들도 동참할 것으로 예상됩니다. 왕정주의자와 국가주의자 중 일부도 동참할 것입니다."
 italy.106.a:0 "How much support can they have?"
 italy.106.b:0 "How much support can they have?"
 
-italy.107.t:0 "The March"
+italy.107.t:0 "행진"
 italy.107.d:0 "약 28000 명의 무장한 사람들이 국가를 전통의 힘에 넘길 것을 요구하기 위해 로마에서 의회를 향해 행진하고 있습니다. 국왕은 군대가 개입하도록 할 수 있고, 만약 그렇게 한다면 성공을 기대해야 하지만, 국왕은 이 민병대를 지지하고 있으며 그가 이 사건이 마침내 이탈리아에서 자유주의가 끝났다는 신호라고 믿는다는 루머가 가시지 않고 있습니다. 그는 어떻게 할까요?"
 italy.107.a:0 "왕은 군대를 철수시켰다"
 italy.107.b:0 "그들을 쫓아내라"
 
-italy.108.t:0 "The March"
+italy.108.t:0 "행진"
 italy.108.d:0 "약 13000 명의 사람들이 국가를 전통의 힘에 넘길 것을 요구하기 위해 로마에서 의회를 향해 행진하고 있습니다. 국왕은 군대가 개입하도록 할 수 있고, 만약 그렇게 한다면 성공을 기대해야 하지만, 국왕은 이 민병대를 지지하고 있으며 그가 이 사건이 마침내 이탈리아에서 자유주의가 끝났다는 신호라고 믿는다는 루머가 가시지 않고 있습니다. 그는 어떻게 할까요?"
 italy.108.a:0 "왕은 군대를 철수시켰다"
 italy.108.b:0 "그들을 쫓아내라"
 
-italy.109.t:0 "Legion Broken"
-italy.109.d:0 "While the fight was bloody the Legion has been fought off and the strong points they occupied during the March in other areas of the nation have been recovered. Evola himself was caught attempting to flee the country by boat and when stopped by officers fired on them with a revolver before being gunned down himself. It is rumored that while the King feels his hand was forced and he is unhappy with this outcome Parliament is overjoyed by this turn of events."
+italy.109.t:0 "무너진 군단"
+italy.109.d:0 "피비린내 나는 싸움 후 군단은 격퇴되었고 행진 동안 그들이 다른 지역에서 점령했던 방위 거점을 회복했습니다. 에볼라 자신은 배를 타고 국외로 도망치려다가 발각되었으며, 경찰관들에게 권총을 쏜 후 스스로 목숨을 끊어버렸습니다. 왕은 그의 도움이 억지였다고 느끼며 이 결과에 만족하지 못했지만 의회는 이런 상황 변화에 매우 기뻐하고 있다는 소문이 있습니다."
 italy.109.a:0 "Long Live Democracy!"
 
 italy.110.t:0 "The Legion takes Power!"
@@ -235,12 +235,12 @@ italy.110.d:0 "The Legion being recognized as apart of out government has broken
 italy.110.a:0 "My God"
 
 italy.111.t:0 "Acts of Vigilantism"
-italy.111.d:0 "The Legion has long supported a hard line stance against criminalism and degeneracy but now that the government has fled they are taking little mercy on the known criminals in the area. While Evola is ecstatic that this wave of violence symbolizes the rebirth of our society's true spirit some of the King's officers have advised him to order Legion forces to organize themselves into a coherent forces."
+italy.111.d:0 "군단은 오랫동안 범죄주의와 타락에 반대하는 강경 노선을 지지했으며, 정부가 도망갔기에 그 지역에서 알려진 범죄자들에게 자비를 베풀지 않고 있습니다. 에볼라는 이 폭력의 물결이 우리 사회의 진정한 정신이 재탄생한다는 것을 상징한다며 열광하는 반면, 왕의 장교들 중 일부는 그에게 군단이 긴밀한 세력으로 조직되도록 명령하라고 충고했습니다."
 italy.111.a:0 "Let them do what they must"
 italy.111.b:0 "Tell Evola to pull them back"
 
-italy.112.t:0 "The Question of Wealth"
-italy.112.d:0 "Our increased diplomatic overtures to Italian Aristocrats has not gone unnoticed and they have been generous in their donations. While we have already spent some of the money to stabilize the regime by supporting the Legion some wealth remains. The question now is how we should invest these goods?"
+italy.112.t:0 "부의 문제"
+italy.112.d:0 "이탈리아 귀족들과의 외교적 제안이 눈에 띄지 않게 진행되었고 그들은 관대하게 기부했습니다. 우리는 이미 군단을 지원함으로써 정권을 안정시키기 위해 그 돈의 일부를 사용했지만, 약간의 돈이 남아있습니다. 이제 문제는 우리가 이 상돈을 어떻게 투자해야 할까요?"
 italy.112.a:0 "Expand the Base Army"
 italy.112.b:0 "More for the Administration"
 italy.112.c:0 "Build needed factories"
