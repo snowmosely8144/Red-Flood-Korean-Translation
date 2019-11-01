@@ -245,18 +245,18 @@ italy.112.a:0 "Expand the Base Army"
 italy.112.b:0 "More for the Administration"
 italy.112.c:0 "Build needed factories"
 
-italy.113.t:0 "Parliament Razed"
-italy.113.d:0 "In a massively symbolic gesture a Legion ceremony was held today in the former parliament in which Evola gave a speech complimenting the Legion for their loyalty and that this was the first step of many from a material world to a spiritual one. The Legion recited a prayer inspired largely by the Mithraic mystery ritual while Evola burned the constitution. They then orderly exited the building and burned it down but not before supposedly drawing symbols inside for good luck. While foreign critics and the government-in-exile have decried this as "madness" it has been a massive blow to the morale of local liberals."
+italy.113.t:0 "의회 파괴"
+italy.113.d:0 "오늘 전 의회에서 대규모의 상징적 제스처와 함께 군단식이 열렸습니다. 식 중 에볼라는 그들의 충성심을 칭찬하는 연설을 하며 이것이 물질 세계에서 정신 세계로 가는 첫걸음이라고 말했습니다. 군단은 에볼라가 헌법을 불태우는 동안 주로 미트라 신비의 의식에서 영향을 받은 기도를 읊었습니다. 그리고 나서 건물에 행운을 기원하는 상징을 그리고 질서정연하게 빠져나온 후 건물을 태워버렸습니다. 외국 비평가들과 망명정부는 이를 "미친 짓"이라고 비난했지만, 이 사건은 국내 자유주의자들의 사기에 큰 타격을 주었습니다."
 italy.113.a:0 "That should send the message"
 
-italy.114.t:0 "Knights of the Grail initiates"
-italy.114.d:0 "Initiated by a blood pact with their Legion commander the Knights of the Grail are now our internal security elite, tasked with special operations missions, investigations and upholding the values of Tradition at all costs. Some are suggesting that we not only allow Legion militants in whom are supported by Legion Commanders but also allow our regional allies to join, while others want our requirements to be stronger in the future and for someone to both a veteran and vouched for by someone of Noble Blood to become a Grail Knight, claiming this will earn us their undying loyalty. What shall we do?"
+italy.114.t:0 "성배 기사단 발족"
+italy.114.d:0 "군단 지휘관과의 혈맹에서 시작된 성배 기사단은 이제 특별 작전 임무, 조사를 맡고 어떤 대가를 치르더라도 전통의 가치를 지지하는 우리 내부의 보안 엘리트가 되었습니다. 어떤 사람은 군단 지휘관의 지원을 받는 군단 전사들뿐만 아니라 우리의 지역 동맹들도 기사단에 들어올 수 있도록 허락할 것을 제안하고 있고, 다른 사람은 자격 요건이 미래에 더 엄격해지기를 원합니다. 또 어떤 이는 참전용사와 귀족 가문의 보증을 받은 이를 모두 성배 기사단에 들어올 수 있도록 하면 영원한 충성심을 얻을 수 있다고 말합니다. 어떻게 해야 할까요?"
 italy.114.a:0 "Keep it as is"
 italy.114.b:0 "Allow more loyalists in"
 italy.114.c:0 "Make requirements stricter from now on"
 
 italy.115.t:0 "Knights of the Grail Slaughtering Liberals"
-italy.115.d:0 "The Knights of the Grail are tasked with investigating and capturing prominent liberals whom have gone underground as ordered by Evola and have been told to end their treachery. While initially this was thought to mean arresting them, most of the Knights are taking the opportunity to kill them on sight alongside whomever may be hiding them and confiscating their property. The most frequent of these victims are former labor union leaders and activists. This is not against their rules and indeed according to the Legion command it's an excellent chance for Two Sicilies to experience violent redemption but nonetheless some are saying that Evola should at least require political opponents to be brought in before being tried and executed in a more lawful fashion."
+italy.115.d:0 "배반을 끝내라는 에볼라의 명령대로 성배 기사단은 지하로 들어간 저명한 자유주의자들을 조사하고 붙잡는 임무를 맡고 있습니다. 처음에는 이것이 그들을 체포하라는 명령이라고 생각되었지만, 대부분의 기사들은 그들을 숨기고 재산을 몰수할 지도 모르는 사람들과 함께 그들을 죽일 기회를 잡고 있습니다. 피해자들 중에는 전직 노조 지도자와 운동가가 가장 많습니다. 이것은 규칙에 어긋나지 않으며 실제로 군단 사령부에 따르면 이것은 양시칠리아가 폭력적인 구원을 경험할 수 있는 좋은 기회지만 그럼에도 불구하고 어떤 사람들은 더 합법적인 방법으로 재판을 받고 처형받기 위해 최소한 정적들을 데려와야 한다고 말하고 있습니니다."
 italy.115.a:0 "Tis only flesh wounds"
 italy.115.b:0 "I'd prefer "alive" if possible"
 
@@ -265,7 +265,7 @@ italy.116.d:0 "With the Legion's gambit paying off a majority of the Right-Front
 italy.116.a:0 "Purge the remnant catholic traditionalists where we can"
 italy.116.b:0 "We will give them time to change their minds"
 
-italy.117.t:0 "Catholic Resistance"
+italy.117.t:0 "가톨릭의 저항"
 italy.117.d:0 "The Catholic rightists have gone from merely being a nuisance to being to the Legion, in the words of Evola, a "lingering modernist tumor". Since our attempts to strike the Catholic Church it has seen a growth as it has billed itself as the "defenders of Catholicism" and even mainstream conservative catholics such as Mario Scelba have reportedly joined them. The King has reassured the people he is merely opposing the presently pseudo-Christian Vatican for weakening the state while Evola has privately done the opposite with the Legion and declared the Holy War against darkness as truly beginning. With the Camicie Nere attacking Legion garrisons, stealing supplies and launching propaganda campaigns against us we must stop them. We could punish their families in an effort to flush them out or simply interrogate priests whom are undoubtedly hiding them. Whom should we focus on?"
 italy.117.a:0 "The Families"
 italy.117.b:0 "The Church"
