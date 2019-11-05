@@ -30,7 +30,7 @@ WAS_liberalism_ADJ:0 "서오스트레일리아"
 
 WAS_conservatism:0 "서오스트레일리아"
 WAS_conservatism_DEF:0 "서오스트레일리아"
-WAS_conservatism_ADJ:0 ""
+WAS_conservatism_ADJ:0 "서오스트레일리아"
 
 WAS_right_authoritarianism:0 "서오스트레일리아"
 WAS_right_authoritarianism_DEF:0 "서오스트레일리아"
@@ -61,11 +61,11 @@ WAS_reactionism_party:0 "서오스트레일리아 신수비대"
 WAS_accelerationism_party:0 "오스트레일리아 우선운동"
 #LEADER DESCRITIONS#
 #IDEAS##WAS_economic_depression
-WAS_economic_depression:0 "경제 불황"
+WAS_economic_depression:0 "경제공황"
 WAS_economic_depression_desc:0 ""
 WAS_emu_plague:0 "에뮤 역병"
 WAS_emu_plague_desc:0 ""
-WAS_spirit_of_independence:0 "독립 정신"
+WAS_spirit_of_independence:0 "독립정신"
 WAS_spirit_of_independence_desc:0 ""
 #CUSTOM TOOLTIPS AND FLAGS#
 #DECISIONS (1.5 Update)#
