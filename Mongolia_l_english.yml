@@ -138,6 +138,8 @@ corrected_the_record:0 "더 이상 중국은 분열하지 않습니다."
 JGJ_annexed:0 "정국군 합병"
 FJN_annexed:0 "푸젠 합병"
 KMT_annexed:0 "난징 합병"
+
+MON_SETTING_SUN_DESC:0 "During the Chinese civil war the Beiyang Government split, Duan Qirui lead his Anhui Clique on campaigns against the KMT with some success before his army was exiled in Mongolia. With his former ally - Yan Xishan in control in Beijing, the Anhui Clique must now contend with the warlord fringe of Mongolia in order to survive and reclaim their place as a potential leader of China."
 #DECISIONS (1.5 Update)#
 #FOCUSES#
 Mongolia_armyofexiles:0 "추방된 군대"

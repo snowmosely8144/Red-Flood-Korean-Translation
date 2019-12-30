@@ -146,6 +146,9 @@ ITA_attack_modernism:0 "§gThe Legion will declare an attack on Modernist instit
 ITA_order_restored:0 "§GOrder Shall be Restored§G"
 
 #DECISIONS (1.5 Update)#
+ITA_decision_infrastructure:0 "Infrastructure Initiative"
+ITA_national_shipyard:0 "Contruct National Shipyards"
+ITA_expand_facilities:0 "Contruct Arms Factories"
 
 #EVENTS
 italy.1.t:0 "양심의 위기"

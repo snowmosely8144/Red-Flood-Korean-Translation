@@ -327,12 +327,16 @@ GER_volksding_rhenus:0 "인민의회 - 레누스 추종"
 GER_volksding_tyr:0 "인민의회 - 티르 추종"
 GER_united_worship:0 "연합된 독일인의 신앙"
 GER_united_worship_desc:0 ""
+
 GER_grossdeutschland:0 "대독일"
 GER_grossdeutschland_desc:0 ""
 GER_local_beliefs:0 "토착 종교 수용"
 
 GER_german_support:0 "독일의 지원"
 GER_german_support_desc:0 "독일의 스페인 지원"
+
+GER_anti_futurist_aktion:0 "Antifuturistische Aktion"
+GER_anti_futurist_aktion_desc:0 "Anti-futurist action? Terrorism more like it!"
 
 #EVENTS#
 germany.1.t:0 "레비의 결정"
@@ -378,7 +382,8 @@ germany.9.a:0 "Let the congress begin!"
 
 germany.10.t:0 "Germany approaches us"
 germany.10.desc:0 "Today, the German Ambassador in Bergen has approached our Government and has proposed a united Arctic Naval Expedition, to find new Passages and strengthen the Bond between our Nations. Our Naval Commanders agree that an Expedition would be beneficial for our overall Navy experience and mapping of the north pole is a project worthy of committing too. Some fear, however, that Germanie advances are to draw us into the third International. And then there are some who also think that Germany wants to do that, but think that would be a good thing. What should we do?"
-germany.10.a:0 "Yes, expeditions to the Nort German Comrades!"
+germany.10.a:0 "Yes, expeditions to the North pole would be good, but we don’t need the Germans."
+germany.10.b:0 "A great idea! We will sail with our German Comrades!"
 germany.10.c:0 "We don't need such projects!"
 #CUSTOM TOOLTIPS AND FLAGS#
 nmapd_victory:0 "The NMAPD dominated the Reichsrätekongress"
@@ -416,6 +421,9 @@ GER_support_exile:0 "망명정부 지원"
 GER_support_exile_desc:0 "전세계에서는 우리와 같은 혁명에 실패한 국가들이 넘쳐납니다. 제3인터내셔널의 지도자와 최초의 사회주의 국가로서, 우리는 그러한 국가들로부터 온 혁명가들이 패배주의에 젖어버리는 것을 거부할 이념적 의무를 지고 있습니다. 대신 우리는 망명한 정당들을 지원하고 이 나라들에서의 두번째 혁명을 준비하는 것을 시작해야 합니다. 러시아 혁명가들의 \n\n§G조직들§!: [?russian_organisation]\nMonthly Organisation Gain: [?russian_organisation_monthly]\n§RPreparation§! of Russian revolutionaries: [?russian_preparation]\n\n§GOrganisation§! of French revolutionaries: [?french_organisation]\n§RPreparation§! of French revolutionaries: [?french_preparation]"
 establish_committee_russian:0 "러시아 군사혁명위원회 창설"
 establish_committee_russian_desc:0 ""
+
+GER_export_revolution_TAG:0 "Exporting The Revolution"
+GER_anti_futurist_action:0 "Anti-Futuristische Aktion"
 
 
 support_monthly_addition:0 "월간 조직력과 계획 이득"

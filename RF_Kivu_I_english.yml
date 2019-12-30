@@ -1,0 +1,77 @@
+﻿l_english:
+#COUNTRY NAME#
+KIV_vanguard_socialism:0 "Kivu People's Republic"
+KIV_vanguard_socialism_DEF:0 "Kivu"
+KIV_vanguard_socialism_ADJ:0 "Kivu"
+
+KIV_libertarian_marxism:0 "Kivu People's Republic"
+KIV_libertarian_marxism_DEF:0 "Kivu"
+KIV_libertarian_marxism_ADJ:0 "Kivu"
+
+KIV_revolutionary_anarchism:0 "Kivu Free Territory"
+KIV_revolutionary_anarchism_DEF:0 "Kivu Free Territory"
+KIV_revolutionary_anarchism_ADJ:0 "Kivu Free Territory"
+
+KIV_revisionist_socialism:0 "Kivu People's Republic"
+KIV_revisionist_socialism_DEF:0 "Kivu"
+KIV_revisionist_socialism_ADJ:0 "Kivu"
+
+KIV_social_democratism:0 "Kivu"
+KIV_social_democratism_DEF:0 "Kivu"
+KIV_social_democratism_ADJ:0 "Kivu"
+
+KIV_placeholderism:0 "Kivu"
+KIV_placeholderism_DEF:0 "Kivu"
+KIV_placeholderism_ADJ:0 "Kivu"
+
+KIV_liberalism:0 "Kivu"
+KIV_liberalism_DEF:0 "Kivu"
+KIV_liberalism_ADJ:0 "Kivu"
+
+KIV_conservatism:0 "Kivu"
+KIV_conservatism_DEF:0 "Kivu"
+KIV_conservatism_ADJ:0 "Kivu"
+
+KIV_right_authoritarianism:0 "Kivu"
+KIV_right_authoritarianism_DEF:0 "Kivu"
+KIV_right_authoritarianism_ADJ:0 "Kivu"
+
+KIV_despotism:0 "Kivu"
+KIV_despotism_DEF:0 "Kivu"
+KIV_despotism_ADJ:0 "Kivu"
+
+KIV_reactionism:0 "Kivu"
+KIV_reactionism_DEF:0 "Kivu"
+KIV_reactionism_ADJ:0 "Kivu"
+
+KIV_accelerationism:0 "Futuriste Etat de Kivu"
+KIV_accelerationism_DEF:0 "Kivu Futurist State"
+KIV_accelerationism_ADJ:0 "Kivu Futurist State"
+#PARTIES#
+KIV_vanguard_socialism_party:0 "FLNS"
+KIV_vanguard_socialism_party_long:0 "Front de libération nationale du Kivu"
+KIV_libertarian_marxism_party:0 "PSR"
+KIV_libertarian_marxism_party_long:0 "Parti Socialiste Radical"
+KIV_revolutionary_anarchism_party:0 "Anarchiste"
+KIV_revolutionary_anarchism_party_long:0 "Anarchiste"
+KIV_revisionist_socialism_party:0 "Union Socialiste"
+KIV_revisionist_socialism_party_long:0 "Union Socialiste"
+KIV_social_democratism_party:0 "PS"
+KIV_social_democratism_party_long:0 "Parti Socialiste"
+KIV_liberalism_party:0 "PL"
+KIV_liberalism_party_long:0 "Parti Libéral"
+KIV_conservatism_party:0 "PL-R"
+KIV_conservatism_party_long:0 "Parti Libéral - Republicáin"
+KIV_right_authoritarianism_party:0 "PAAC"
+KIV_right_authoritarianism_party_long:0 "Parti de l'ancienne armée coloniale"
+KIV_despotism_party:0 "Despotist"
+KIV_despotism_party_long:0 "Despotist"
+KIV_reactionism_party:0 "UDM"
+KIV_reactionism_party_long:0 "Unité de Mohammed"
+KIV_accelerationism_party:0 "PNAGS (M)"
+KIV_accelerationism_party_long:0 "Parti national de l'Avant-garde Surréaliste (Kivu)"
+#LEADER DESCRITIONS#
+#IDEAS#
+#CUSTOM TOOLTIPS AND FLAGS#
+#DECISIONS (1.5 Update)#
+#FOCUSES#
