@@ -1,52 +1,52 @@
 ﻿l_english:
 #COUNTRY NAME#
-KMT_vanguard_socialism:0 "Nanjing Commune"
-KMT_vanguard_socialism_DEF:0 "Nanjing Commune"
-KMT_vanguard_socialism_ADJ:0 "Nanjing"
+KMT_vanguard_socialism:0 "남경 코뮌"
+KMT_vanguard_socialism_DEF:0 "남경 코뮌"
+KMT_vanguard_socialism_ADJ:0 "남경"
 
-KMT_libertarian_marxism:0 "Nanjing Commune"
-KMT_libertarian_marxism_DEF:0 "Nanjing Commune"
-KMT_libertarian_marxism_ADJ:0 "Nanjing"
+KMT_libertarian_marxism:0 "남경 코뮌"
+KMT_libertarian_marxism_DEF:0 "남경 코뮌"
+KMT_libertarian_marxism_ADJ:0 "남경"
 
-KMT_revolutionary_anarchism:0 "Nanjing Commune"
-KMT_revolutionary_anarchism_DEF:0 "Nanjing Commune"
-KMT_revolutionary_anarchism_ADJ:0 "Nanjing"
+KMT_revolutionary_anarchism:0 "남경 코뮌"
+KMT_revolutionary_anarchism_DEF:0 "남경 코뮌"
+KMT_revolutionary_anarchism_ADJ:0 "남경"
 
-KMT_revisionist_socialism:0 "Jiangzhe Clique"
-KMT_revisionist_socialism_DEF:0 "Jiangzhe Clique"
-KMT_revisionist_socialism_ADJ:0 "Nanjing"
+KMT_revisionist_socialism:0 "강절 군벌"
+KMT_revisionist_socialism_DEF:0 "강절 군벌"
+KMT_revisionist_socialism_ADJ:0 "남경"
 
-KMT_social_democratism:0 "Jiangzhe Clique"
-KMT_social_democratism_DEF:0 "Jiangzhe Clique"
-KMT_social_democratism_ADJ:0 "Kuomintang"
+KMT_social_democratism:0 "강절 군벌"
+KMT_social_democratism_DEF:0 "강절 군벌"
+KMT_social_democratism_ADJ:0 "국민당"
 
-KMT_placeholderism:0 "Jiangzhe Clique"
-KMT_placeholderism_DEF:0 "Jiangzhe Clique"
-KMT_placeholderism_ADJ:0 "Kuomintang"
+KMT_placeholderism:0 "강절 군벌"
+KMT_placeholderism_DEF:0 "강절 군벌"
+KMT_placeholderism_ADJ:0 "국민당"
 
-KMT_liberalism:0 "Jiangzhe Clique"
-KMT_liberalism_DEF:0 "Jiangzhe Clique"
-KMT_liberalism_ADJ:0 "Kuomintang"
+KMT_liberalism:0 "강절 군벌"
+KMT_liberalism_DEF:0 "강절 군벌"
+KMT_liberalism_ADJ:0 "국민당"
 
-KMT_conservatism:0 "Jiangzhe Clique"
-KMT_conservatism_DEF:0 "Jiangzhe Clique"
-KMT_conservatism_ADJ:0 "Kuomintang"
+KMT_conservatism:0 "강절 군벌"
+KMT_conservatism_DEF:0 "강절 군벌"
+KMT_conservatism_ADJ:0 "국민당"
 
-KMT_right_authoritarianism:0 "Jiangzhe Clique"
-KMT_right_authoritarianism_DEF:0 "Jiangzhe Clique"
-KMT_right_authoritarianism_ADJ:0 "Nanjing"
+KMT_right_authoritarianism:0 "강절 군벌"
+KMT_right_authoritarianism_DEF:0 "강절 군벌"
+KMT_right_authoritarianism_ADJ:0 "남경"
 
-KMT_despotism:0 "Jiangzhe Clique"
-KMT_despotism_DEF:0 "Jiangzhe Clique"
-KMT_despotism_ADJ:0 "Nanjing"
+KMT_despotism:0 "강절 군벌"
+KMT_despotism_DEF:0 "강절 군벌"
+KMT_despotism_ADJ:0 "남경"
 
-KMT_reactionism:0 "Jiangzhe Clique"
-KMT_reactionism_DEF:0 "Jiangzhe Clique"
-KMT_reactionism_ADJ:0 "Nanjing"
+KMT_reactionism:0 "강절 군벌"
+KMT_reactionism_DEF:0 "강절 군벌"
+KMT_reactionism_ADJ:0 "남경"
 
-KMT_accelerationism:0 "Wu State"
-KMT_accelerationism_DEF:0 "Wu State"
-KMT_accelerationism_ADJ:0 "Wu"
+KMT_accelerationism:0 "오나라"
+KMT_accelerationism_DEF:0 "오나라"
+KMT_accelerationism_ADJ:0 "오나라"
 #PARTIES#
 #LEADER DESCRITIONS#
 #IDEAS#
