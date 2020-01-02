@@ -1,8 +1,8 @@
 ﻿l_english:
 #COUNTRY NAME#
-ITA_vanguard_socialism:0 "Kingdom of Italy"
-ITA_vanguard_socialism_DEF:0 "Kingdom of Italy"
-ITA_vanguard_socialism_ADJ:0 "Italian"
+ITA_vanguard_socialism:0 "이탈리아 왕국"
+ITA_vanguard_socialism_DEF:0 "이탈리아 왕국"
+ITA_vanguard_socialism_ADJ:0 "이탈리아"
 
 ITA_libertarian_marxism:0 "Kingdom of Italy"
 ITA_libertarian_marxism_DEF:0 "Kingdom of Italy"
@@ -74,7 +74,7 @@ ITA_reactionism_party_long:0 "Lista Nazionale"
 ITA_accelerationism_party_long:0 "I Carnaristi"
 #LEADER DESCRITIONS#
 #IDEAS#
-ITA_italian_constitution:0 "Constitution of the Kingdom of Italy"
+ITA_italian_constitution:0 "이탈리아 왕국의 헌법"
 ITA_italian_constitution_desc:0 "Seeing the political success of the United Kingdom after the end of the Velikaya Voyna, PM Vittorio Emmanuele Orlando suggested changing the Statuto Albertino to mimic the UK laws, always adapting them to Italy, of course. The new constitution enjoys great acceptance among the population and it has been transformed into unity symbol for Italy."
 ITA_italian_constitution:0 "Constitution of the Kingdom of Italy"
 ITA_italian_constitution_desc:0 "Seeing the political success of the United Kingdom after the end of the Velikaya Voyna, PM Vittorio Emmanuele Orlando suggested changing the Statuto Albertino to mimic the UK laws, always adapting them to Italy, of course. The new constitution enjoys great acceptance among the population and it has been transformed into unity symbol for Italy."
