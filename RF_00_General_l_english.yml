@@ -1,7 +1,7 @@
 ﻿l_english:
 
 ### Autonomy Levels ###
-rf_russian_warlord:0 "Russian Warlord"
+rf_russian_warlord:0 "러시아 군벌"
 
 ### Diplomacy ###
 russian_warlord_cannot_join_ally_war:0 "We have our own lands to protect"
