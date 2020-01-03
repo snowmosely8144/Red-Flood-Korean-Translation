@@ -309,7 +309,7 @@ japan.20.t:0 "Divine Wind Coup"
 japan.20.d:0 "The failures of this government in stopping both the Chinese menace on the mainland and the communist threat at home has made clear the fact that things need to change immediately. Yasuhito is an honourable and good man, but he is no longer needed anymore. No, what is needed is a firm hand an a recommitment to imperialism. That means a change in management; a new Emperor, in other words. Prince Nobuhito has agreed to support this coup, but will not be anywhere near Japan for the time being in case things go south. As we speak, soldiers loyal to us have stormed the royal palace and are starting to build defenses in case of counterattack. The defense was heavy, with some of the most fanatical loyalists of the Emperor standing guard. Our soldiers were able to blast through their fortifications with explosives, but with a lot of casualties on both sides. Police officers loyal to the Prince have also been working around the clock to preserve order and ensure that rioting and civil unrest is kept at a minimum; we can’t allow the enemies of Japan any chances to destroy our nation, be it without or within. Now, all we have to do is hold out and wait for Nobuhito to come to Kyoto. Yasuhito has been surprisingly cooperative; he isn’t happy with the situation, but he hasn’t been doing anything to resist either. In the meantime, we shall hold on to the last man, for in these desperate times, everything must be done for the sake of the Emperor and the nation."
 japan.20.a:0 "Revere the Emperor, destroy the traitors!"
 
-japan.203.t:0 "Invite Nobuhito to Kyoto"
+japan.203.t:0 "노부히토를 교토로 초청하다"
 japan.203.d:0 "At long last, Nobuhito has returned to the country. Hiding outside of the country since the Divine Wind Coup, he has returned triumphant and proud in the efforts of the soldiers and their officers in bringing about a better government. An agenda more focused on empire building and defeating the Chinese is now on the table. It wasn’t particularly difficult to convince Yasuhito to abdicate. He had been cooperative during the coup itself, wanting to ensure that as little harm and chaos is brought to Japan as possible. At first, however, he wasn’t willing to give up the title of Emperor; he insisted that the people loved him and that his government was about to fix things in just a matter of days. He was persuaded, however, when it was argued that the people wanted him safe and secure, and that Nobuhito would essentially be his puppet and listen to his every word. Hearing this, Yasuhito agreed to abdicate, and in his place, Emperor Nobuhito has taken the throne. These chaotic times may finally be coming to an end with the ascension of a new Emperor. Committed to expanding the empire and destroying communism, he and the new government has won the support of the army and the navy, and will be working towards a renewed imperialism."
 japan.203.a:0 "Long live the Emperor!"
 
@@ -346,24 +346,24 @@ japan.25.a:0 "Curse them!"
 #CUSTOM TOOLTIPS AND FLAGS#
 JAP_SETTING_SUN_DESC:0 "The Empire of Japan is a glass cannon, since it's defeat in 1905 the military has been the relief valve on an increasingly divided society, conquests in the pacific and exploitation in China are propping up a fragile economy and now if the campaign in China fails, Japan risks the Patriotic Vanguard rising up against the Restorationists and starting a civil war..."
 
-JAP_beijing_peace:0 "Japanese peace treaty with Shanxi"
+JAP_beijing_peace:0 "산서와의 평화조약"
 red_sun_rising:0 "Red Sun Rising"
-pacific_workers_league:0 "Pacific Workers League"
-JAP_revolution:0 "Japanese Civil War"
-JAP_KOR_annexed:0 "Annexation of Korea"
+pacific_workers_league:0 "태평양 노동자 연맹"
+JAP_revolution:0 "일본 내전"
+JAP_KOR_annexed:0 "조선 합병"
 JPR_Navy_Defectors_tooltip:0 "Rebels in the Navy will join the Revolution"
 
-JAP_shogunate_reactionary:0 "Shogunate of Japan"
-JAP_shogunate_reactionary_DEF:0 "The Shogunate of Japan"
-JAP_shogunate_reactionary_ADJ:0 "Japanese"
+JAP_shogunate_reactionary:0 "일본 막부"
+JAP_shogunate_reactionary_DEF:0 "일본 막부"
+JAP_shogunate_reactionary_ADJ:0 "일본"
 
-JAP_empire_despotism:0 "Empire of Japan"
-JAP_empire_despotism_DEF:0 "The Empire of Japan"
-JAP_empire_despotism_ADJ:0 "Japanese"
+JAP_empire_despotism:0 "일본 제국"
+JAP_empire_despotism_DEF:0 "일본 제국"
+JAP_empire_despotism_ADJ:0 "일본"
 
 #MINISTERS#
-JAP_sadao_araki_hog:0 "Sadao Araki"
-JAP_araki_cos:0 "Sadao Araki"
+JAP_sadao_araki_hog:0 "사다오 아라키"
+JAP_araki_cos:0 "사다오 아라키"
 
 #DECISIONS (1.5 Update)#
 
