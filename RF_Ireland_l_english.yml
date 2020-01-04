@@ -51,25 +51,25 @@ IRE_accelerationism_ADJ:0 "아일랜드"
 #PARTIES#
 IRE_vanguard_socialism_party:0 "아일랜드 공화국군"
 IRE_libertarian_marxism_party:0 "신 페인"
-IRE_revolutionary_anarchism_party:0 "Dublin Council of Trade Unions"
+IRE_revolutionary_anarchism_party:0 "더블린 노동조합평의회"
 IRE_revisionist_socialism_party:0 "농부당"
 IRE_social_democratism_party:0 "노동당"
 IRE_liberalism_party:0 "Fianna Fail"
 IRE_conservatism_party:0 "Fine Gael"
 IRE_right_authoritarianism_party:0 "민족연맹당"
 IRE_despotism_party:0 "영국 긴급평의회"
-IRE_reactionism_party:0 "Army Comrades Association"
+IRE_reactionism_party:0 "전우 협회"
 IRE_accelerationism_party:0 "아일랜드 미래주의 연맹"
 
 #LEADER DESCRITIONS#
 
 #IDEAS#
-IRE_cold_civil_war:0 "Cold Civil War"
-IRE_cold_civil_war_desc:0 "Officially the Irish civil war ended in 1923, but truly the Irish civil war has never ended. The Irish republican army has gone underground continuing its terror attacks to free Ireland from all British rule, while Pro Treaty groups led by Richard Mulcahy lead the government working for the British government. Both sides fight with their paramilitary groups but overall it has been peaceful compared to the previous Irish civil war, but tension is rising slowly and could easily explode."
-IRE_economic_catastrophe:0 "Economic Catastrophe"
-IRE_economic_catastrophe_desc:0 "When the British stock market crashed the Irish economy was harmed but spared from the worst of it, but now with the New York stock exchange crash of 1934 and the “Great Slump” the Irish economy has completely collapsed. With unemployment higher than ever before, people are doing whatever to get by whether this is leaving to the UK or the USA, or turning to a life of crime. While the economy has already started to slowly improve further change is rapidly needed."
-IRE_black_and_tans:0 "Black and Tans"
-IRE_black_and_tans_desc:0 "The Black and Tans still exist and operate in Ireland even with the civil war over as a force to help fight the IRA. While weakened due to Britain focusing on other areas of the empire they are still a major power player in Ireland. However they are widely disliked by the Irish population due to their brutality and often interfere with the Irish government. While the British government have restrained them, a careful balancing act must continue to restrain the Black and Tans while using them as a effective force. If they are too weak the IRA benefit, if they are to strong then only bad events could occur."
+IRE_cold_civil_war:0 "차가운 내전"
+IRE_cold_civil_war_desc:0 "아일랜드 내전은 공식적으로 1923년에 끝이 났으나, 진정으로는 아직 끝나지 않았습니다. 아일랜드 공화국군이 영국의 통치에서 아일랜드를 완전히 해방하기 위해 지하에서 테러 공격을 지속하고 있는 한편, 리처드 멀케이가 주도하는 조약 찬성 집단들은 영국 정부를 위한 아일랜드 정부를 이끌고 있습니다. 양측은 fight with their paramilitary groups but overall it has been peaceful compared to the previous Irish civil war, but tension is rising slowly and could easily explode."
+IRE_economic_catastrophe:0 "경제적 파멸"
+IRE_economic_catastrophe_desc:0 "영국 주식시장이 붕괴할 당시 아일랜드의 경제는 해를 입었을지언정 그나마 spared from the worst of it 있었으나, 1934년의 뉴욕 주식거래 붕괴와 “대침체”로 인해 아일랜드 경제는 완전히 무너지고 말았습니다. 실직률은 전례 없을 정도로 상승했으며, 사람들은 영국이나 미국으로 떠나든, 범죄에 손을 담그는 등 이 위기를 이겨내기 위해 갖은 수를 쓰고 있습니다. 경제는 이미 서서히 회복 중이지만 추가적인 변화가 시급합니다."
+IRE_black_and_tans:0 "블랙 앤 탠스"
+IRE_black_and_tans_desc:0 "블랙 앤 탠스가 아일랜드에서 여전히 존속하며 운용되고 있으며, 내전에서는 IRA에 맞선 세력을 돕고 있습니다. While weakened due to Britain focusing on other areas of the empire they are still a major power player in Ireland. However they are widely disliked by the Irish population due to their brutality and often interfere with the Irish government. While the British government have restrained them, a careful balancing act must continue to restrain the Black and Tans while using them as a effective force. If they are too weak the IRA benefit, if they are to strong then only bad events could occur."
 
 #CUSTOM TOOLTIPS AND FLAGS#"
 
