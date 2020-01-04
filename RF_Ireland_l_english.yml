@@ -69,7 +69,7 @@ IRE_cold_civil_war_desc:0 "아일랜드 내전은 공식적으로 1923년에 끝
 IRE_economic_catastrophe:0 "경제적 파멸"
 IRE_economic_catastrophe_desc:0 "영국 주식시장이 붕괴할 당시 아일랜드의 경제는 해를 입었을지언정 그나마 spared from the worst of it 있었으나, 1934년의 뉴욕 주식거래 붕괴와 “대침체”로 인해 아일랜드 경제는 완전히 무너지고 말았습니다. 실직률은 전례 없을 정도로 상승했으며, 사람들은 영국이나 미국으로 떠나든, 범죄에 손을 담그는 등 이 위기를 이겨내기 위해 갖은 수를 쓰고 있습니다. 경제는 이미 서서히 회복 중이지만 추가적인 변화가 시급합니다."
 IRE_black_and_tans:0 "블랙 앤 탠스"
-IRE_black_and_tans_desc:0 "블랙 앤 탠스가 아일랜드에서 여전히 존속하며 운용되고 있으며, 내전에서는 IRA에 맞선 세력을 돕고 있습니다. While weakened due to Britain focusing on other areas of the empire they are still a major power player in Ireland. However they are widely disliked by the Irish population due to their brutality and often interfere with the Irish government. While the British government have restrained them, a careful balancing act must continue to restrain the Black and Tans while using them as a effective force. If they are too weak the IRA benefit, if they are to strong then only bad events could occur."
+IRE_black_and_tans_desc:0 "블랙 앤 탠스가 아일랜드에서 여전히 존속하며 운용되고 있으며, 내전에서는 반IRA 세력을 돕고 있습니다. While weakened due to Britain focusing on other areas of the empire they are still a major power player in Ireland. However they are widely disliked by the Irish population due to their brutality and often interfere with the Irish government. While the British government have restrained them, a careful balancing act must continue to restrain the Black and Tans while using them as a effective force. If they are too weak the IRA benefit, if they are to strong then only bad events could occur."
 
 #CUSTOM TOOLTIPS AND FLAGS#"
 
