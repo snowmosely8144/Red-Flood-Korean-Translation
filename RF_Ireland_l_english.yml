@@ -65,11 +65,11 @@ IRE_accelerationism_party:0 "아일랜드 미래주의 연맹"
 
 #IDEAS#
 IRE_cold_civil_war:0 "차가운 내전"
-IRE_cold_civil_war_desc:0 "아일랜드 내전은 공식적으로 1923년에 끝이 났으나, 진정으로는 아직 끝나지 않았습니다. 아일랜드 공화국군이 영국의 통치에서 아일랜드를 완전히 해방하기 위해 지하에서 테러 공격을 지속하고 있는 한편, 리처드 멀케이가 주도하는 조약 찬성 집단들은 영국 정부를 위한 아일랜드 정부를 이끌고 있습니다. 양측은 fight with their paramilitary groups but overall it has been peaceful compared to the previous Irish civil war, but tension is rising slowly and could easily explode."
+IRE_cold_civil_war_desc:0 "아일랜드 내전은 공식적으로 1923년에 끝이 났으나, 진정으로는 아직 끝나지 않았습니다. 아일랜드 공화국군이 영국의 통치에서 아일랜드를 완전히 해방하기 위해 지하에서 테러 공격을 지속하고 있는 한편, 리처드 멀케이가 주도하는 조약 찬성 집단들은 영국 정부를 위한 아일랜드 정부를 이끌고 있습니다. 양측은 각자의 준군사집단을 동원해 싸우고 있으나, 이전의 내전과 비교하면 전체적으로는 평화로운 양상을 유지하고 있습니다. 그러나 서서히 고조되어가는 긴장 속에선 이 역시 쉽사리 터져나와버릴 것입니다."
 IRE_economic_catastrophe:0 "경제적 파멸"
-IRE_economic_catastrophe_desc:0 "영국 주식시장이 붕괴할 당시 아일랜드의 경제는 해를 입었을지언정 그나마 spared from the worst of it 있었으나, 1934년의 뉴욕 주식거래 붕괴와 “대침체”로 인해 아일랜드 경제는 완전히 무너지고 말았습니다. 실직률은 전례 없을 정도로 상승했으며, 사람들은 영국이나 미국으로 떠나든, 범죄에 손을 담그는 등 이 위기를 이겨내기 위해 갖은 수를 쓰고 있습니다. 경제는 이미 서서히 회복 중이지만 추가적인 변화가 시급합니다."
+IRE_economic_catastrophe_desc:0 "영국 주식시장이 붕괴할 당시 아일랜드의 경제는 해를 입었을지언정 최악은 면했으나, 1934년의 뉴욕 주식거래 붕괴와 “대침체”로 인해 아일랜드 경제는 완전히 무너지고 말았습니다. 실직률은 전례 없을 정도로 상승했으며, 사람들은 영국이나 미국으로 떠나든, 범죄에 손을 담그는 등 이 위기를 이겨내기 위해 갖은 수를 쓰고 있습니다. 경제는 이미 서서히 회복 중이지만 추가적인 변화가 시급합니다."
 IRE_black_and_tans:0 "블랙 앤 탠스"
-IRE_black_and_tans_desc:0 "블랙 앤 탠스가 아일랜드에서 여전히 존속하며 운용되고 있으며, 내전에서는 반IRA 세력을 돕고 있습니다. While weakened due to Britain focusing on other areas of the empire they are still a major power player in Ireland. However they are widely disliked by the Irish population due to their brutality and often interfere with the Irish government. While the British government have restrained them, a careful balancing act must continue to restrain the Black and Tans while using them as a effective force. If they are too weak the IRA benefit, if they are to strong then only bad events could occur."
+IRE_black_and_tans_desc:0 "블랙 앤 탠스가 아일랜드에서 여전히 존속하며 운용되고 있으며, 내전에서는 반IRA 세력을 돕고 있습니다. 영국이 제국의 다른 지역들에 집중하면서 약해졌다고는 하나, 이 경찰대는 여전히 아일랜드의 주요 세력으로서 존재를 유지하고 있습니다. 그 잔혹성과 아일랜드 정부에 대한 잦은 간섭으로 아일랜드에선 대부분이 이들을 싫어합니다. 영국 정부는 블랙 앤 탠스를 효과적인 무력 수단으로 사용하면서도, 또한 균형을 맞추기 위한 행동으로서 이들을 자제시키려 노력하고 있습니다. 이들이 너무 약하다면 IRA에게 이득이 될 것이며, 너무 강하다면 최악만이 남게 될 것입니다."
 
 #CUSTOM TOOLTIPS AND FLAGS#"
 
