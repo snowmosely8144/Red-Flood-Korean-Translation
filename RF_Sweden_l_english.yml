@@ -53,50 +53,50 @@ SWE_no_socialists_in_our_country:0 "사회주의자 숙청!"
 SWE_no_socialists_in_our_country_desc:0 "The election did not go well for the Left Party!\nThe winning party has started a strong political campaign against the Socialists!"
 SWE_socialists_in_our_country:0 "좌익정당의 승리!"
 SWE_socialists_in_our_country_desc:0 "For the first time ever, the Left Party has won the elections! It is time to bring order to Sweden!"
-SWE_rationing_goods:0 "Rationing is the way!"
+SWE_rationing_goods:0 "배급제가 방법이다!"
 SWE_rationing_goods_desc:0 "By rationing our resoruces, we can teach our people to be not use too much of our dear resources!"
 SWE_london_market_crash:0 "런던 시장붕괴"
-SWE_london_market_crash_desc:0 "In 1934, the London Stock Market crashed. This brought huge concern to our Union and almost destroyed our economy!"
+SWE_london_market_crash_desc:0 "1934년 런던 주식시장이 붕괴했습니다. 이는 우리 연합에 골치아픈 일로, 우리 경제를 거의 망가뜨려놨습니다!"
 SWE_london_market_crash2:0 "시장붕괴에서의 회복"
-SWE_london_market_crash2_desc:0 "The Union has started putting in some work into the economics!"
+SWE_london_market_crash2_desc:0 "연합이 경제에 조금씩 공을 들이기 시작했습니다!"
 SWE_london_market_crash_recovered:0 "시장붕괴에서 회복하다"
-SWE_london_market_crash_recovered_desc:0 "The Union has recovered from the London Market crash!"
-SWE_entrepeneur:0 "Investing in the People"
-SWE_entrepeneur_desc:0 "The Union is investing in the academics minds!"
+SWE_london_market_crash_recovered_desc:0 "연합이 런던 시장붕괴를 극복해냈습니다!"
+SWE_entrepeneur:0 "인민에 대한 투자"
+SWE_entrepeneur_desc:0 "연합은 학술사고 증진을 위해 투자하고 있습니다!"
 SWE_better_labour:0 "노동조건"
-SWE_better_labour_desc:0 "The Union is investing a lot in the labour workers!"
+SWE_better_labour_desc:0 "연합은 인부들에게 많은 투자를 하고 있습니다!"
 #CUSTOM FLAGS#
 SWE_elections_flag:0 "선거 개시!"
-SWE_socialdemocrats_rule_flag:0 "The Social Democrat party has won the election."
-SWE_socialists_rule_flag:0 "The Left Wing party has won the election."
-SWE_conservatives_rule_flag:0 "The Social Conservative party has won the election."
+SWE_socialdemocrats_rule_flag:0 "사회민주당에서 선거에서 승리하다."
+SWE_socialists_rule_flag:0 "좌익당이 선거에서 승리하다."
+SWE_conservatives_rule_flag:0 "사회보수당이 선거에서 승리하다."
 #CUSTOM TOOLTIPS#
 SWE_forest_tt:0 "§!삼림훈련 §W에 따라 전 삼림 지역에서의 전투 능력이 향상될 것입니다.\n"
 
 #CUSTOM TECH#
-SWE_forest_warfare_effect:0 "Enables §HForest Training§!\n§HAll legged units\n    Forest§!\n      Attack: §G+10%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!\n\n"
+SWE_forest_warfare_effect:0 "Enables §H삼림훈련§!\n§HAll legged units\n    Forest§!\n      Attack: §G+10%§!\n      Defence: §G+5%§!\n      Movement: §G+5%§!\n\n"
 
 #DECISIONS (1.5 Update)#
 #EVENTS#
 sweden.1.t:0 "스웨덴에서의 선거!" 
-sweden.1.d:0 "The general election in Sweden has begun! Will the people get their will through and choose the Social Democrats again and peacefully get through the post-war period, or will the Left Party somehow win and complete their thoughts on a united Scandinavia through an iron hand?"
+sweden.1.d:0 "스웨덴에서 총선이 실시되었습니다! 사람들이 다시 사회민주당을 선택해 전후시대를 평화롭게 보내려 할까요, 아니면 좌익당이 어떻게든 승리해 강권을 통한 통합된 스칸디나비아라는 자신들의 사상을 완성시킬까요?"
 sweden.1.a:0 "최선을 기대해보지."
 
 #FOCUSES#
 ##ARMY##
 SWE_forsvarsbeslutet:0 "방위법"
-SWE_forsvarsbeslutet_desc:0 "A defense decision is usually made by the Swedish Parliament, every four years, about how the structure and development of the Armed Forces will look in the coming years."
+SWE_forsvarsbeslutet_desc:0 "추후의 군의 구조와 개발에 관해 다루는 방위결정안은 매 4년마다 스웨덴 의회에서 채택됩니다."
 SWE_forsvarsstaben:0 "방위군 참모진"
 SWE_forsvarsstaben_desc:0 "A modern Defense Force is needed, and will be tasked with designing the use of the state's defense agents and performing counter-intelligence acts to all enemies of Sweden."
 SWE_ledningsregementet:0 "지휘통제연대"
-SWE_ledningsregementet_desc:0 "Because of our advances in Radio technology, we can now put it to good use!"
+SWE_ledningsregementet_desc:0 "라디오 기술에서 가지는 우리의 진전을 써먹을 수 있을 겁니다!"
 SWE_mandatoryconscription:0 "병역"
-SWE_mandatoryconscription_desc:0 "Ever since Norway decided to form an union with Sweden, there has been talks about gathering all the Norweigan men and incorporate them into the Swedish army. The Parliament has now issued a bill where all fit-for-service men in Ostlandet are conscripted into the Swedish Armed Forces."
+SWE_mandatoryconscription_desc:0 "노르웨이가 스웨덴과 연합을 형성한 아래, 노르웨이 남성들을 스웨덴군으로 징병하자는 논의가 있어왔습니다. 의회에선 오스틀란데의 복무 적정 남성들을 스웨덴군으로 복무시키자는 법안이 발의되었습니다."
 SWE_mountaintrainingsf:0 "산악훈련"
 SWE_mountaintrainingsf_desc:0 "The union of Sweden-Norway will benefit from having Special Forces training in Norway's mountains."
 SWE_foresttrainingsf:0 "삼림훈련"
 SWE_foresttrainingsf_desc:0 "The union of Sweden-Norway will benefit from having Special Forces training in Sweden's forests."
-SWE_rations:0 "Rationing"
+SWE_rations:0 "배급제"
 SWE_rations_desc:0 "By teaching our people on how to better use our resoruces, they will not waste any!"
 SWE_lottorna:0 "여성의용대"
 SWE_lottorna_desc:0 "Lottakåren is an auxiliary defence organization, that consist of approximately 100,000 women of all ages throughout the Union! Lottakåren's purpose is to recruit and educate women for tasks in the Swedish total defense, and to conduct comprehensive defense training."
@@ -107,13 +107,13 @@ SWE_army_desc:0 "The SNAF needs to be quick, precise and effective in our own la
 SWE_improved_guns:0 "총포 개선"
 SWE_improved_guns_desc:0 "These old guns will not do the job any more! We need to produce more modern guns!"
 SWE_support1:0 "우리 부대를 지원하라!"
-SWE_support1_desc:0 "We need to modernise our support companies!"
+SWE_support1_desc:0 "우린 지원중대를 근대화할 필요가 있습니다!"
 SWE_motorized_cavalry:0 "근대 기병대"
-SWE_motorized_cavalry_desc:0 "Focusing on switching out the horses for fast and reliable trucks will benefit us greatly!"
-SWE_tanks:0 "대형은행"
-SWE_tanks_desc:0 "Focusing on creating great tanks will benefit our troops!"
+SWE_motorized_cavalry_desc:0 "군마의 빠르고 튼튼한 트럭으로의 교체 집중은 우리에게 큰 이익이 될 것입니다!"
+SWE_tanks:0 "대형전차"
+SWE_tanks_desc:0 "대형전차 제작 집중은 우리 부대에 이득이 될 것입니다!"
 SWE_field_hospitals:0 "야전병원"
-SWE_field_hospitals_desc:0 "Having hospitals at the frontlines is a neccessity!"
+SWE_field_hospitals_desc:0 "전선에는 병원이 필수적입니다!"
 
 
 
@@ -207,11 +207,11 @@ SWE_public_works_desc:0 "By funding the people's projects, the Union can grow fa
 SWE_entrepeneurship:0 "Investing in the People"
 SWE_entrepeneurship_desc:0 "Investing in the young and the brave, they shall not be limited by their own money! The Union will help them!"
 SWE_work_school:0 "노동개혁"
-SWE_work_school_desc:0 "The Union needs more labour workers! By making sure they get paid more and have better conditions, we will get an expanding workforce!"
+SWE_work_school_desc:0 "연합은 더 많은 인부가 필요합니다! By making sure they get paid more and have better conditions, we will get an expanding workforce!"
 SWE_economy_army1:0 "군사공장 투자"
 SWE_economy_civilian1:0 "민간공장 투자"
 SWE_free_economy_2:0 "시장붕괴에서의 회복!"
-SWE_free_economy_2_desc:0 "By finalizing the work we've put into the economics of the Union, we can finally recover from the London Market crash!"
+SWE_free_economy_2_desc:0 "연합의 경제에 들인 공을 마무리함으로써 런던 시장붕괴에게서 완전히 벗어날 수 있게 되었습니다!"
 
 
 
@@ -220,7 +220,7 @@ SWE_free_economy_2_desc:0 "By finalizing the work we've put into the economics o
 
 #EVENTS#
 sweden.1.t:0 "스웨덴에서의 선거!"
-sweden.1.d:0 "The general election in Sweden has begun! Will the people get their will through and choose the Social Democrats again and peacefully get through the post-war period, or will the Left Party somehow win and complete their thoughts on a united Scandinavia through an iron hand?"
+sweden.1.d:0 "스웨덴에서 총선이 실시되었습니다! 사람들이 다시 사회민주당을 선택해 전후시대를 평화롭게 보내려 할까요, 아니면 좌익당이 어떻게든 승리해 강권을 통한 통합된 스칸디나비아라는 자신들의 사상을 완성시킬까요?"
 sweden.1.a:0 "최선을 기대해보지."
 sweden.2.t:0 "선거 결과"
 sweden.2.d:0 "수많은 시간을 들인 개표 끝에 드디어 결과가 나왔습니다!"
