@@ -100,8 +100,8 @@ SWE_rations:0 "배급제"
 SWE_rations_desc:0 "우리 인민에게 자원을 제대로 쓰는 법을 가르쳐 어느 것도 낭비하지 않도록 할 것입니다."
 SWE_lottorna:0 "여성의용대"
 SWE_lottorna_desc:0 "여성의용대는 국방조직의 보조대로, 연합 전역에서 모인 10만여 명의 여성으로 이루어져 있습니다. 여성의용대의 목적은 여성을 모집하고 교육해 스웨덴의 총력방위 업무에 투입하여 포괄적인 방위훈련을 수행하는 것입니다."
-SWE_unionwidearmy:0 "Unionwide Army Effort"
-SWE_unionwidearmy_desc:0 "By using the government's power, we can directly construct more military factories that will prepare us for any attack by the red! We will not let awful wars like the Norweigan civil war happen again!"
+SWE_unionwidearmy:0 "연합 육군 중점"
+SWE_unionwidearmy_desc:0 "정부권력을 통해, 우리는 빨갱이들의 공격에 맞서도록 할 더 많은 군사공장을 건설하도록 지시할 수 있습니다. 노르웨이 내전과 같은 괴악한 전쟁이 다시는 벌어지지 않도록 할 겁니다!"
 SWE_army:0 "연합을 위한 모두!"
 SWE_army_desc:0 "스웨덴-노르웨이군은 영토 내에선 빠르고 정확하며 효과적이여야 합니다.\n훗날의 그 어떤 공격도 막아낼 수 있어야 합니다."
 SWE_improved_guns:0 "총포 개선"
@@ -132,7 +132,7 @@ SWE_northernrailways_desc:0 "노르웨이의 나쁜 기반시설 사정 탓에 �
 SWE_southernrailways:0 "남방철도"
 SWE_southernrailways_desc:0 "스웨덴-노르웨이 남방에 기반시설을 건설한다면 덴마크 침공이 다시 벌어졌을 때 빠르게 대처할 수 있게 됩니다."
 SWE_industrialresearch1:0 "산업연구"
-SWE_industrialresearch1_desc:0 "Our brilliant minds have an idea about effectivly increasing our production!"
+SWE_industrialresearch1_desc:0 "우리의 뛰어난 머릿속엔 생산량을 효과적으로 증대시킬 발상이 담겨있습니다."
 SWE_rebuildoil:0 "외스틀란드의 정유공장 재건"
 SWE_rebuildoil_desc:0 "오스틀란데의 정유공장이 사회주의자들의 공격을 받고 전소되었습니다.\n정유공장 재건은 연합에 다시 석유를 공급할 것입니다."
 SWE_rebuildfactories:0 "외스틀란드의 민간공장 재건"
@@ -168,7 +168,7 @@ SWE_givehelptodenmark:0 "덴마크 재건 지원"
 SWE_givehelptodenmark_desc:0 "DESC HERE"
 ###SOCIAL CONSERVATIVE###
 SWE_constitutional_monarchy:0 "입헌군주정"
-SWE_constitutional_monarchy_desc:0 "우리는 우리 왕을 사랑합니다만, 그의 권력을 제한하고 이를 왕국의회에 줄 때가 됐습니다."
+SWE_constitutional_monarchy_desc:0 "우리는 우리 왕을 사랑합니다. 하지만 그의 권력을 제한하고 이를 왕국의회에 줄 때가 됐습니다."
 SWE_capitalist_market_economy:0 "자본주의적 시장경제"
 SWE_capitalist_market_economy_desc:0 "온건당에겐, 인민이 일자리를 만들고 인민이 회사를 운영하며, 그에 아무런 개입을 하지 않는 국가라는 전망이 있습니다."'
 SWE_state_funded_construction:0 "국영회사"
@@ -193,9 +193,9 @@ SWE_scandinavia_desc:0 "노르드인들이 말하노니!\n이제 다시 스칸�
 
 ####RESEARCH####
 SWE_researchwiththedanish:0 "덴마크와의 연구협정"
-SWE_researchwiththedanish_desc:0 "스칸디나비아 연구집단 창립은 연합에 이익이 될 것입니다. We should start off by getting Denmark to share their research with us."
+SWE_researchwiththedanish_desc:0 "스칸디나비아 연구집단 창립은 연합에 이익이 될 것입니다. 덴마크가 우리와 연구를 공유할 수 있도록 해야 합니다."
 SWE_studentsindenmark:0 "덴마크 내의 학생들"
-SWE_studentsindenmark_desc:0 "By getting an exchange program with the universities in Denmark, we can share our research even better, and educate the Union's students better!"
+SWE_studentsindenmark_desc:0 "덴마크 대학들과의 학생교환구상을 통해 연합 내 학생들에게 더 나은 교육을 제공할 수 있습니다."
 
 ##ECONOMY##
 SWE_free_economy:0 "위대한 경제"
