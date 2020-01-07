@@ -122,13 +122,13 @@ SWE_field_hospitals_desc:0 "전선에는 병원이 필수적입니다."
 
 ### INDUSTRIAL/INRASTRUCTURE ###
 SWE_industrialeffort:0 "산업적 노력"
-SWE_industrialeffort_desc:0 "It is time to industrilize the northern part of Sweden, starting with building more civilian factories!"
+SWE_industrialeffort_desc:0 "더 많은 민간공장을 건설해 스웨덴 북방을 산업화할 때가 왔습니다."
 SWE_steelmines:0 "강철 광산"
 SWE_steelmines_desc:0 "키루나 광산을 더 효율적으로 만드십시오."
 SWE_tungstenmines:0 "텅스텐 광산"
 SWE_tungstenmines_desc:0 "DESC HERE"
 SWE_northernrailways:0 "북방철도"
-SWE_northernrailways_desc:0 "The war against the Norweigan socialists has left a awful taste in our mouths after they completely shut us out from the mountains because of the bad infrastructure in Norway. \nWe shall not allow this to happen in the Union ever again!"
+SWE_northernrailways_desc:0 "노르웨이의 나쁜 기반시설 사정 탓에 사회주의자들이 산맥에서 우리의 접근을 차단하면서, 노르웨이 사회주의자들과의 전쟁은 쓴 맛만 남긴 채 끝나버렸습니다.\n연합에서 다시는 이런 일이 벌어지지 않도록 할 겁니다!"
 SWE_southernrailways:0 "남방철도"
 SWE_southernrailways_desc:0 "스웨덴-노르웨이 남방에 기반시설을 건설한다면 덴마크 침공이 다시 벌어졌을 때 빠르게 대처할 수 있게 됩니다."
 SWE_industrialresearch1:0 "산업연구"
@@ -160,7 +160,7 @@ SWE_giveequipmenttodenmark_desc:0 "덴마크가 전쟁 중 독일에게 당한 �
 SWE_ensurethepublic:0 "연합 보장"
 SWE_ensurethepublic_desc:0 "스웨덴-노르웨이 연합은 폭력적인 사회주의자들의 멍청한 시도를 가만두지 않을 겁니다!\n전 세계 사람들에게 사회민주정이 사회주의와 자유주의를 행할 평화로운 방식이라는 것을 알릴 것입니다."
 SWE_formtheunion1:0 "덴마크에게 가맹 제안"
-SWE_formtheunion1_desc:0 "We should invite Denmark to work with our military and vice versa!\nThe Union helped them once before, we can help them in the future too!"
+SWE_formtheunion1_desc:0 "We should invite Denmark to work with our military and vice versa!\n연합이 과거 그들을 도왔으니, 미래에도 다시 도울 수 있습니다!"
 SWE_formtheunion2:0 "대 사회주의 노르웨이 최후통첩"
 SWE_formtheunion2_desc:0 "북방의 폭력적인 사회주의자들에게서 우리의 정당한 땅을 되찾아야 합니다!\n온당히 우리 것이었을 것을 되찾을 때입니다!"
 ###SOCIAL DEMOCRAT###
@@ -170,7 +170,7 @@ SWE_givehelptodenmark_desc:0 "DESC HERE"
 SWE_constitutional_monarchy:0 "입헌군주정"
 SWE_constitutional_monarchy_desc:0 "우리는 우리 왕을 사랑합니다만, 그의 권력을 제한하고 이를 왕국의회에 줄 때가 됐습니다."
 SWE_capitalist_market_economy:0 "자본주의적 시장경제"
-SWE_capitalist_market_economy_desc:0 "온건당은 has a vision of a working union where the jobs are created by the people, companies are run by the people and the state has nothing to do with it."'
+SWE_capitalist_market_economy_desc:0 "온건당에겐, 인민이 일자리를 만들고 인민이 회사를 운영하며, 그에 아무런 개입을 하지 않는 국가라는 전망이 있습니다."'
 SWE_state_funded_construction:0 "국영회사"
 SWE_state_funded_construction_desc:0 "자본주의적 시장경제 하에서 국가는 신설 회사들을 돕기 위해 금전적인 도움을 줄 것입니다."
 SWE_unity_through_scandinavia:0 "단결된 스칸디나비아를 통한 단결"
@@ -193,7 +193,7 @@ SWE_scandinavia_desc:0 "노르드인들이 말하노니!\n이제 다시 스칸�
 
 ####RESEARCH####
 SWE_researchwiththedanish:0 "덴마크와의 연구협정"
-SWE_researchwiththedanish_desc:0 "Creating a Scandinavian research group would only benefit the Union. We should start off by getting Denmark to share their research with us."
+SWE_researchwiththedanish_desc:0 "스칸디나비아 연구집단 창립은 연합에 이익이 될 것입니다. We should start off by getting Denmark to share their research with us."
 SWE_studentsindenmark:0 "덴마크 내의 학생들"
 SWE_studentsindenmark_desc:0 "By getting an exchange program with the universities in Denmark, we can share our research even better, and educate the Union's students better!"
 
