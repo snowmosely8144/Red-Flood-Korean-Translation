@@ -78,16 +78,16 @@ BRA_reactionism_party_long:0 "Forças Armadas"
 BRA_accelerationism_party_long:0 "Grupo Dos Cinco"
 
 #LEADER DESCRITIONS#
-POLITICS_Anarchy_DESC:0 "With the civilian government collapsing into regional fighting oligarchs, all semblance of a central government has turned into a abstraction of itself."
+POLITICS_Anarchy_DESC:0 "민간정부가 지역별 과두정자들의 싸움터 수준으로 전락하면서, 중앙정부의 모든 외관은 정부 그 자체의 추상에 불과하게 되었습니다."
 #IDEAS#
 BRA_oligarchic_madness:0 "과두정의 광기"
-BRA_oligarchic_madness_desc:0 "A lot of the political power in Brazil is not in elected officials or military commanders, but in regional colonels that have their own feudal fiefdoms, militias and in some cases, currencies. This state of affairs needs to be changed for Brazil to prosper."
+BRA_oligarchic_madness_desc:0 "브라질 내의 많은 정치권력자들은 선출 관료나 군사지휘관들이 아니라, 자기들만의 봉건적 봉토와 민병대, 어떤 경우엔 자체 화폐까지 지닌 지역 대령들입니다. 브라질이 번영하려면 이 상황부터 바뀌어야 합니다."
 BRA_local_army:0 "현지 군조직들"
-BRA_local_army_desc:0 "The Brazilian army does not really exist as an institution. Instead each state has it's own army controlled by the local governor and supporting oligarchs: infighting and de-standartization is a common result of this structural autonomy."
+BRA_local_army_desc:0 "브라질군은 더 이상 하나의 기관으로서 실재하지 않습니다. 각 주는 현지 총독과 그를 지지하는 과두정자들이 통제하는 각자의 군대를 가지고 있습니다. 이러한 구조적 자치가 내분과 탈선을 일반되게 했습니다."
 BRA_revolutionary_scars:0 "혁명의 상처들"
-BRA_revolutionary_scars_desc:0 "The Pajama Coup left a large amount of ressentment, fear and hatred towards our government. We need to win the hearts and minds of the people for Brazil properly function as a revolutionary republic."
+BRA_revolutionary_scars_desc:0 "파자마 정변은 우리 정부를 향한 큰 거부감, 공포, 증오를 남겼습니다. 브라질이 혁명공화국으로서 제대로 작동하려면 인민의 생각과 마음을 얻어야 합니다."
 BRA_famine:0 "기근"
-BRA_famine_desc:0 "Famine has always been present in Brazil, but it has become so commonplace in the northeast that it is accepted as the normal state of affairs."
+BRA_famine_desc:0 "기근은 언제나 브라질에 있어왔지만, 이제 북동부에선 일반적 상황이라 받아들여질 정도로 더 잦아졌습니다."
 
 BRA_state_authority_collapse:0 "중앙국가권위의 붕괴"
 
